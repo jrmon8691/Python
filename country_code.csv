@@ -1,0 +1,8320 @@
+0
+"      Concurso Data Sorteio  Bola1  Bola2  ...  Valor_Rateio_11_NÃºmeros  Acumulado_15_NÃºmeros  Estimativa_Premio  Valor_Acumulado_Especial
+0            1   29/09/2003      2      3  ...                       200                    000                000                       000
+1            2   06/10/2003      1      4  ...                       200                    000                000                       000
+2            3   13/10/2003      1      4  ...                       200                    000                000                       000
+3            4   20/10/2003      1      2  ...                       200                    000                000                       000
+4            5   27/10/2003      1      2  ...                       200                    000                000                       000
+...        ...          ...    ...    ...  ...                       ...                    ...                ...                       ...
+2292      2293   28/07/2021      1      2  ...                       500                    000        1.500.00000              93.000.50277
+2293      2294   29/07/2021      6      7  ...                       500                    000        1.500.00000              93.337.41078
+2294      2295   30/07/2021      1      2  ...                       500                    000        1.500.00000              93.721.55677
+2295      2296   31/07/2021      2      3  ...                       500                    000        1.500.00000              94.014.59089
+2296      2297   02/08/2021      2      3  ...                       500                    000        1.500.00000              94.298.96435
+
+[2297 rows x 32 columns]"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SE"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  PE"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  PA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  PA"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  PA"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  RN"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  RO"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  AP"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  PE"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  PE"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  PE"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  PI"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  SC"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  RN"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  AC"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  RN"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  AP"
+"    0   1
+0 NaN  SE"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  SC"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SC"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  RN"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  SE"
+"    0   1
+0 NaN  AP"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  PI"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  RS"
+"    0   1
+0 NaN  SC"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SC"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  PA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  PE"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  AC"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  AP"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  PE"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  AP"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SC"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  SC"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MS"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  RN"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  PE"
+"    0   1
+0 NaN  AL"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  PR"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  AP"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  PE"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  MA"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  RJ"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  MT"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  PB"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  DF"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  CE"
+"    0   1
+0 NaN  BA"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  PA"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  AC"
+"    0   1
+0 NaN  SP"
+"    0   1
+0 NaN  ES"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  MG"
+"    0   1
+0 NaN  GO"
+"    0   1
+0 NaN  DF"
+"           0   1
+0  BRASÃLIA  DF"
+"                0   1
+0       BUERAREMA  BA
+1  RIO DE JANEIRO  RJ
+2   CAXIAS DO SUL  RS"
+"                        0   1
+0               FORTALEZA  CE
+1                GOIÃNIA  GO
+2     CORNÃLIO PROCÃPIO  PR
+3                PAICANDU  PR
+4            PORTO ALEGRE  RS
+5                 LAGARTO  SE
+6  SÃO BERNARDO DO CAMPO  SP
+7              SÃO PAULO  SP"
+"                 0   1
+0        BRASÃLIA  DF
+1         Teresina  PI
+2  RibeirÃ£o Preto  SP
+3         Sorocaba  SP"
+"                0   1
+0        IPATINGA  MG
+1  ARTUR NOGUEIRA  SP
+2  CORDEIRÃPOLIS  SP"
+"              0   1
+0      SALVADOR  BA
+1  SANTO ANDRÃ  SP"
+"                        0   1
+0                 FORMOSA  GO
+1                 APERIBE  RJ
+2                CASTILHO  SP
+3  SÃO BERNARDO DO CAMPO  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"           0   1
+0  BRASÃLIA  DF
+1   CAMPINAS  SP"
+"                       0   1
+0  SÃO VICENTE DE MINAS  MG
+1             PIRACICABA  SP
+2             SÃO PAULO  SP"
+"            0   1
+0  ARAGARÃAS  GO
+1    CAMPINAS  SP
+2  SÃO PAULO  SP"
+"       0   1
+0  MAGÃ  RJ"
+"                0   1
+0       FORTALEZA  CE
+1        GOIÃNIA  GO
+2  BELO HORIZONTE  MG
+3    JUIZ DE FORA  MG
+4         CAMETÃ  PA
+5  RIO DE JANEIRO  RJ
+6    FORQUILHINHA  SC"
+"                        0   1
+0              VILA VELHA  ES
+1  SÃO THOMÃ DAS LETRAS  MG
+2                   SALTO  SP
+3              SÃO PAULO  SP"
+"                         0   1
+0                 SALVADOR  BA
+1  SANTA BÃRBARA DO LESTE  MG
+2            GUARATINGUETA  SP
+3               SÃO PAULO  SP"
+"                 0   1
+0         SALVADOR  BA
+1  PRINCESA ISABEL  PB
+2         CAMPINAS  SP
+3           PALMAS  TO"
+"                0   1
+0       BRASÃLIA  DF
+1        GOIÃNIA  GO
+2        VENTANIA  PR
+3  RIO DE JANEIRO  RJ
+4      SÃO PAULO  SP"
+"    0   1
+0 NaN  SP"
+"        0   1
+0  BELÃM  PA"
+"                      0   1
+0       JARAGUÃ DO SUL  SC
+1                 BAURU  SP
+2  SANTA MARIA DA SERRA  SP"
+"                 0   1
+0          ILHÃUS  BA
+1         NAZÃRIO  GO
+2           BELÃM  PA
+3   RIO DE JANEIRO  RJ
+4         MOSSORÃ  RN
+5          Aracaju  SE
+6             EMBU  SP
+7     PRAIA GRANDE  SP
+8  RibeirÃ£o Preto  SP"
+"                  0   1
+0  LAURO DE FREITAS  BA
+1         BRASÃLIA  DF
+2          CASCAVEL  PR
+3           LIMEIRA  SP"
+"                         0   1
+0               MANACAPURU  AM
+1  CACHOEIRO DE ITAPEMIRIM  ES
+2                LUZIÃNIA  GO
+3    SÃO GABRIEL DO OESTE  MS
+4               ARAÃATUBA  SP
+5          RibeirÃ£o Preto  SP
+6                   SANTOS  SP"
+"                      0   1
+0         SERRANÃPOLIS  GO
+1            CATAGUASES  MG
+2  SÃO MIGUEL DO OESTE  SC
+3  SANTANA DE PARNAÃBA  SP
+4          SERTÃOZINHO  SP
+5            SÃO PAULO  SP"
+"                 0   1
+0  SÃO SEBASTIÃO  SP"
+"                0   1
+0        CATALÃO  GO
+1  RIO DE JANEIRO  RJ
+2        GUARUJÃ  SP
+3       ITANHAÃM  SP
+4            LEME  SP"
+"                0   1
+0       SÃO LUIS  MA
+1  RIO DE JANEIRO  RJ
+2      SÃO PAULO  SP"
+"            0   1
+0   BRASÃLIA  DF
+1   PAPAGAIOS  MG
+2    BLUMENAU  SC
+3    CAMPINAS  SP
+4      FRANCA  SP
+5      MOCOCA  SP
+6  SÃO PAULO  SP"
+"                      0   1
+0              SALVADOR  BA
+1      CHAPADÃO DO CEU  GO
+2  SÃO MIGUEL DO GUAMA  PA
+3              LONDRINA  PR
+4            SÃO PAULO  SP"
+"                    0   1
+0            SALVADOR  BA
+1  SÃO LUÃS DO CURU  CE
+2            CAMPINAS  SP
+3        HORTOLÃNDIA  SP
+4            Sorocaba  SP
+5          SÃO PAULO  SP"
+"                0   1
+0     MONTE SANTO  BA
+1  BELO HORIZONTE  MG"
+"                0   1
+0  BELO HORIZONTE  MG
+1        CRUZEIRO  SP"
+"         0   1
+0  MACHADO  MG"
+"            0   1
+0   BRASÃLIA  DF
+1  TAILÃNDIA  PA
+2   GUARULHOS  SP
+3  PIRACICABA  SP
+4  SÃO PAULO  SP"
+"                0   1
+0          ARAXÃ  MG
+1          BELÃM  PA
+2            INGA  PB
+3  RIO DE JANEIRO  RJ
+4      SÃO PAULO  SP"
+"                 0   1
+0  RibeirÃ£o Preto  SP
+1       SÃO PAULO  SP"
+"                     0   1
+0  GLÃRIA DE DOURADOS  MS
+1       RIO DE JANEIRO  RJ
+2           SÃO PAULO  SP"
+"       0   1
+0  PILAR  AL"
+"                 0   1
+0          VIÃOSA  MG
+1  RibeirÃ£o Preto  SP
+2          SOCORRO  SP"
+"              0   1
+0      SALVADOR  BA
+1    VILA VELHA  ES
+2  CASTELÃNDIA  GO
+3   BELO JARDIM  PE
+4      UMUARAMA  PR
+5        OSASCO  SP
+6  PILAR DO SUL  SP
+7    SÃO PAULO  SP"
+"                0   1
+0   NOVA FRIBURGO  RJ
+1  RIO DE JANEIRO  RJ"
+"            0   1
+0  SÃO PAULO  SP"
+"                   0   1
+0             MANAUS  AM
+1   FEIRA DE SANTANA  BA
+2     BELO HORIZONTE  MG
+3       PORTO ALEGRE  RS
+4           CAMPINAS  SP
+5  ENGENHEIRO COELHO  SP
+6       SANTO ANDRÃ  SP"
+"                       0   1
+0           JOÃO PESSOA  PB
+1             CAMARAGIBE  PE
+2            SANTA MARIA  RS
+3            CURITIBANOS  SC
+4              GUARULHOS  SP
+5  SÃO JOSÃ DOS CAMPOS  SP
+6           SÃO VICENTE  SP"
+"               0   1
+0  BONFINÃPOLIS  GO"
+"              0   1
+0     BRASÃLIA  DF
+1  PORTO ALEGRE  RS"
+"              0   1
+0   FILADÃLFIA  BA
+1      IPATINGA  MG
+2  JUIZ DE FORA  MG
+3       CUIABÃ  MT
+4  JAGUARIAÃVA  PR
+5    SÃO PAULO  SP
+6       UBATUBA  SP"
+"              0   1
+0    MANACAPURU  AM
+1   EMBU-GUAÃU  SP
+2    SÃO PAULO  SP
+3  SÃO VICENTE  SP"
+"                 0   1
+0         SALVADOR  BA
+1            MUQUI  ES
+2         CONTAGEM  MG
+3   RIO DE JANEIRO  RJ
+4  MARCELINO RAMOS  RS"
+"          0   1
+0  GOIÃNIA  GO
+1     BAURU  SP
+2      JAÃ  SP"
+"                          0   1
+0               SÃO MATEUS  ES
+1  JABOATÃO DOS GUARARAPES  PE"
+"              0   1
+0  ITAPETININGA  SP
+1   MOGI GUAÃU  SP
+2    SÃO PAULO  SP"
+"                0   1
+0    CAMPO GRANDE  MS
+1  RIO DE JANEIRO  RJ
+2      ARAÃATUBA  SP
+3     EMBU-GUAÃU  SP"
+"                          0   1
+0          LAURO DE FREITAS  BA
+1                  SALVADOR  BA
+2                 RIO VERDE  GO
+3                   MARABÃ  PA
+4  SÃO GERALDO DO ARAGUAIA  PA
+5               SÃO MANUEL  SP"
+"                0   1
+0  CAMPINA GRANDE  PB"
+"               0   1
+0     RIO BRANCO  AC
+1  ALTO ARAGUAIA  MT
+2     SÃO PAULO  SP"
+"                       0   1
+0                 MANAUS  AM
+1               ITAJUBÃ  MG
+2  SÃO GABRIEL DO OESTE  MS
+3        RONDON DO PARÃ  PA
+4              PETROLINA  PE
+5                DIADEMA  SP
+6             SÃO PAULO  SP
+7               TAUBATÃ  SP"
+"              0   1
+0  CAMPO GRANDE  MS
+1     JOINVILLE  SC"
+"          0   1
+0  CAXAMBÃ  MG"
+"                   0   1
+0  IPIRANGA DO NORTE  MT"
+"                         0   1
+0                 SALVADOR  BA
+1                BRASÃLIA  DF
+2             MOZARLÃNDIA  GO
+3      SÃO PEDRO DO IVAÃ  PR
+4                 PARELHAS  RN
+5                 SAUDADES  SC
+6   BOM JESUS DOS PERDÃES  SP
+7                ITÃPOLIS  SP
+8                 JUNDIAÃ  SP
+9              SÃO CARLOS  SP
+10   SÃO JOSÃ DOS CAMPOS  SP
+11              SÃO PAULO  SP"
+"                 0   1
+0       ITABIRINHA  MG
+1          NITEROI  RJ
+2  MOGI DAS CRUZES  SP
+3       SÃO PAULO  SP"
+"             0   1
+0  PORTO VELHO  RO"
+"           0   1
+0  JOINVILLE  SC"
+"                         0   1
+0                  MACEIÃ  AL
+1  SANTO ANTÃNIO DE JESUS  BA
+2                JANUÃRIA  MG
+3                   RECIFE  PE
+4                   IBIUNA  SP"
+"                          0   1
+0                  SALVADOR  BA
+1              DIVINÃPOLIS  MG
+2                    OLINDA  PE
+3      FREDERICO WESTPHALEN  RS
+4               CURITIBANOS  SC
+5            FlorianÃ³polis  SC
+6                  CAMPINAS  SP
+7                    OSASCO  SP
+8              SANTO ANDRÃ  SP
+9                  Sorocaba  SP
+10  SÃO JOSÃ DO RIO PRETO  SP"
+"                0   1
+0       FORTALEZA  CE
+1  BELO HORIZONTE  MG
+2          TOLEDO  PR
+3   NOVO HAMBURGO  RS
+4          GASPAR  SC
+5   GUARATINGUETA  SP
+6          SANTOS  SP
+7      SÃO PAULO  SP
+8          PALMAS  TO"
+"                        0   1
+0  TABOCAS DO BREJO VELHO  BA
+1               FORTALEZA  CE"
+"            0   1
+0    GOIÃNIA  GO
+1  SÃO PAULO  SP"
+"         0   1
+0  JEQUIÃ  BA"
+"                0   1
+0  PATOS DE MINAS  MG"
+"            0   1
+0   BRASÃLIA  DF
+1  ITABIRINHA  MG
+2      LAGUNA  SC
+3       ASSIS  SP
+4  SÃO PAULO  SP
+5    TAUBATÃ  SP"
+"                          0   1
+0                Manhumirim  MG
+1                  Teresina  PI
+2  Santa VitÃ³ria do Palmar  RS
+3                SÃO PAULO  SP"
+"                    0   1
+0              POJUCA  BA
+1           BRASÃLIA  DF
+2  SÃO JOÃO DEL REI  MG
+3          MANDAGUARI  PR
+4      RIO DE JANEIRO  RJ
+5       CAXIAS DO SUL  RS
+6             Aracaju  SE
+7        MOITA BONITA  SE
+8          ARAÃATUBA  SP"
+"               0   1
+0      ANÃPOLIS  GO
+1      SÃO LUIS  MA
+2  SÃO LEOPOLDO  RS
+3     SÃO PAULO  SP"
+"                        0   1
+0                COLATINA  ES
+1          BELO HORIZONTE  MG
+2  SÃO JOSÃ DOS PINHAIS  PR
+3                CAMPINAS  SP
+4              SÃO PAULO  SP"
+"           0   1
+0  BRASÃLIA  DF"
+"                0   1
+0        GOIÃNIA  GO
+1         MACHADO  MG
+2        Teresina  PI
+3  RIO DE JANEIRO  RJ
+4           BAURU  SP"
+"                  0   1
+0            MANAUS  AM
+1  NAZARÃ PAULISTA  SP"
+"                 0   1
+0        BRASÃLIA  DF
+1         MARINGÃ  PR
+2  TRINDADE DO SUL  RS
+3         TUBARÃO  SC
+4       PENÃPOLIS  SP
+5       SÃO PAULO  SP"
+"          0   1
+0  ARMAZÃM  SC"
+"          0   1
+0  SALVADOR  BA"
+"          0   1
+0  SALVADOR  BA"
+"            0   1
+0   BRASÃLIA  DF
+1      LAVRAS  MG
+2    CASCAVEL  PR
+3    UMUARAMA  PR
+4      FRANCA  SP
+5   GUARULHOS  SP
+6  SÃO PAULO  SP"
+"                0   1
+0        ARAGUARI  MG
+1  RIO DE JANEIRO  RJ
+2     PORTO VELHO  RO
+3         SARANDI  RS
+4  CAPELA DO ALTO  SP"
+"                 0   1
+0  CRUZEIRO DO SUL  AC
+1           MANAUS  AM
+2   RIO DE JANEIRO  RJ
+3       SÃO PAULO  SP"
+"              0   1
+0  JOÃO PESSOA  PB"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1     VOLTA REDONDA  RJ"
+"                        0   1
+0              CHAPADINHA  MA
+1   PALMEIRA DAS MISSÃES  RS
+2  SANTA BÃRBARA D OESTE  SP
+3              SÃO PAULO  SP"
+"           0   1
+0  ITABERABA  BA
+1   DOURADOS  MS
+2   Teresina  PI
+3   CAMPINAS  SP"
+"          0   1
+0  SALVADOR  BA
+1    BELÃM  PA
+2    CAMBÃ  PR
+3     LAGES  SC"
+"            0   1
+0     LIMEIRA  SP
+1  SÃO PAULO  SP"
+"         0   1
+0  Aracaju  SE"
+"          0   1
+0  ARARUAMA  RJ"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1           COTIA  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                        0   1
+0               BARREIRAS  BA
+1  SÃO LOURENÃO DA MATA  PE
+2                CAMPINAS  SP
+3                OURINHOS  SP"
+"            0   1
+0    IMBITUBA  SC
+1  PENÃPOLIS  SP"
+"                      0   1
+0             BRASÃLIA  DF
+1  CONSELHEIRO LAFAIETE  MG
+2             SELVÃRIA  MS
+3              CAMPINAS  SP
+4              GUARUJÃ  SP
+5       RibeirÃ£o Preto  SP
+6            SÃO PAULO  SP"
+"                     0   1
+0           VILA VELHA  ES
+1            SÃO LUIS  MA
+2             Teresina  PI
+3              EQUADOR  RN
+4           GUARARAPES  SP
+5  PRESIDENTE PRUDENTE  SP
+6           SÃO PAULO  SP
+7           ARAGUAÃNA  TO"
+"                0   1
+0        SALVADOR  BA
+1  CARLOS BARBOSA  RS
+2         OSÃRIO  RS"
+"                0   1
+0  BELO HORIZONTE  MG
+1      NOVA MUTUM  MT
+2      SÃO PAULO  SP"
+"          0   1
+0   SALINAS  MG
+1  JACAREÃ  SP"
+"              0   1
+0      LONDRINA  PR
+1  PORTO ALEGRE  RS"
+"          0   1
+0  TAUBATÃ  SP"
+"                         0   1
+0                 SALVADOR  BA
+1     CARMÃPOLIS DE MINAS  MG
+2              UBERLÃNDIA  MG
+3             CAMPO GRANDE  MS
+4       PORTO DOS GAÃCHOS  MT
+5                  CARUARU  PE
+6            VOLTA REDONDA  RJ
+7                  Aracaju  SE
+8              CARAPICUIBA  SP
+9                    MAUÃ  SP
+10  SÃO BERNARDO DO CAMPO  SP
+11              SÃO PAULO  SP"
+"            0   1
+0  NERÃPOLIS  GO
+1     CUIABÃ  MT"
+"       0   1
+0  NATAL  RN"
+"                0   1
+0  VÃRZEA ALEGRE  CE
+1        CONTAGEM  MG
+2         CUIABÃ  MT
+3        Curitiba  PR
+4     PINHALZINHO  SC
+5          CAJURU  SP
+6      SÃO PAULO  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1       NOVA LIMA  MG
+2     PORTO VELHO  RO
+3      SÃO PAULO  SP"
+"                       0   1
+0              SÃO LUIS  MA
+1               PAUDALHO  PE
+2           PORTO ALEGRE  RS
+3              JOINVILLE  SC
+4              GUARULHOS  SP
+5                   ICEM  SP
+6                 OSASCO  SP
+7             PROMISSÃO  SP
+8  SÃO JOSÃ DOS CAMPOS  SP
+9             SÃO PAULO  SP"
+"            0   1
+0    VITÃRIA  ES
+1    GOIÃNIA  GO
+2     ITAJAÃ  SC
+3  PROMISSÃO  SP"
+"                0   1
+0          MANAUS  AM
+1  RIO DE JANEIRO  RJ
+2        CAMPINAS  SP"
+"                     0   1
+0               RECIFE  PE
+1              XAMBRÃ  PR
+2  SÃO CAETANO DO SUL  SP"
+"                        0   1
+0                 ITABUNA  BA
+1                  TOLEDO  PR
+2               ARIQUEMES  RO
+3  SÃO BERNARDO DO CAMPO  SP"
+"                        0   1
+0       JUAZEIRO DO NORTE  CE
+1                 ARUANÃ  GO
+2              IMPERATRIZ  MA
+3                  BELÃM  PA
+4  SÃO JOSÃ DO BARREIRO  SP"
+"                      0   1
+0                  CATU  BA
+1              GOIÃNIA  GO
+2          CAMPO GRANDE  MS
+3               POCONÃ  MT
+4  CACHOEIRAS DE MACACU  RJ
+5              CAIEIRAS  SP"
+"          0   1
+0   TUPASSI  PR
+1  TAUBATÃ  SP"
+"                0   1
+0  NEVES PAULISTA  SP
+1          OSASCO  SP"
+"       0   1
+0  BAURU  SP"
+"                        0   1
+0                  MANAUS  AM
+1               FORTALEZA  CE
+2               BRASÃLIA  DF
+3                 POCRANE  MG
+4                  TOLEDO  PR
+5             FARROUPILHA  RS
+6                    JAÃ  SP
+7  SÃO BERNARDO DO CAMPO  SP"
+"              0   1
+0      VITÃRIA  ES
+1       NITEROI  RJ
+2      CAMPINAS  SP
+3  PIRASSUNUNGA  SP"
+"                       0   1
+0             LEOPOLDINA  MG
+1         PARÃ DE MINAS  MG
+2            UBERLÃNDIA  MG
+3        FAGUNDES VARELA  RS
+4          NOVO HAMBURGO  RS
+5               CAMPINAS  SP
+6  SÃO JOSÃ DOS CAMPOS  SP
+7             SÃO PAULO  SP"
+"                         0   1
+0  SÃO FÃLIX DO ARAGUAIA  MT
+1                   AMPARO  SP
+2               ARAÃATUBA  SP
+3             SÃO VICENTE  SP"
+"          0   1
+0  TERESINA  PI
+1    ARARAS  SP"
+"          0   1
+0  SALVADOR  BA"
+"              0   1
+0      SALVADOR  BA
+1     BRASÃLIA  DF
+2   SETE LAGOAS  MG
+3  PRAIA GRANDE  SP
+4        SANTOS  SP"
+"             0   1
+0  PATROCÃNIO  MG
+1      UBERABA  MG
+2       CUPIRA  PE
+3   SÃO PAULO  SP"
+"         0   1
+0  RESENDE  RJ"
+"         0   1
+0  TIJUCAS  SC"
+"            0   1
+0    CONTAGEM  MG
+1  SÃO PAULO  SP"
+"             0   1
+0  SANTA LUZIA  MG
+1     CAMPINAS  SP
+2   SÃO PAULO  SP"
+"           0   1
+0   SALVADOR  BA
+1    NANUQUE  MG
+2     BELÃM  PA
+3  SANTARÃM  PA
+4      NATAL  RN"
+"            0   1
+0  SÃO PAULO  SP"
+"               0   1
+0        ILHÃUS  BA
+1       SALVADOR  BA
+2    SÃO MATEUS  ES
+3  SERRANÃPOLIS  GO
+4      NOVA LIMA  MG
+5   PORTO ALEGRE  RS
+6       PERUÃBE  SP
+7     SÃO PAULO  SP"
+"              0   1
+0     BRASÃLIA  DF
+1      VITÃRIA  ES
+2      CONTAGEM  MG
+3     GUANHÃES  MG
+4  JOÃO PESSOA  PB
+5   PORTO VELHO  RO
+6  PORTO ALEGRE  RS"
+"            0   1
+0    GOIÃNIA  GO
+1  CENTRALINA  MG"
+"            0   1
+0    SALVADOR  BA
+1    GOIÃNIA  GO
+2  SÃO PAULO  SP"
+"                0   1
+0         ITABELA  BA
+1  BELO HORIZONTE  MG"
+"          0   1
+0  GOIÃNIA  GO
+1    OSASCO  SP"
+"            0   1
+0    IPATINGA  MG
+1  SÃO PAULO  SP"
+"                 0   1
+0        CAMAÃARI  BA
+1   BELO HORIZONTE  MG
+2   RIO DE JANEIRO  RJ
+3  MOGI DAS CRUZES  SP"
+"             0   1
+0  PETRÃPOLIS  RJ
+1      DIADEMA  SP
+2     GUARUJÃ  SP
+3   ARAGUAÃNA  TO"
+"                     0   1
+0      BARRA DO CHOÃA  BA
+1              BRUMADO  BA
+2              ARACRUZ  ES
+3           CANÃPOLIS  MG
+4         CAMPO GRANDE  MS
+5               RECIFE  PE
+6      BRAÃO DO NORTE  SC
+7  PARAGUAÃU PAULISTA  SP"
+"                0   1
+0       CAMAÃARI  BA
+1        SALVADOR  BA
+2       BRASÃLIA  DF
+3  FlorianÃ³polis  SC"
+"          0   1
+0  SALVADOR  BA"
+"                       0   1
+0             VILA VELHA  ES
+1              ITAPERUNA  RJ
+2  SÃO JOSÃ DOS CAMPOS  SP"
+"            0   1
+0      ILHOTA  SC
+1       MAUÃ  SP
+2  SÃO PAULO  SP"
+"                      0   1
+0              SALVADOR  BA
+1              CASCAVEL  CE
+2        BELO HORIZONTE  MG
+3       TENENTE PORTELA  RS
+4  BALNEÃRIO CAMBORIÃ  SC
+5               ATIBAIA  SP"
+"                         0   1
+0               CAMARAGIBE  PE
+1                 BLUMENAU  SC
+2  SÃO JOSÃ DO RIO PRETO  SP
+3               SÃO PAULO  SP"
+"               0   1
+0    PEDRA PRETA  MT
+1  CAXIAS DO SUL  RS"
+"              0   1
+0  NOVA MAMORÃ  RO
+1          POÃ  SP
+2        SANTOS  SP"
+"                       0   1
+0             RIO BRANCO  AC
+1  APARECIDA DE GOIÃNIA  GO"
+"              0   1
+0      SALVADOR  BA
+1     ITIRAPUÃ  SP
+2  SANTO ANDRÃ  SP"
+"                0   1
+0    DIVINÃPOLIS  MG
+1    CAMPO GRANDE  MS
+2  RIO DE JANEIRO  RJ
+3      SÃO PAULO  SP"
+"                         0   1
+0                BARREIRAS  BA
+1                ITABIRITO  MG
+2     BALNEÃRIO CAMBORIÃ  SC
+3  SANTA CRUZ DO RIO PARDO  SP"
+"                       0   1
+0               LAJEDÃO  BA
+1               PARACATU  MG
+2  SÃO JOSÃ DOS CAMPOS  SP"
+"                        0   1
+0                SALVADOR  BA
+1               BRASÃLIA  DF
+2          BELO HORIZONTE  MG
+3                IGARASSU  PE
+4           CAXIAS DO SUL  RS
+5                TUBARÃO  SC
+6  SÃO BERNARDO DO CAMPO  SP"
+"               0   1
+0      RIO VERDE  GO
+1   FELIXLÃNDIA  MG
+2  Montes Claros  MG
+3         MACAÃ  RJ
+4         OSASCO  SP"
+"            0   1
+0  CATAGUASES  MG
+1      MOCOCA  SP"
+"          0   1
+0  LONDRINA  PR
+1  CAMPINAS  SP"
+"                  0   1
+0  FEIRA DE SANTANA  BA"
+"           0   1
+0  ANÃPOLIS  GO"
+"            0   1
+0      ASSAÃ  PR
+1    Curitiba  PR
+2  SÃO PAULO  SP"
+"                0   1
+0    PASSA QUATRO  MG
+1  MUNHOZ DE MELO  PR
+2     BARRA MANSA  RJ
+3       ALUMÃNIO  SP
+4         DIADEMA  SP
+5   GUARATINGUETA  SP
+6            JAÃ  SP
+7         LIMEIRA  SP
+8      SÃO PAULO  SP"
+"             0   1
+0   CABECEIRAS  GO
+1     Teresina  PI
+2  MONTE NEGRO  RO"
+"                    0   1
+0  LIMOEIRO DE ANADIA  AL
+1            GOIÃNIA  GO"
+"           0   1
+0  FORTALEZA  CE
+1  BRASÃLIA  DF"
+"            0   1
+0    Teresina  PI
+1  SÃO PAULO  SP"
+"                         0   1
+0           RIO DE JANEIRO  RJ
+1  SÃO JOSÃ DO RIO PRETO  SP
+2               SÃO PAULO  SP"
+"                       0   1
+0  VITÃRIA DA CONQUISTA  BA
+1                  BETIM  MG"
+"              0   1
+0  SANTO ANDRÃ  SP
+1    SÃO PAULO  SP"
+"              0   1
+0   HORIZONTINA  RS
+1  PORTO ALEGRE  RS"
+"            0   1
+0     CUIABÃ  MT
+1  SÃO PAULO  SP"
+"        0   1
+0  AGUDOS  SP"
+"                       0   1
+0  VITÃRIA DA CONQUISTA  BA"
+"         0   1
+0   RECIFE  PE
+1  SARANDI  PR"
+"                  0   1
+0       PARAUAPEBAS  PA
+1         GUARABIRA  PB
+2       SÃO RAFAEL  RN
+3           Aracaju  SE
+4  FRANCISCO MORATO  SP
+5        SÃO PAULO  SP"
+"                       0   1
+0              RIO VERDE  GO
+1                 LOANDA  PR
+2         RIO DE JANEIRO  RJ
+3            SANTA MARIA  RS
+4                DIADEMA  SP
+5  FERRAZ DE VASCONCELOS  SP"
+"                    0   1
+0  ITAJÃ DO COLÃNIA  BA
+1           RIO CASCA  MG
+2             SABARÃ  MG"
+"            0   1
+0    Curitiba  PR
+1  SÃO PAULO  SP"
+"              0   1
+0      SALVADOR  BA
+1  BELFORD ROXO  RJ
+2       ATIBAIA  SP
+3      CAPIVARI  SP
+4      JUNDIAÃ  SP"
+"              0   1
+0      Curitiba  PR
+1  SÃO VICENTE  SP"
+"                      0   1
+0             MORRINHOS  GO
+1            IMPERATRIZ  MA
+2  CONSELHEIRO LAFAIETE  MG
+3               LAGARTO  SE
+4           JAGUARIÃNA  SP
+5             SÃO PULO  SP"
+"              0   1
+0  ESPERA FELIZ  MG
+1       MACHADO  MG
+2  CACHOEIRINHA  RS"
+"              0   1
+0     BRASÃLIA  DF
+1  TrÃªs Lagoas  MS
+2        Uruara  PA
+3  Silva Jardim  RJ
+4    SÃO PAULO  SP"
+"            0   1
+0    GOIÃNIA  GO
+1    ARAMBARE  RS
+2  MOGI MIRIM  SP"
+"                0   1
+0     CANAVIEIRAS  BA
+1        MINEIROS  GO
+2          RECIFE  PE
+3  RIO DE JANEIRO  RJ"
+"                 0   1
+0           MANAUS  AM
+1      SÃO MATEUS  ES
+2    TEOFILO OTONI  MG
+3          CAMAQUA  RS
+4  JARAGUÃ DO SUL  SC
+5         CAMPINAS  SP
+6       SÃO PAULO  SP"
+"                       0   1
+0               GOIÃNIA  GO
+1  ARMAÃÃO DOS BÃZIOS  RJ"
+"          0   1
+0  MINEIROS  GO
+1  LIMOEIRO  PE
+2  ITAGUAÃ  RJ"
+"           0   1
+0  ITARANTIM  BA
+1  ANÃPOLIS  GO
+2      VIANA  MA
+3     LAVRAS  MG"
+"                        0   1
+0  FIGUEIROPOLIS DO OESTE  MT
+1                  BELÃM  PA"
+"              0   1
+0  PORTO ALEGRE  RS
+1        GARÃA  SP
+2      Sorocaba  SP"
+"            0   1
+0     VACARIA  RS
+1  SÃO PAULO  SP"
+"            0   1
+0      OSASCO  SP
+1  SÃO PAULO  SP"
+"                       0   1
+0       LAURO DE FREITAS  BA
+1  SANTA BÃRBARA DO SUL  RS"
+"                  0   1
+0  NOVA PORTEIRINHA  MG
+1          CAMPINAS  SP"
+"             0   1
+0     MARINGÃ  PR
+1  PASSO FUNDO  RS
+2     JUNDIAÃ  SP
+3     Sorocaba  SP
+4   SÃO PAULO  SP"
+"          0   1
+0  VALENÃA  BA
+1  GOIÃNIA  GO"
+"               0   1
+0  GUARATINGUETA  SP"
+"            0   1
+0     ILHÃUS  BA
+1  IMPERATRIZ  MA
+2      SIRIRI  SE
+3       TUPÃ  SP"
+"              0   1
+0      SALVADOR  BA
+1     MIRADOURO  MG
+2  JOÃO PESSOA  PB"
+"             0   1
+0  SETE LAGOAS  MG
+1       BELÃM  PA"
+"                        0   1
+0               RIO VERDE  GO
+1              SÃO PAULO  SP
+2  VARGEM GRANDE PAULISTA  SP"
+"                        0   1
+0   SANTANA DO LIVRAMENTO  RS
+1                CAMPINAS  SP
+2  SÃO BERNARDO DO CAMPO  SP"
+"                         0   1
+0                   MANAUS  AM
+1                 SALVADOR  BA
+2  CACHOEIRO DE ITAPEMIRIM  ES
+3           BELO HORIZONTE  MG
+4                 Curitiba  PR
+5   SÃO JOSÃ DOS PINHAIS  PR
+6                 CHAPECÃ  SC
+7                  ITATIBA  SP
+8                 Sorocaba  SP"
+"             0   1
+0  UBERLÃNDIA  MG
+1   SÃO PAULO  SP"
+"                  0   1
+0         BRASÃLIA  DF
+1    BELO HORIZONTE  MG
+2            BELÃM  PA
+3    RIO DE JANEIRO  RJ
+4       NOVA VENEZA  SC
+5  FRANCISCO MORATO  SP
+6         GUARULHOS  SP"
+"                       0   1
+0               MONTANHA  ES
+1           JOÃO PESSOA  PB
+2                 RECIFE  PE
+3  CAMPOS DOS GOYTACAZES  RJ
+4          GUARATINGUETA  SP
+5                PIQUETE  SP"
+"                             0   1
+0                   TERRA NOVA  BA
+1                    BRASÃLIA  DF
+2                     IBIRITÃ  MG
+3  SÃO SEBASTIÃO DO PARAÃSO  MG
+4                        UNAÃ  MG
+5                     Teresina  PI
+6                   SÃO PAULO  SP"
+"                    0   1
+0  PRIMAVERA DO LESTE  MT
+1              RECIFE  PE
+2           ENCANTADO  RS
+3             LIMEIRA  SP
+4            LOUVEIRA  SP"
+"                       0   1
+0              BARREIRAS  BA
+1  APARECIDA DE GOIÃNIA  GO"
+"            0   1
+0  SÃO PAULO  SP"
+"               0   1
+0     MANACAPURU  AM
+1         MANAUS  AM
+2       SALVADOR  BA
+3      FORTALEZA  CE
+4      BRASÃLIA  DF
+5        ALFENAS  MG
+6   LAGOA GRANDE  MG
+7        PINHAIS  PR
+8  SÃO GONÃALO  RJ
+9     SÃO PAULO  SP"
+"                         0   1
+0            SIMÃES FILHO  BA
+1  CONCEIÃÃO DAS ALAGOAS  MG
+2                     UNAI  MG
+3                ARAPONGAS  PR
+4             LAURO MULLER  SC
+5           LUÃS ANTÃNIO  SP
+6                 PANORAMA  SP
+7   SÃO BERNARDO DO CAMPO  SP
+8    SÃO JOSÃ DOS CAMPOS  SP"
+"            0   1
+0     ITABUNA  BA
+1    GOIÃNIA  GO
+2     ANHUMAS  SP
+3      MATÃO  SP
+4  SÃO PAULO  SP"
+"                         0   1
+0                BRASÃLIA  DF
+1  FORTALEZA DOS NOGUEIRAS  MA
+2             JUIZ DE FORA  MG
+3             JOÃO PESSOA  PB
+4                    PICOS  PI
+5                 CASCAVEL  PR
+6         FORMOSA DO OESTE  PR
+7               SÃO PAULO  SP"
+"            0   1
+0       TAUÃ  CE
+1  GOIANÃSIA  GO
+2       BETIM  MG
+3  QUERÃNCIA  MT
+4   SCHROEDER  SC
+5  SÃO PAULO  SP"
+"            0   1
+0      MANAUS  AM
+1    CASCAVEL  CE
+2  GUARAPUAVA  PR"
+"                  0   1
+0  PRESIDENTE DUTRA  MA
+1             NATAL  RN
+2  CERQUEIRA CÃSAR  SP
+3           TAIÃVA  SP"
+"            0   1
+0   CARIACICA  ES
+1    CAÃADOR  SC
+2  ARAÃATUBA  SP"
+"                0   1
+0        CONTAGEM  MG
+1  Angra dos Reis  RJ
+2         SOCORRO  SP"
+"           0   1
+0  QUEIMADOS  RJ"
+"                        0   1
+0               BRASÃLIA  DF
+1                 CUIABÃ  MT
+2                  BELÃM  PA
+3  SANTA BÃRBARA D OESTE  SP"
+"                            0   1
+0                       SERRA  ES
+1   SANTA TEREZINHA DE GOIÃS  GO
+2                    CONTAGEM  MG
+3                    Curitiba  PR
+4              GUAJARÃ-MIRIM  RO
+5                   CANELINHA  SC
+6                   JOINVILLE  SC
+7                       LAGES  SC
+8                  RIO DO SUL  SC
+9                   GUARULHOS  SP
+10                 INDAIATUBA  SP
+11                       LEME  SP
+12                 SÃO PAULO  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1  RIO DE JANEIRO  RJ
+2      SÃO PAULO  SP
+3          PALMAS  TO"
+"            0   1
+0    JUAZEIRO  BA
+1       VIANA  MA
+2  SÃO PAULO  SP"
+"                          0   1
+0                   JEQUIÃ  BA
+1                   SANTANA  BA
+2     VITÃRIA DA CONQUISTA  BA
+3                  JAGUARÃ  ES
+4                  GOIÃNIA  GO
+5              CAMPO GRANDE  MS
+6                  GRAVATÃ  PE
+7              CLEVELÃNDIA  PR
+8                  Curitiba  PR
+9                  UMUARAMA  PR
+10                CABO FRIO  RJ
+11           RIO DE JANEIRO  RJ
+12                    NATAL  RN
+13             CACHOEIRINHA  RS
+14                  LAJEADO  RS
+15            NOVO HAMBURGO  RS
+16             PORTO ALEGRE  RS
+17                CRICIÃMA  SC
+18                ALUMÃNIO  SP
+19                 CAMPINAS  SP
+20                    COTIA  SP
+21                      ITU  SP
+22  SÃO JOSÃ DO RIO PRETO  SP
+23               SÃO PAULO  SP"
+"                 0   1
+0          MACEIÃ  AL
+1         CAITITÃ  BA
+2   BELO HORIZONTE  MG
+3  FONTOURA XAVIER  RS"
+"                    0   1
+0              MANAUS  AM
+1  LARANJEIRAS DO SUL  PR
+2      FlorianÃ³polis  SC
+3            CAMPINAS  SP
+4     MOGI DAS CRUZES  SP
+5              OSASCO  SP
+6          SÃO PAULO  SP"
+"             0   1
+0  TUMIRITINGA  MG
+1     CASCAVEL  PR
+2        BAURU  SP"
+"                      0   1
+0  VALPARAISO DE GOIÃS  GO
+1               BACABAL  MA
+2              MARINGÃ  PR
+3        RIO DE JANEIRO  RJ
+4             GUARULHOS  SP
+5       RIBEIRÃO PRETO  SP"
+"                        0   1
+0                GOIÃNIA  GO
+1                 SORRISO  MT
+2    CAMPOS DOS GOYTACAZE  RJ
+3                  JAPERI  RJ
+4              CATANDUVAS  SC
+5                GUARUJÃ  SP
+6                    JAÃ  SP
+7    PRESIDENTE VENCESLAU  SP
+8   SÃO JOSÃ DOS CAMPOS  SP
+9              SÃO PAULO  SP
+10             ARAGUAÃNA  TO"
+"                     0   1
+0       BELO HORIZONTE  MG
+1              CUIABÃ  MT
+2            JOINVILLE  SC
+3  PRESIDENTE GETÃLIO  SC
+4         ITAPETININGA  SP"
+"             0   1
+0       CACOAL  RO
+1     ALEGRETE  RS
+2  NOVA EUROPA  SP"
+"                     0   1
+0         PAULO AFONSO  BA
+1  PRESIDENTE PRUDENTE  SP"
+"                        0   1
+0               FORTALEZA  CE
+1                 CUIABÃ  MT
+2                CURITIBA  PR
+3              PROMISSÃO  SP
+4  SÃO BERNARDO DO CAMPO  SP
+5              SÃO PAULO  SP"
+"                        0   1
+0                SERRINHA  BA
+1               FORTALEZA  CE
+2                CIANORTE  PR
+3                MORRETES  PR
+4             PORTO VELHO  RO
+5                  ITAQUI  RS
+6              PIRACICABA  SP
+7  SÃO BERNARDO DO CAMPO  SP"
+"             0   1
+0     CURITIBA  PR
+1  CARAPICUIBA  SP
+2       TIETÃ  SP"
+"          0   1
+0  SALVADOR  BA
+1  LINHARES  ES"
+"              0   1
+0     ITABERABA  BA
+1       CUIABÃ  MT
+2     GUARULHOS  SP
+3  SANTO ANDRÃ  SP
+4    SÃO PAULO  SP"
+"                   0   1
+0          SOORETAMA  ES
+1           VITÃRIA  ES
+2         MONTIVIDIU  GO
+3      SERRANÃPOLIS  GO
+4            ALFENAS  MG
+5     BELO HORIZONTE  MG
+6            MURIAÃ  MG
+7       CAMPO GRANDE  MS
+8             RECIFE  PE
+9     RIO DE JANEIRO  RJ
+10   FONTOURA XAVIER  RS
+11  JOSÃ BONIFÃCIO  SP"
+"                      0   1
+0  PALMAS DE MONTE ALTO  BA
+1              MARINGÃ  PR
+2   SÃO PEDRO DO TURVO  SP"
+"                0   1
+0        IPATINGA  MG
+1    CAMPO GRANDE  MS
+2  FLORIANÃPOLIS  SC
+3        GUARUJÃ  SP
+4    SANTO ANDRÃ  SP
+5      SÃO PAULO  SP
+6        TAUBATÃ  SP"
+"          0   1
+0  Curitiba  PR"
+"                      0   1
+0  BALNEÃRIO CAMBORIÃ  SC
+1              MARÃLIA  SP"
+"          0   1
+0  SALVADOR  BA"
+"            0   1
+0    SALVADOR  BA
+1   JOINVILLE  SC
+2  SÃO PAULO  SP"
+"                        0   1
+0             UBERLÃNDIA  MG
+1  SÃO BERNARDO DO CAMPO  SP
+2              SÃO PAULO  SP
+3     FORMOSO DO ARAGUAIA  TO"
+"                  0   1
+0         BUERAREMA  BA
+1      CALDAS NOVAS  GO
+2          GOIÃNIA  GO
+3         SANTARÃM  PA
+4      PORTO ALEGRE  RS
+5        SÃO PAULO  SP
+6  TABOÃO DA SERRA  SP"
+"          0   1
+0  GOIÃNIA  GO"
+"                0   1
+0      PARANAÃBA  MS
+1  VÃRZEA GRANDE  MT
+2       MONGAGUÃ  SP"
+"                       0   1
+0  VITÃRIA DA CONQUISTA  BA
+1               MOMBAÃA  CE
+2         BELO HORIZONTE  MG
+3          MONTES CLAROS  MG
+4                ROMARIA  MG
+5            SETE LAGOAS  MG
+6            CAMPO VERDE  MT
+7              CANTAGALO  RJ
+8    SÃO CAETANO DO SUL  SP
+9             SÃO PAULO  SP"
+"              0   1
+0        MANAUS  AM
+1    CRISTALINA  GO
+2      PARACATU  MG
+3  TRÃS LAGOAS  MS
+4      CURITIBA  PR
+5     BEBEDOURO  SP"
+"              0   1
+0     BRASÃLIA  DF
+1       FORMOSA  GO
+2      GILBUÃS  PI
+3  CAMPOS NOVOS  SC
+4      CAMPINAS  SP
+5     ARAGUAINA  TO"
+"                0   1
+0  BELO HORIZONTE  MG
+1      TRAMANDAÃ  RS"
+"           0   1
+0  CARIACICA  ES
+1    ITABIRA  MG
+2  APUCARANA  PR
+3     IÃARA  SC"
+"                       0   1
+0               SALVADOR  BA
+1  CAMPO NOVO DO PARECIS  MT
+2               CURITIBA  PR"
+"                 0   1
+0         GOIÃNIA  GO
+1  MENDES PIMENTEL  MG
+2   RIO DE JANEIRO  RJ
+3   FLORIANÃPOLIS  SC
+4       SÃO PAULO  SP"
+"                      0   1
+0        RIO DE JANEIRO  RJ
+1  SÃO JOÃO DE MERITI  RJ
+2               ITAJAÃ  SC
+3              CAMPINAS  SP"
+"           0   1
+0     RECIFE  PE
+1  CARAZINHO  RS"
+"               0   1
+0        ITABUNA  BA
+1    PORTO VELHO  RO
+2        PIEDADE  SP
+3  PONTES GESTAL  SP
+4     SÃO PAULO  SP"
+"         0   1
+0  ALTINHO  PE"
+"            0   1
+0  SÃO PAULO  SP
+1     VINHEDO  SP"
+"              0   1
+0         TAUÃ  CE
+1     BRASÃLIA  DF
+2  POUSO ALEGRE  MG"
+"                 0   1
+0        BRASÃLIA  DF
+1         MIRACEMA  RJ
+2         NITERÃI  RJ
+3   RIO DE JANEIRO  RJ
+4         BLUMENAU  SC
+5  PEREIRA BARRETO  SP"
+"                                0   1
+0                         ILHÃUS  BA
+1           VITÃRIA DA CONQUISTA  BA
+2                          CAXIAS  MA
+3                        CONTAGEM  MG
+4   SÃO SEBASTIÃO DA BELA VISTA  MG
+5                     PONTA PORÃ  MS
+6                          XEXÃU  PE
+7                           MAGÃ  RJ
+8                  RIO DE JANEIRO  RJ
+9                         DIADEMA  SP
+10                      GUARULHOS  SP
+11                   PRAIA GRANDE  SP
+12                     SÃO PAULO  SP"
+"                     0   1
+0        NILO PEÃANHA  BA
+1       BELO HORIZONTE  MG
+2               PASSOS  MG
+3  ASSIS CHATEAUBRIAND  PR
+4          PETRÃPOLIS  RJ
+5        SÃO GONÃALO  RJ
+6           SÃO PAULO  SP
+7         SÃO VICENTE  SP"
+"                       0   1
+0                  SERRA  ES
+1             POUSO ALTO  MG
+2         RIO DE JANEIRO  RJ
+3  SÃO FRANCISCO DO SUL  SC
+4              GUARULHOS  SP
+5           SANTO ANDRÃ  SP
+6                 SUZANO  SP
+7  SÃO JOSÃ DOS CAMPOS  SP
+8             SÃO PAULO  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1      SÃO PAULO  SP"
+"            0   1
+0     Aracaju  SE
+1  SÃO PAULO  SP"
+"              0   1
+0  JOÃO PESSOA  PB
+1    SÃO PAULO  SP"
+"             0   1
+0   RIO BRANCO  AC
+1       MARAÃ  BA
+2  PAULO RAMOS  MA
+3   GUARAPUAVA  PR
+4       CAJURU  SP"
+"               0   1
+0  FIRMINÃPOLIS  GO
+1     SÃO PAULO  SP"
+"                  0   1
+0         BRASÃLIA  DF
+1         ANÃPOLIS  GO
+2        IMPERATRIZ  MA
+3  POÃOS DE CALDAS  MG
+4        PIRACICABA  SP
+5        SÃO PAULO  SP"
+"           0   1
+0  FORTALEZA  CE"
+"              0   1
+0  PRAIA GRANDE  SP
+1    SÃO PAULO  SP"
+"            0   1
+0  CORRENTINA  BA
+1  JI-PARANÃ  RO"
+"             0   1
+0      MARIANA  MG
+1  PORTO VELHO  RO"
+"                0   1
+0  BELO HORIZONTE  MG
+1        ARACAJÃ  SE"
+"           0   1
+0       CATU  BA
+1  ANÃPOLIS  GO
+2     BELÃM  PA
+3  PETROLINA  PE
+4   CURITIBA  PR
+5    ATIBAIA  SP
+6    ITAPIRA  SP
+7       JAÃ  SP"
+"                          0   1
+0  JABOATÃO DOS GUARARAPES  PE
+1         SANTA CRUZ DO SUL  RS"
+"                0   1
+0       BRASÃLIA  DF
+1  RIO DE JANEIRO  RJ
+2    PORTO ALEGRE  RS
+3      ARARAQUARA  SP"
+"              0   1
+0     FORTALEZA  CE
+1       RESENDE  RJ
+2       AREALVA  SP
+3        FRANCA  SP
+4  SANTO ANDRÃ  SP
+5         TUPÃ  SP"
+"                       0   1
+0  APARECIDA DE GOIÃNIA  GO
+1             SÃO PAULO  SP"
+"             0   1
+0  CAMPO LARGO  PR"
+"            0   1
+0  SÃO PAULO  SP"
+"          0   1
+0  MATINHOS  PR"
+"                         0   1
+0                  ARACAJU  SE
+1                 CAMPINAS  SP
+2  SÃO JOSÃ DO RIO PRETO  SP
+3               SÃO PAULO  SP"
+"           0   1
+0  ITANHAÃM  SP"
+"                0   1
+0  INDEPENDÃNCIA  CE
+1  BELO HORIZONTE  MG"
+"              0   1
+0      SALVADOR  BA
+1   UBERLÃNDIA  MG
+2  SÃO GABRIEL  RS
+3      CAMPINAS  SP"
+"           0   1
+0  BRASÃLIA  DF"
+"            0   1
+0     ITAPEMA  SC
+1  SÃO PAULO  SP"
+"               0   1
+0      BRASÃLIA  DF
+1       GOIÃNIA  GO
+2  CAXIAS DO SUL  RS"
+"            0   1
+0    SALVADOR  BA
+1     BRUSQUE  SC
+2  SÃO PAULO  SP"
+"                       0   1
+0     MARCIONÃLIO SOUZA  BA
+1  APARECIDA DE GOIÃNIA  GO
+2         RIO DE JANEIRO  RJ
+3             SÃO PAULO  SP"
+"                0   1
+0  BELO HORIZONTE  MG"
+"                    0   1
+0            VITÃRIA  ES
+1        CALDAS NOVAS  GO
+2            CATALÃO  GO
+3       CAMPO MOURÃO  PR
+4       SÃO GONÃALO  RJ
+5           GRAVATAÃ  RS
+6  BRAGANÃA PAULISTA  SP
+7           ITANHAÃM  SP"
+"            0   1
+0     MACEIÃ  AL
+1      MANAUS  AM
+2    SALVADOR  BA
+3  SÃO LUÃS  MA
+4    CURITIBA  PR
+5  SÃO PAULO  SP
+6    TAUBATÃ  SP"
+"           0   1
+0  BRASÃLIA  DF
+1    CONFINS  MG
+2    UBERABA  MG
+3   CURITIBA  PR
+4   LONDRINA  PR
+5    JANDIRA  SP"
+"                       0   1
+0              FORTALEZA  CE
+1         BELO HORIZONTE  MG
+2              GUARULHOS  SP
+3  SÃO JOSÃ DOS CAMPOS  SP
+4             SÃO PAULO  SP"
+"            0   1
+0  TAIOBEIRAS  MG
+1    ITATIAIA  RJ
+2  SÃO PAULO  SP"
+"                0   1
+0       BARBACENA  MG
+1  RIO DE JANEIRO  RJ"
+"          0   1
+0  SALVADOR  BA
+1  CURITIBA  PR
+2  CHAPECÃ  SC"
+"                        0   1
+0                SALVADOR  BA
+1                 ALFENAS  MG
+2            PORTO ALEGRE  RS
+3            HORTOLÃNDIA  SP
+4  SÃO BERNARDO DO CAMPO  SP"
+"                 0   1
+0   BOA ESPERANÃA  ES
+1         IPATINGA  MG
+2  RIBEIRÃO PRETO  SP"
+"            0   1
+0     ITAPEMA  SC
+1  SÃO PAULO  SP"
+"              0   1
+0    SÃO LUÃS  MA
+1  DIVINOPÃLIS  MG
+2        BELÃM  PA
+3        RECIFE  PE
+4      ARACAJÃ  SE
+5       JANDIRA  SP
+6    SÃO PAULO  SP"
+"         0   1
+0  FLORAÃ  PR"
+"          0   1
+0    IrecÃª  BA
+1  ITATIAIA  RJ"
+"            0   1
+0    VITÃRIA  ES
+1  ANANINDEUA  PA
+2     BARUERI  SP"
+"                     0   1
+0          HELIÃPOLIS  BA
+1            BRASÃLIA  DF
+2       BOA ESPERANÃA  ES
+3            GUARAPARI  ES
+4              ORIZONA  GO
+5      PILAR DE GOIÃS  GO
+6   CORONEL FABRICIANO  MG
+7             CÃCERES  MT
+8         BANDEIRANTES  PR
+9             CURITIBA  PR
+10           GUARATUBA  PR
+11  SÃO MATEUS DO SUL  PR
+12       NOVA FRIBURGO  RJ
+13            MARÃLIA  SP
+14              OSASCO  SP
+15     RIBEIRÃO PRETO  SP"
+"              0   1
+0    ALAGOINHAS  BA
+1  CAMPO GRANDE  MS
+2       CUIABÃ  MT
+3     PETROLINA  PE
+4      CURITIBA  PR
+5         IRATI  PR
+6        RONDON  PR
+7     GUARULHOS  SP"
+"                  0   1
+0         BRASÃLIA  DF
+1         ANÃPOLIS  GO
+2       UBERLÃNDIA  MG
+3          CURITIBA  PR
+4  TABOÃO DA SERRA  SP"
+"                    0   1
+0            GOIÃNIA  GO
+1               RUBIM  MG
+2            BLUMENAU  SC
+3             AREALVA  SP
+4        CARAPICUÃBA  SP
+5  LENÃÃIS PAULISTA  SP
+6          SÃO PAULO  SP"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1           CUIABÃ  MT
+2          CURITIBA  PR
+3    RIO DE JANEIRO  RJ"
+"                       0   1
+0               OLIVEIRA  MG
+1               CURITIBA  PR
+2                 ITAQUI  RS
+3        ITAQUAQUECETUBA  SP
+4  SÃO JOSÃ DOS CAMPOS  SP"
+"              0   1
+0        MANAUS  AM
+1      SALVADOR  BA
+2       INDIARA  GO
+3  PORTO ALEGRE  RS"
+"         0   1
+0  SINIMBU  RS"
+"         0   1
+0  JANDIRA  SP"
+"                         0   1
+0  CACHOEIRO DE ITAPEMIRIM  ES
+1            CAMPOS GERAIS  MG
+2   SANTA RITA DO SAPUCAÃ  MG
+3                 GUAPORÃ  RS
+4               RIO DO SUL  SC
+5                 CAMPINAS  SP
+6        CAMPOS DO JORDÃO  SP
+7             SANTO ANDRÃ  SP
+8               SÃO PAULO  SP
+9                 TAUBATÃ  SP"
+"          0   1
+0  RIO NOVO  MG"
+"    0   1
+0 NaN  BA"
+"               0   1
+0       SALVADOR  BA
+1      BRASÃLIA  DF
+2  Montes Claros  MG
+3         FRANCA  SP
+4     SÃO PAULO  SP"
+"       0   1
+0  NATAL  RN"
+"                         0   1
+0                 GOIÃNIA  GO
+1  SÃO FÃLIX DO ARAGUAIA  MT
+2                   RECIFE  PE
+3                    BAURU  SP
+4                 CAMPINAS  SP
+5               TAPIRATIBA  SP
+6                   PALMAS  TO"
+"                      0   1
+0  CONSELHEIRO LAFAIETE  MG
+1        FLORIANÃPOLIS  SC
+2               Aracaju  SE"
+"           0   1
+0  BRASÃLIA  DF
+1  ARAGUAINA  TO"
+"                      0   1
+0               MACEIÃ  AL
+1             ITAMARAJU  BA
+2              SALVADOR  BA
+3               ACARAÃ  CE
+4             BRASÃLIA  DF
+5              VITÃRIA  ES
+6        BELO HORIZONTE  MG
+7              CONTAGEM  MG
+8              CURITIBA  PR
+9          PONTA GROSSA  PR
+10             NITERÃI  RJ
+11            GRAVATAÃ  RS
+12             PALMITOS  SC
+13       TOBIAS BARRETO  SE
+14              ATIBAIA  SP
+15             BERTIOGA  SP
+16             CAMPINAS  SP
+17            GUARULHOS  SP
+18           INDIAPORÃ  SP
+19                  ITU  SP
+20             PEDREIRA  SP
+21  PRESIDENTE PRUDENTE  SP
+22           SÃO PAULO  SP
+23     TABOÃO DA SERRA  SP"
+"                0   1
+0        SALVADOR  BA
+1       BRASÃLIA  DF
+2  BELO HORIZONTE  MG
+3   VOLTA REDONDA  RJ
+4           COTIA  SP
+5    PARANAPANEMA  SP
+6        TAUBATÃ  SP"
+"                     0   1
+0  CARMO DO PARANAÃBA  MG
+1          PATROCÃNIO  MG
+2         PORTO UNIÃO  SC
+3       TOBIAS BARRETO  SE"
+"          0   1
+0  GOIÃNIA  GO
+1  OLIVEIRA  MG
+2  CURITIBA  PR
+3  IMBITUBA  SC
+4    SANTOS  SP"
+"                    0   1
+0      BELO HORIZONTE  MG
+1               BETIM  MG
+2          MONTE ALTO  SP
+3          SÃO PAULO  SP
+4  LAGOA DA CONFUSÃO  TO"
+"                0   1
+0    CAMPO GRANDE  MS
+1       IGUARAÃU  PR
+2     MANGARATIBA  RJ
+3  RIO DE JANEIRO  RJ
+4        SOROCABA  SP"
+"                      0   1
+0        BELO HORIZONTE  MG
+1              CURITIBA  PR
+2        RIO DE JANEIRO  RJ
+3              VARGEÃO  SC
+4  CAMPO LIMPO PAULISTA  SP"
+"                 0   1
+0        BRASÃLIA  DF
+1          MURIAÃ  MG
+2  DUQUE DE CAXIAS  RJ
+3       URUGUAIANA  RS
+4   FLORIANÃPOLIS  SC
+5  JARAGUÃ DO SUL  SC
+6       SÃO PAULO  SP"
+"                0   1
+0       BUERAREMA  BA
+1  RIO DE JANEIRO  RJ
+2        GETULINA  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1       CANOINHAS  SC
+2        CRUZEIRO  SP"
+"                      0   1
+0               BRUMADO  BA
+1  BOM JESUS DAS SELVAS  MA
+2             BOCAIÃVA  MG
+3          CLEVELÃNDIA  PR
+4   RIO BRANCO DO IVAÃ  PR
+5        ANGRA DOS REIS  RJ
+6              CAMPINAS  SP"
+"    0   1
+0 NaN  BA"
+"                0   1
+0  BELO HORIZONTE  MG"
+"                0   1
+0  BELO HORIZONTE  MG
+1          SANTOS  SP"
+"                 0   1
+0          MACEIÃ  AL
+1           BELÃM  PA
+2     PONTA GROSSA  PR
+3          RESENDE  RJ
+4  JARAGUÃ DO SUL  SC
+5           GURUPI  TO"
+"                0   1
+0  PARÃ DE MINAS  MG
+1         LIMEIRA  SP"
+"    0   1
+0 NaN  AL"
+"            0   1
+0      MANAUS  AM
+1      IRECÃ  BA
+2    SALVADOR  BA
+3   CANTAGALO  PR
+4    CURITIBA  PR
+5  SÃO PAULO  SP"
+"                       0   1
+0                ARACRUZ  ES
+1                 ARAXÃ  MG
+2           DIVINOPÃLIS  MG
+3   GOVERNADOR VALADARES  MG
+4          RONDONÃPOLIS  MT
+5                 BELÃM  PA
+6         RIO DE JANEIRO  RJ
+7         FLORIANÃPOLIS  SC
+8               ARACAJÃ  SE
+9        MOGI DAS CRUZES  SP
+10            SÃO PAULO  SP"
+"                0   1
+0       ITABERABA  BA
+1  RIO DE JANEIRO  RJ
+2          SANTOS  SP
+3        SOROCABA  SP"
+"                          0   1
+0                RIO BRANCO  AC
+1                 FORTALEZA  CE
+2  SÃO SEBASTIÃO DO OESTE  MG
+3                 CAMBORIÃ  SC
+4              ITAPETININGA  SP"
+"              0   1
+0    VILA VELHA  ES
+1  SANTO ANDRÃ  SP"
+"              0   1
+0     FORTALEZA  CE
+1  JUIZ DE FORA  MG"
+"                          0   1
+0                  SALVADOR  BA
+1                   ARACRUZ  ES
+2                   VARJÃO  GO
+3            BELO HORIZONTE  MG
+4                     SINOP  MT
+5                  CIANORTE  PR
+6                 ITABORAÃ  RJ
+7            RIO DE JANEIRO  RJ
+8                     NATAL  RN
+9                   LAGARTO  SE
+10              BADY BASSIT  SP
+11                   BROTAS  SP
+12       LENÃÃIS PAULISTA  SP
+13                   OSASCO  SP
+14          RIBEIRÃO PRETO  SP
+15   SÃO BERNARDO DO CAMPO  SP
+16  SÃO JOSÃ DO RIO PRETO  SP
+17               SÃO PAULO  SP"
+"              0   1
+0     PAPAGAIOS  MG
+1        BELÃM  PA
+2  PORTO ALEGRE  RS
+3      LOUVEIRA  SP"
+"        0   1
+0    EMBU  SP
+1    LINS  SP
+2  PALMAS  TO"
+"                0   1
+0  PEDRO CANÃRIO  ES
+1        CAMPINAS  SP"
+"              0   1
+0  CAMPOS BELOS  GO
+1     JOINVILLE  SC
+2    SÃO PAULO  SP"
+"            0   1
+0     CAUCAIA  CE
+1  SÃO PAULO  SP"
+"                 0   1
+0       VILA VELHA  ES
+1        OURO FINO  MG
+2  DUQUE DE CAXIAS  RJ
+3        PARACAMBI  RJ
+4            NATAL  RN
+5       SÃO PAULO  SP"
+"                     0   1
+0           ALAGOINHAS  BA
+1             GOIÃNIA  GO
+2  ABADIA DOS DOURADOS  MG
+3                 JAÃ  SP
+4           SÃO PAULO  SP"
+"                0   1
+0    HIDROLÃNDIA  GO
+1        PIRAPORA  MG
+2  RIO DE JANEIRO  RJ
+3      SÃO PAULO  SP"
+"              0   1
+0      SALVADOR  BA
+1   MORADA NOVA  CE
+2    SÃO LUÃS  MA
+3  CAMPO GRANDE  MS"
+"                     0   1
+0            CAMAÃARI  BA
+1            ANÃPOLIS  GO
+2           ANANINDEUA  PA
+3               BELÃM  PA
+4             IMBITUBA  SC
+5         SANTO ANDRÃ  SP
+6  SÃO PEDRO DO TURVO  SP"
+"                 0   1
+0  CANTO DO BURITI  PI
+1   RIO DE JANEIRO  RJ"
+"        0   1
+0  IRECÃ  BA"
+"    0   1
+0 NaN  AM"
+"           0   1
+0  BARCARENA  PA
+1  MARAVILHA  SC"
+"                0   1
+0        GOIÃNIA  GO
+1  RIO DE JANEIRO  RJ"
+"          0   1
+0  SALVADOR  BA"
+"            0   1
+0   BRASÃLIA  DF
+1      SANTOS  SP
+2  SÃO PAULO  SP"
+"          0   1
+0   MARABÃ  PA
+1  CASCAVEL  PR
+2  ARARUAMA  RJ"
+"              0   1
+0  AÃAILÃNDIA  MA
+1      CURITIBA  PR"
+"              0   1
+0      SALVADOR  BA
+1       UBERABA  MG
+2      TERESINA  PI
+3  HORTOLÃNDIA  SP"
+"          0   1
+0  SALVADOR  BA"
+"                       0   1
+0           BELO ORIENTE  MG
+1           BOM DESPACHO  MG
+2               GOIOERÃ  PR
+3         ROLIM DE MOURA  RO
+4             RIO GRANDE  RS
+5                 TIMBÃ  SC
+6             SÃO PAULO  SP
+7  MIRACEMA DO TOCANTINS  TO"
+"                0   1
+0  BELO HORIZONTE  MG
+1    PRAIA GRANDE  SP"
+"             0   1
+0     SALVADOR  BA
+1     CONTAGEM  MG
+2  UBERLÃNDIA  MG
+3   INDAIATUBA  SP
+4    ORLÃNDIA  SP"
+"                      0   1
+0                IRECÃ  BA
+1  CONSELHEIRO LAFAIETE  MG
+2              IBIRITÃ  MG
+3              CURITIBA  PR
+4               MARICÃ  RJ"
+"            0   1
+0  TAIOBEIRAS  MG
+1      OSASCO  SP
+2     UBATUBA  SP"
+"             0   1
+0     GUANAMBI  BA
+1     SALVADOR  BA
+2  UBERLÃNDIA  MG
+3      CUIABÃ  MT
+4   PORTO BELO  SC"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1     ALTA FLORESTA  MT
+2            SANTOS  SP"
+"                   0   1
+0  JUAZEIRO DO NORTE  CE
+1        SEROPÃDICA  RJ
+2       SUD MENNUCCI  SP
+3         SÃO PAULO  SP"
+"                             0   1
+0       CATAS ALTAS DA NORUEGA  MG
+1  SÃO SEBASTIÃO DO PARAÃSO  MG
+2               JANDAIA DO SUL  PR
+3                     LONDRINA  PR
+4               RIO DE JANEIRO  RJ
+5                        ITOBI  SP"
+"    0   1
+0 NaN  BA"
+"                        0   1
+0                VITÃRIA  ES
+1  SÃO JOSÃ DOS PINHAIS  PR"
+"                    0   1
+0  BOM JESUS DO GALHO  MG
+1            CONTAGEM  MG
+2      FERNANDÃPOLIS  SP
+3          SÃO PAULO  SP"
+"                             0   1
+0                      MACEIÃ  AL
+1                      ITABUNA  BA
+2               PARÃ DE MINAS  MG
+3                  UBERLÃNDIA  MG
+4  ENGENHEIRO PAULO DE FRONTIN  RJ
+5            PRESIDENTE LUCENA  RS
+6                 CARAPICUÃBA  SP
+7              RibeirÃ£o Preto  SP"
+"                      0   1
+0  CONSELHEIRO LAFAIETE  MG
+1   GLÃRIA DE DOURADOS  MS
+2          JOÃO PESSOA  PB
+3           PASSO FUNDO  RS
+4          PORTO ALEGRE  RS"
+"                0   1
+0     SÃO FELIPE  BA
+1       BRASÃLIA  DF
+2  BELO HORIZONTE  MG
+3  RIO DE JANEIRO  RJ
+4        CHAPECÃ  SC
+5          OSASCO  SP
+6      SÃO PAULO  SP"
+"                       0   1
+0             ANANINDEUA  PA
+1            PATO BRANCO  PR
+2  PALMEIRA DAS MISSÃES  RS"
+"             0   1
+0   CENTRALINA  MG
+1     CURITIBA  PR
+2  BARRA VELHA  SC"
+"            0   1
+0  SÃO PAULO  SP"
+"            0   1
+0   ANÃPOLIS  GO
+1  DIAMANTINA  MG
+2      IBAITI  PR"
+"                  0   1
+0  TROMBUDO CENTRAL  SC"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1      SÃO PAULO  SP"
+"              0   1
+0  JUIZ DE FORA  MG
+1     CRICIÃMA  SC"
+"                      0   1
+0  SANTA CRUZ CABRÃLIA  BA
+1               ATIBAIA  SP
+2              GUARUJÃ  SP"
+"                0   1
+0    SALINÃPOLIS  PA
+1  RIO DE JANEIRO  RJ
+2        BOTUCATU  SP
+3       ITUVERAVA  SP"
+"                0   1
+0         JEQUIÃ  BA
+1  RIO DE JANEIRO  RJ
+2          CAJOBI  SP
+3      SÃO PAULO  SP"
+"              0   1
+0  PORTO ALEGRE  RS
+1      CAPIVARI  SP"
+"                       0   1
+0              ESTÃNCIA  SE
+1        MOGI DAS CRUZES  SP
+2  SÃO JOSÃ DOS CAMPOS  SP"
+"                      0   1
+0                 SERRA  ES
+1  CONSELHEIRO LAFAIETE  MG
+2         SÃO GONÃALO  RJ
+3                 BAURU  SP
+4                 MAUÃ  SP"
+"                         0   1
+0  BARRA DE SÃO FRANCISCO  ES
+1               VILA VELHA  ES
+2                  UBATUBA  SP"
+"             0   1
+0     COLATINA  ES
+1    ALUMÃNIO  SP
+2     CAMPINAS  SP
+3     SOROCABA  SP
+4  ESPERANTINA  TO"
+"                      0   1
+0  CONSELHEIRO LAFAIETE  MG
+1            SÃO PAULO  SP"
+"                0   1
+0  BOA ESPERANÃA  MG
+1  FOZ DO IGUAÃU  PR"
+"              0   1
+0      MARINGÃ  PR
+1  PRAIA GRANDE  SP
+2    SÃO PAULO  SP"
+"               0   1
+0       GOIÃNIA  GO
+1         BELÃM  PA
+2  NOVA FRIBURGO  RJ
+3           TAIO  SC
+4         OSASCO  SP
+5         SANTOS  SP
+6     SÃO PAULO  SP"
+"              0   1
+0       JACINTO  MG
+1  CAMPO GRANDE  MS
+2     ARAPONGAS  PR
+3    RIO GRANDE  RS"
+"              0   1
+0         PATOS  PB
+1    JI-PARANÃ  RO
+2  PORTO ALEGRE  RS"
+"               0   1
+0         IRECÃ  BA
+1       SALVADOR  BA
+2      BRASÃLIA  DF
+3        MACHADO  MG
+4  DOIS VIZINHOS  PR
+5      GUARULHOS  SP"
+"            0   1
+0  INDAIATUBA  SP"
+"                 0   1
+0  Barra da Estiva  BA
+1    Mimoso do Sul  ES
+2   BELO HORIZONTE  MG
+3         Curitiba  PR
+4            MAGÃ  RJ
+5         CAMPINAS  SP
+6      CARAPICUIBA  SP
+7          DIADEMA  SP
+8         Sorocaba  SP"
+"                0   1
+0  JOÃO PINHEIRO  MG
+1        Curitiba  PR
+2          MACAÃ  RJ
+3       JOINVILLE  SC
+4  DOIS CÃRREGOS  SP
+5      SÃO PAULO  SP"
+"           0   1
+0     MANAUS  AM
+1  BRASÃLIA  DF
+2   JOAÃABA  SC
+3       LINS  SP"
+"                            0   1
+0                       BORBA  AM
+1                    SALVADOR  BA
+2                  VILA VELHA  ES
+3                    GOIÃNIA  GO
+4                       POSSE  GO
+5  SÃO FRANCISCO DO GUAPORÃ  RO
+6                    IBIRUBÃ  RS
+7                   ANDRADINA  SP
+8                    PERUÃBE  SP"
+"                  0   1
+0             PILAR  AL
+1         BRASÃLIA  DF
+2    RIO DE JANEIRO  RJ
+3         BOA VISTA  RR
+4            ARARAS  SP
+5           SUMARÃ  SP
+6        SÃO PAULO  SP
+7  VÃRZEA PAULISTA  SP"
+"                     0   1
+0               BELÃM  PA
+1             MARINGÃ  PR
+2               CACOAL  RO
+3               FRANCA  SP
+4  SÃO CAETANO DO SUL  SP"
+"                0   1
+0      POTIRAGUÃ  BA
+1       ARCOVERDE  PE
+2  RIO DE JANEIRO  RJ
+3    TERESÃPOLIS  RJ
+4         BURITIS  RO
+5      PORTO BELO  SC"
+"                0   1
+0        SALVADOR  BA
+1       FORTALEZA  CE
+2  BELO HORIZONTE  MG
+3           SINOP  MT
+4       BEBEDOURO  SP
+5        CAMPINAS  SP
+6      SÃO PAULO  SP"
+"                  0   1
+0      PORTO SEGURO  BA
+1      CAPIM BRANCO  MG
+2      CAMPO GRANDE  MS
+3          DOURADOS  MS
+4  BARRA DO GARÃAS  MT
+5    RIO DE JANEIRO  RJ"
+"               0   1
+0          IAÃU  BA
+1         PASSOS  MG
+2    CASTANHEIRA  MT
+3         BELÃM  PA
+4   PORTO ALEGRE  RS
+5  GUARATINGUETA  SP"
+"                         0   1
+0                PAINEIRAS  MG
+1             PORTO ALEGRE  RS
+2  MIRANTE DO PARANAPANEMA  SP
+3                RIO CLARO  SP
+4               SÃO PAULO  SP"
+"               0   1
+0  CAXIAS DO SUL  RS
+1         OSASCO  SP"
+"                      0   1
+0        BELO HORIZONTE  MG
+1           UBERLÃNDIA  MG
+2  APARECIDA DO TABOADO  MS
+3                ILHOTA  SC"
+"                 0   1
+0  DUQUE DE CAXIAS  RJ
+1          MARICÃ  RJ
+2     JUNDIAï¿½ï¿½  SP
+3       SÃO PAULO  SP"
+"                0   1
+0  CORONEL VIVIDA  PR
+1     ARVOREZINHA  RS"
+"               0   1
+0  CAXIAS DO SUL  RS"
+"            0   1
+0    PALOTINA  PR
+1  SÃO PAULO  SP"
+"               0   1
+0  CAXIAS DO SUL  RS"
+"              0   1
+0  CAMPO GRANDE  MS
+1      PALOTINA  PR"
+"                0   1
+0  BELO HORIZONTE  MG
+1  DOUTOR CAMARGO  PR
+2       GUARULHOS  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                     0   1
+0  TEIXEIRA DE FREITAS  BA
+1             MONTEIRO  PB
+2       ANGRA DOS REIS  RJ
+3       RIO DE JANEIRO  RJ
+4               CACOAL  RO
+5               OSASCO  SP"
+"              0   1
+0  CAMPO GRANDE  MS
+1      SOROCABA  SP"
+"              0   1
+0     BRASÃLIA  DF
+1  PADRE MARCOS  PI
+2     JOINVILLE  SC
+3      TAUBATÃ  SP"
+"            0   1
+0  ABAETETUBA  PA"
+"            0   1
+0  SÃO PAULO  SP"
+"                      0   1
+0              MINEIROS  GO
+1  CONSELHEIRO LAFAIETE  MG
+2   RIBEIRÃO DAS NEVES  MG
+3             QUEIMADOS  RJ
+4        RIO DE JANEIRO  RJ
+5              RIOZINHO  RS
+6            URUGUAIANA  RS
+7                 LAGES  SC"
+"               0   1
+0       ITAJUBÃ  MG
+1  RONDONÃPOLIS  MT
+2   PORTO ALEGRE  RS
+3      CATANDUVA  SP"
+"           0   1
+0  BRASÃLIA  DF"
+"           0   1
+0  ANAJATUBA  MA"
+"    0   1
+0 NaN  BA"
+"                0   1
+0        SALVADOR  BA
+1  RIO DE JANEIRO  RJ
+2      SÃO PAULO  SP"
+"          0   1
+0  SALVADOR  BA
+1   CAUCAIA  CE
+2     NATAL  RN"
+"       0   1
+0  TUPÃ  SP"
+"            0   1
+0       MAGÃ  RJ
+1  SÃO PAULO  SP"
+"                     0   1
+0         CALDAS NOVAS  GO
+1  BOM JARDIM DE MINAS  MG
+2             CONTAGEM  MG
+3              COLOMBO  PR
+4             CAMPINAS  SP
+5          MOGI GUAÃU  SP
+6           SÃO PAULO  SP"
+"                 0   1
+0    TEOFILO OTONI  MG
+1      PATO BRANCO  PR
+2           BASTOS  SP
+3  MOGI DAS CRUZES  SP"
+"           0   1
+0  BRASÃLIA  DF
+1  SÃO LUIS  MA
+2     BELÃM  PA
+3    Aracaju  SE"
+"              0   1
+0         COTIA  SP
+1       ITATIBA  SP
+2  SANTO ANDRÃ  SP"
+"              0   1
+0  PORTO ALEGRE  RS"
+"                               0   1
+0            RIBEIRÃO DAS NEVES  MG
+1  SÃO JOÃO BATISTA DO GLÃRIA  MG
+2                     SÃO PAULO  SP"
+"              0   1
+0     FORTALEZA  CE
+1  PORTO ALEGRE  RS"
+"             0   1
+0   ITAPETINGA  BA
+1  RUY BARBOSA  BA
+2    BRASÃLIA  DF
+3      COLINAS  MA
+4    MATA ROMA  MA
+5       CACOAL  RO
+6   TRAMANDAÃ  RS"
+"                      0   1
+0  BALNEÃRIO PIÃARRAS  SC"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"               0   1
+0  Montes Claros  MG
+1       DOURADOS  MS
+2        Aracaju  SE
+3     SÃO PAULO  SP"
+"                         0   1
+0       ANTONIO GONÃALVES  BA
+1             DIVINÃPOLIS  MG
+2                   BELÃM  PA
+3    CAMPOS DOS GOYTACAZES  RJ
+4           RIO DE JANEIRO  RJ
+5            SÃO GONÃALO  RJ
+6             PORTO ALEGRE  RS
+7               SÃO PAULO  SP
+8  PONTE ALTA DO TOCANTINS  TO"
+"                0   1
+0        MACAUBAS  BA
+1     DAVINOPOLIS  GO
+2    ALTO GARÃAS  MT
+3  MIGUEL PEREIRA  RJ
+4      SÃO PAULO  SP"
+"                0   1
+0         ITABUNA  BA
+1  BELO HORIZONTE  MG
+2  RIO DE JANEIRO  RJ
+3      SÃO PAULO  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                     0   1
+0  ITINGA DO MARANHÃO  MA
+1             TIMÃTEO  MG
+2            ARAPONGAS  PR
+3          JOANÃPOLIS  SP"
+"               0   1
+0  SÃO FIDÃLIS  RJ"
+"              0   1
+0     BRASÃLIA  DF
+1          TMON  MA
+2       FORMIGA  MG
+3  CAMPO GRANDE  MS
+4      MIRACATU  SP
+5    SÃO PAULO  SP"
+"            0   1
+0  ALCANTARAS  CE
+1    BOTUCATU  SP"
+"                 0   1
+0        BRASÃLIA  DF
+1         BERTIOGA  SP
+2        GUARULHOS  SP
+3  RibeirÃ£o Preto  SP"
+"                 0   1
+0     CASSILÃNDIA  MS
+1  MOGI DAS CRUZES  SP
+2           PALMAS  TO"
+"                 0   1
+0        BRASÃLIA  DF
+1  RibeirÃ£o Preto  SP"
+"               0   1
+0      BRASÃLIA  DF
+1  SÃO GONÃALO  RJ
+2       POMERODE  SC
+3  CARAGUATATUBA  SP"
+"    0   1
+0 NaN  BA"
+"           0   1
+0   CAROLINA  MA
+1   CAMPINAS  SP
+2  RIO CLARO  SP"
+"               0   1
+0        JEQUIÃ  BA
+1        MARICÃ  RJ
+2  CAXIAS DO SUL  RS
+3       JACAREÃ  SP"
+"              0   1
+0        MANAUS  AM
+1     CAMAÃARI  BA
+2     PAPAGAIOS  MG
+3         COXIM  MS
+4     GUARULHOS  SP
+5  PARANAPANEMA  SP"
+"                 0   1
+0         SALVADOR  BA
+1   BELO HORIZONTE  MG
+2        JARAGUARI  MS
+3    RIO BRILHANTE  MS
+4            BAURU  SP
+5           MATÃO  SP
+6  RibeirÃ£o Preto  SP"
+"                0   1
+0  FlorianÃ³polis  SC
+1            POÃ  SP
+2    PRAIA GRANDE  SP
+3        TAUBATÃ  SP
+4          PALMAS  TO"
+"                       0   1
+0  ARMAÃÃO DOS BÃZIOS  RJ
+1                 OSASCO  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1            EMBU  SP"
+"                0   1
+0        SALVADOR  BA
+1  PARÃ DE MINAS  MG
+2    CASSILÃNDIA  MS
+3        MARINGÃ  PR
+4    PIRASSUNUNGA  SP"
+"                0   1
+0     BARRA MANSA  RJ
+1  RIO DE JANEIRO  RJ
+2        MOSSORÃ  RN
+3        BERTIOGA  SP
+4        CAPIVARI  SP
+5      SÃO PAULO  SP"
+"             0   1
+0  SETE LAGOAS  MG
+1       SANTOS  SP"
+"                 0   1
+0         GOIÃNIA  GO
+1   BELO HORIZONTE  MG
+2         IPATINGA  MG
+3   RIO DE JANEIRO  RJ
+4          CAMAQUA  RS
+5          BRUSQUE  SC
+6  RIBEIRÃO PRETO  SP"
+"              0   1
+0      JUAZEIRO  BA
+1       CUIABÃ  MT
+2      LONDRINA  PR
+3  PORTO ALEGRE  RS
+4    GUARARAPES  SP"
+"                     0   1
+0              CUIABÃ  MT
+1       Angra dos Reis  RJ
+2  PRESIDENTE PRUDENTE  SP"
+"          0   1
+0  PIRAPORA  MG
+1  Sorocaba  SP"
+"            0   1
+0  SÃO PAULO  SP
+1    TAUBATÃ  SP"
+"                0   1
+0       ANÃPOLIS  GO
+1          APORÃ  GO
+2        VARGINHA  MG
+3  RIO DE JANEIRO  RJ
+4          ARARAS  SP
+5        ILHABELA  SP
+6      SÃO PAULO  SP"
+"                 0   1
+0  DUQUE DE CAXIAS  RJ
+1          Aracaju  SE
+2       SÃO PAULO  SP"
+"                        0   1
+0                MARITUBA  PA
+1  SÃO JOSÃ DOS PINHAIS  PR
+2  SÃO MANOEL DO PARANÃ  PR
+3    ITAPECERICA DA SERRA  SP
+4              SÃO PAULO  SP"
+"               0   1
+0  CAMPO FORMOSO  BA"
+"    0   1
+0 NaN  BA"
+"                  0   1
+0         BRASÃLIA  DF
+1    SÃO LOURENÃO  MG
+2  ÃLVARES MACHADO  SP"
+"                0   1
+0       NILÃPOIS  RJ
+1  RIO DE JANEIRO  RJ
+2        BOTUCATU  SP
+3  GUARATINGUETÃ  SP"
+"                         0   1
+0                BRASÃLIA  DF
+1                 GOIÃNIA  GO
+2                 CASCAVEL  PR
+3                 Curitiba  PR
+4           RIO DE JANEIRO  RJ
+5                 MARÃLIA  SP
+6                  SOCORRO  SP
+7  SÃO LOURENÃO DA SERRA  SP"
+"                   0   1
+0         ALAGOINHAS  BA
+1           JACOBINA  BA
+2  CACHOEIRA DOURADA  GO
+3     BELO HORIZONTE  MG
+4           CORUMBÃ  MS
+5              PATOS  PB
+6            Aracaju  SE"
+"                       0   1
+0  CAMPO NOVO DO PARECIS  MT
+1                CARDOSO  SP
+2        RIBEIRÃO PIRES  SP
+3             SÃO PAULO  SP"
+"                         0   1
+0                FORTALEZA  CE
+1                BRASÃLIA  DF
+2  BARRA DE SÃO FRANCISCO  ES
+3              MANGARATIBA  RJ
+4           FLORIANÃPOLIS  SC
+5               SÃO PAULO  SP"
+"                       0   1
+0    RIBEIRÃO DAS NEVES  MG
+1     SÃO JOÃO DEL REI  MG
+2             ARAUCÃRIA  PR
+3                 CACOAL  RO
+4  FERRAZ DE VASCONCELOS  SP"
+"                       0   1
+0              DOURADINA  PR
+1           TRÃS COROAS  RS
+2             RIOLÃNDIA  SP
+3  SÃO JOSÃ DOS CAMPOS  SP
+4             SÃO PAULO  SP"
+"            0   1
+0   BRASÃLIA  DF
+1    VARGINHA  MG
+2  SÃO PAULO  SP"
+"           0   1
+0  SÃO LUIS  MA
+1   CONTAGEM  MG
+2   IPATINGA  MG
+3    TIJUCAS  SC"
+"                 0   1
+0  DUQUE DE CAXIAS  RJ
+1       SÃO PAULO  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"          0   1
+0  SALVADOR  BA
+1   ITAIPÃ  MG"
+"               0   1
+0       LONDRINA  PR
+1  NOVA FRIBURGO  RJ
+2       JUNDIAÃ  SP
+3         PONTAL  SP
+4     SÃO PAULO  SP"
+"                  0   1
+0  CERQUEIRA CÃSAR  SP"
+"          0   1
+0  GOIÃNIA  GO
+1     IBIÃ  MG
+2   CURRAIS  PI"
+"        0   1
+0  PALMAS  TO"
+"          0   1
+0  SALVADOR  BA
+1  GOIÃNIA  GO
+2   FAXINAL  PR
+3  CAMPINAS  SP"
+"              0   1
+0  JOÃO PESSOA  PB
+1  BELFORD ROXO  RJ"
+"                       0   1
+0               LONDRINA  PR
+1         RIO DE JANEIRO  RJ
+2  SÃO JOSÃ DOS CAMPOS  SP"
+"           0   1
+0  BRASÃLIA  DF
+1     RECIFE  PE
+2     OSASCO  SP"
+"                      0   1
+0          CALDAS NOVAS  GO
+1  GOVERNADOR VALADARES  MG
+2           PASSO FUNDO  RS
+3              BARRETOS  SP
+4            SÃO PAULO  SP"
+"          0   1
+0  GOIÃNIA  GO
+1  MARÃLIA  SP"
+"                        0   1
+0               BRASÃLIA  DF
+1                GOIÃNIA  GO
+2               CONT AGEM  MG
+3                UMUARAMA  PR
+4               JOINVILLE  SC
+5  SÃO BERNARDO DO CAMPO  SP
+6         SÃO SEBASTIÃO  SP"
+"            0   1
+0     PIACATU  SP
+1  SÃO PAULO  SP"
+"            0   1
+0   SANTARÃM  PA
+1  SÃO PAULO  SP"
+"             0   1
+0  SÃO MATEUS  ES
+1    SÃO LUIS  MA
+2    ITUIUTABA  MG
+3     LONDRINA  PR
+4     ARACAJÃ  SE
+5   SÃO PAULO  SP"
+"           0   1
+0  FORTALEZA  CE
+1  BRASÃLIA  DF"
+"          0   1
+0  Curitiba  PR"
+"                         0   1
+0      BELA VISTA DE MINAS  MG
+1   SANTA BÃRBARA D OESTE  SP
+2  SANTA CRUZ DO RIO PARDO  SP
+3      SÃO CAETANO DO SUL  SP
+4               SÃO PAULO  SP"
+"            0   1
+0   BRASÃLIA  DF
+1  TAMANDARÃ  PE
+2    CASCAVEL  PR"
+"              0   1
+0     BRASÃLIA  DF
+1  CAMPO GRANDE  MS"
+"                     0   1
+0            BRASÃLIA  DF
+1             GOIÃNIA  GO
+2       BELO HORIZONTE  MG
+3       RIO DE JANEIRO  RJ
+4                ASSIS  SP
+5                AVARE  SP
+6  SÃO CAETANO DO SUL  SP
+7           SÃO PAULO  SP
+8               PALMAS  TO"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                          0   1
+0                RIO BRANCO  AC
+1                  GUANAMBI  BA
+2                    TABIRA  PE
+3                  MARINGÃ  PR
+4            RIO DE JANEIRO  RJ
+5  SANTA CRUZ DAS PALMEIRAS  SP
+6                SÃO PAULO  SP"
+"                  0   1
+0  LAURO DE FREITAS  BA
+1         BRASÃLIA  DF
+2  BARRA DO GARÃAS  MT
+3           ITAJAÃ  SC
+4        MOJI MIRIM  SP
+5   PINDAMONHANGABA  SP
+6        SÃO PAULO  SP"
+"                0   1
+0    SERROLÃNDIA  BA
+1       BRASÃLIA  DF
+2      VILA VELHA  ES
+3        GOIÃNIA  GO
+4  BELO HORIZONTE  MG
+5           IBIÃ  MG
+6      OURO PRETO  MG
+7        Teresina  PI
+8       ITANHAÃM  SP
+9      SÃO PAULO  SP"
+"                       0   1
+0           CAMPO GRANDE  MS
+1  SÃO JOSÃ DOS CAMPOS  SP
+2             SÃO PAULO  SP"
+"           0   1
+0     RECIFE  PE
+1  BOA VISTA  RR"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1      SÃO PAULO  SP"
+"                        0   1
+0               PORANGATU  GO
+1               SÃO LUIS  MA
+2          JOAO MONLEVADE  MG
+3          CAMPINA GRANDE  PB
+4                     NaN  PE
+5                Teresina  PI
+6          RIO DE JANEIRO  RJ
+7                BLUMENAU  SC
+8                    LEME  SP
+9                 SUMARÃ  SP
+10  SÃO JOSÃ DOS CAMPOS  SP
+11             SÃO PAULO  SP"
+"            0   1
+0    GOIÃNIA  GO
+1  SÃO ROQUE  SP
+2   VIRADOURO  SP"
+"                     0   1
+0        SIMÃES FILHO  BA
+1  CARMO DO PARANAÃBA  MG
+2           PONTE NOVA  MG
+3       VÃRZEA GRANDE  MT
+4              TUCURUI  PA
+5                NATAL  RN
+6           SÃO PAULO  SP
+7               PALMAS  TO"
+"                  0   1
+0  CONSELHEIRO PENA  MG
+1          LONDRINA  PR
+2    ITATIBA DO SUL  RS
+3        SÃO BORJA  RS
+4              JAÃ  SP
+5        MAIRIPORÃ  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"            0   1
+0      MANAUS  AM
+1     ITABUNA  BA
+2     Aracaju  SE
+3  TAPIRATIBA  SP"
+"                 0   1
+0           MANAUS  AM
+1      RUY BARBOSA  BA
+2         VALENÃA  BA
+3        FORTALEZA  CE
+4        BRASÃLIA  DF
+5         GOIÃNIA  GO
+6          IPAMERI  GO
+7      GUARANÃSIA  MG
+8        JURAMENTO  MG
+9   CAMPINA GRANDE  PB
+10          RECIFE  PE
+11        CIANORTE  PR
+12      SÃO PAULO  SP"
+"                   0   1
+0          SÃO LUIS  MA
+1      CAMPINA VERDE  MG
+2          RIO MANSO  MG
+3  FLÃRIDA PAULISTA  SP
+4         SÃO PAULO  SP"
+"              0   1
+0  VITï¿½ï¿½RIA  ES
+1     GUARULHOS  SP"
+"             0   1
+0   RIO BRANCO  AC
+1  UBERLÃNDIA  MG
+2       CAMBÃ  PR"
+"    0   1
+0 NaN  BA"
+"              0   1
+0  CAMPO GRANDE  MS
+1     GUARATUBA  PR"
+"                      0   1
+0          DAVINÃPOLIS  MA
+1               SABARÃ  MG
+2          PONTA GROSSA  PR
+3          NOVA IGUAÃU  RJ
+4  CAMPO LIMPO PAULISTA  SP
+5              CAPIVARI  SP"
+"                0   1
+0          BELÃM  PA
+1  ANGRA DOS REIS  RJ
+2      SÃO PAULO  SP"
+"           0   1
+0  ITUIUTABA  MG
+1    VACARIA  RS
+2     SANTOS  SP"
+"                    0   1
+0             ILHÃUS  BA
+1            SALVADOR  BA
+2  RIO PARDO DE MINAS  MG
+3            ARARUAMA  RJ
+4          SÃO PAULO  SP"
+"              0   1
+0  HORTOLÃNDIA  SP"
+"                           0   1
+0                   SALVADOR  BA
+1                 VILA VELHA  ES
+2      APARECIDA DE GOIÃNIA  GO
+3                 RIO QUENTE  GO
+4                SETE LAGOAS  MG
+5                   PAULISTA  PE
+6   MARECHAL CÃNDIDO RONDON  PR
+7             RIO DE JANEIRO  RJ
+8                   CAPIVARI  SP
+9       SANTANA DE PARNAÃBA  SP
+10                SÃO PAULO  SP"
+"            0   1
+0    Curitiba  PR
+1  SÃO PAULO  SP"
+"             0   1
+0     GOIÃNIA  GO
+1  UBERLÃNDIA  MG"
+"                       0   1
+0              BRASÃLIA  DF
+1                MURIAÃ  MG
+2         PATOS DE MINAS  MG
+3         RIO DE JANEIRO  RJ
+4                Aracaju  SE
+5  SÃO JOSÃ DOS CAMPOS  SP
+6             SÃO PAULO  SP"
+"              0   1
+0      GOIÃNIA  GO
+1        AREADO  MG
+2  JUIZ DE FORA  MG
+3    SÃO PAULO  SP"
+"                 0   1
+0    MONTES CLAROS  MG
+1   PATOS DE MINAS  MG
+2  MOGI DAS CRUZES  SP"
+"            0   1
+0   BRASÃLIA  DF
+1    CURITIBA  PR
+2  SÃO PAULO  SP"
+"                0   1
+0       ITAJUÃPE  BA
+1        MARACÃS  BA
+2     NOVA CANAÃ  BA
+3  BURITINÃPOLIS  GO
+4      PARANAÃBA  MS
+5      DOM ELISEU  PA
+6        MARILENA  PR
+7   NOVO HAMBURGO  RS
+8          ARARAS  SP
+9      SÃO PAULO  SP"
+"              0   1
+0    MUNDO NOVO  BA
+1  SANTO ANDRÃ  SP
+2    SÃO PAULO  SP"
+"                 0   1
+0        BRASÃLIA  DF
+1      ELOI MENDES  MG
+2   RIO DE JANEIRO  RJ
+3  MOGI DAS CRUZES  SP
+4        RIO CLARO  SP"
+"            0   1
+0  ITAPEMIRIM  ES
+1  ARAÃATUBA  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1          SALVADOR  BA
+2         ARAÃUAÃ  MG
+3           PELOTAS  RS
+4        PIRACICABA  SP"
+"                   0   1
+0  COLORADO DO OESTE  RO"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1           ILHÃUS  BA
+2        ARAGARÃAS  GO
+3      CAMPO GRANDE  MS"
+"              0   1
+0  PORTO ALEGRE  RS
+1        OSASCO  SP
+2      PERUÃBE  SP"
+"    0   1
+0 NaN  BA"
+"            0   1
+0  SÃO PAULO  SP"
+"                     0   1
+0  CARMO DO PARANAÃBA  MG
+1           PONTE NOVA  MG
+2           SÃO PAULO  SP"
+"                         0   1
+0  SANTO ANTÃNIO DE JESUS  BA
+1                   RECIFE  PE
+2                PARACAMBI  RJ"
+"                    0   1
+0            SALVADOR  BA
+1          VILA VELHA  ES
+2         PATROCÃNIO  MG
+3  FRANCISCO BELTRÃO  PR
+4           GUARULHOS  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"    0   1
+0 NaN  BA"
+"               0   1
+0      BRASÃLIA  DF
+1          SERRA  ES
+2       CATALÃO  GO
+3       BOCAIUVA  MG
+4   JUIZ DE FORA  MG
+5   CLEVELÃNDIA  PR
+6        NITEROI  RJ
+7        ASCURRA  SC
+8        ATIBAIA  SP
+9      CAÃAPAVA  SP
+10       DIADEMA  SP
+11    PIRACICABA  SP
+12    SÃO PAULO  SP"
+"              0   1
+0  JUIZ DE FORA  MG
+1        RECIFE  PE"
+"                         0   1
+0    VITÃRIA DA CONQUISTA  BA
+1                BRASÃLIA  DF
+2                 CASCAVEL  PR
+3               INDAIATUBA  SP
+4  SÃO JOSÃ DO RIO PRETO  SP"
+"               0   1
+0  SIMÃES FILHO  BA
+1         BELÃM  PA
+2  FERNANDOPOLIS  SP
+3   SANTO ANDRÃ  SP
+4     SÃO PAULO  SP"
+"                0   1
+0          CAXIAS  MA
+1  BELO HORIZONTE  MG
+2    DIVINÃPOLIS  MG
+3        CAMPINAS  SP"
+"                         0   1
+0                ITUMBIARA  GO
+1                  ALFENAS  MG
+2                    COXIM  MS
+3            ALTA FLORESTA  MT
+4            RONDONÃPOLIS  MT
+5                  URUARÃ  PA
+6  SÃO JOSÃ DO RIO PRETO  SP
+7               SÃO PAULO  SP"
+"                        0   1
+0                SALVADOR  BA
+1              PIRACICABA  SP
+2  SÃO BERNARDO DO CAMPO  SP"
+"    0   1
+0 NaN  BA"
+"            0   1
+0    MACAUBAS  BA
+1  SÃO PAULO  SP"
+"         0   1
+0  UBERABA  MG"
+"                0   1
+0         ITABUNA  BA
+1        SALVADOR  BA
+2  RIO DE JANEIRO  RJ
+3      SÃO PAULO  SP"
+"          0   1
+0  LONDRINA  PR
+1    PALMAS  PR
+2  JUNDIAÃ  SP
+3  OURINHOS  SP"
+"                       0   1
+0               GOIÃNIA  GO
+1  CAMPOS DOS GOYTACAZES  RJ"
+"                          0   1
+0                RIO BONITO  RJ
+1            RIO DE JANEIRO  RJ
+2  NOSSA SENHORA DO SOCORRO  SE
+3                SÃO PAULO  SP"
+"              0   1
+0    ALAGOINHAS  BA
+1  CAMPO GRANDE  MS
+2    SÃO PAULO  SP"
+"          0   1
+0  MARACAJU  MS
+1      POÃ  SP"
+"                 0   1
+0   RIO DE JANEIRO  RJ
+1            MAFRA  SC
+2  RibeirÃ£o Preto  SP"
+"    0   1
+0 NaN  BA"
+"           0   1
+0  BRASÃLIA  DF"
+"                      0   1
+0  GOVERNADOR VALADARES  MG
+1               NITEROI  RJ"
+"                        0   1
+0                SALVADOR  BA
+1           RONDONÃPOLIS  MT
+2  SÃO JOSÃ DOS PINHAIS  PR
+3               CERQUILHO  SP
+4              SÃO PAULO  SP"
+"              0   1
+0  ALTINÃPOLIS  SP"
+"           0   1
+0  ARAPONGAS  PR
+1   CURITIBA  PR"
+"                 0   1
+0        BRASÃLIA  DF
+1        ANÃPOLIS  GO
+2           BELÃM  PA
+3  DUQUE DE CAXIAS  RJ
+4   RIO DE JANEIRO  RJ
+5           LAGUNA  SC"
+"                        0   1
+0               MANAQUIRI  AM
+1          BELO HORIZONTE  MG
+2               GUADALUPE  PI
+3            NOVA IGUAÃU  RJ
+4                   NATAL  RN
+5  SANTA BARBARA DO OESTE  SP
+6                Sorocaba  SP
+7              SÃO PAULO  SP"
+"                       0   1
+0                 ARAXÃ  MG
+1             COROMANDEL  MG
+2            UBERLÃNDIA  MG
+3         RIO DE JANEIRO  RJ
+4              MONGAGUÃ  SP
+5  SÃO JOSÃ DOS CAMPOS  SP"
+"             0   1
+0  PARAGOMINAS  PA
+1  MOGI GUAÃU  SP"
+"                0   1
+0         FORMIGA  MG
+1  RIO DE JANEIRO  RJ
+2      INDAIATUBA  SP"
+"                           0   1
+0                    ITABUNA  BA
+1                  BRASÃLIA  DF
+2             BELO HORIZONTE  MG
+3                   CURITIBA  PR
+4  COMENDADOR LEVY GASPARIAN  RJ
+5                       LEME  SP"
+"              0   1
+0  PORTO ALEGRE  RS"
+"                0   1
+0        GOIÃNIA  GO
+1  BOA ESPERANÃA  MG
+2        Curitiba  PR"
+"            0   1
+0  SÃO PAULO  SP"
+"                0   1
+0        AMARGOSA  BA
+1         MURIAÃ  MG
+2  RIO DE JANEIRO  RJ
+3          MOCOCA  SP"
+"                         0   1
+0  SÃO JOSÃ DO RIO PRETO  SP"
+"            0   1
+0    VITÃRIA  ES
+1  SÃO PAULO  SP"
+"              0   1
+0     CAPETINGA  MG
+1    ANANINDEUA  PA
+2  SÃO GABRIEL  RS
+3        OSASCO  SP
+4    SÃO PAULO  SP"
+"                  0   1
+0          LINHARES  ES
+1  BARRA DO GARÃAS  MT"
+"                0   1
+0  FlorianÃ³polis  SC"
+"            0   1
+0    COLATINA  ES
+1      BELÃM  PA
+2  SÃO PAULO  SP"
+"           0   1
+0    JEQUIÃ  BA
+1   SALVADOR  BA
+2  BRASÃLIA  DF"
+"                0   1
+0  BELO HORIZONTE  MG
+1  CAMPINA GRANDE  PB"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1         BRASÃLIA  DF
+2       SÃO MATEUS  ES
+3          JUNDIAÃ  SP"
+"               0   1
+0   TrÃªs Lagoas  MS
+1  SÃO GONÃALO  RJ"
+"          0   1
+0   Aracaju  SE
+1  TAUBATÃ  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1    DIVINÃPOLIS  MG"
+"          0   1
+0  UMUARAMA  PR"
+"               0   1
+0      BRASÃLIA  DF
+1  TRÃS DE MAIO  RS
+2        TAGUAÃ  SP"
+"             0   1
+0    FORTALEZA  CE
+1     GOIÃNIA  GO
+2  BUENÃPOLIS  MG
+3       JARDIM  MS"
+"                      0   1
+0             MORRINHOS  GO
+1  CONSELHEIRO LAFAIETE  MG
+2            ARAUCÃRIA  PR
+3             JOINVILLE  SC
+4            PIRACICABA  SP
+5            SÃO PAULO  SP"
+"           0   1
+0   GOIÃNIA  GO
+1  GUARULHOS  SP
+2  MONGAGUÃ  SP"
+"                       0   1
+0          GUARATINGUETA  SP
+1  SÃO JOSÃ DOS CAMPOS  SP
+2                 PALMAS  TO"
+"                  0   1
+0          GOIÃNIA  GO
+1       UBERLÃNDIA  MG
+2      JOÃO PESSOA  PB
+3    RIO DE JANEIRO  RJ
+4           SUMARÃ  SP
+5  TABOÃO DA SERRA  SP"
+"                         0   1
+0               ITAPETINGA  BA
+1            SANTANÃPOLIS  BA
+2                   SOBRAL  CE
+3                  UBERABA  MG
+4  SÃO LOURENÃO DO OESTE  SC
+5                   ARARAS  SP"
+"                0   1
+0  BELO HORIZONTE  MG"
+"                          0   1
+0                 PALMÃCIA  CE
+1                    BELÃM  PA
+2                    RECIFE  PE
+3           RibeirÃ£o Preto  SP
+4     SÃO JOSÃ DOS CAMPOS  SP
+5  SÃO SEBASTIÃO DA GRAMA  SP"
+"                      0   1
+0  CAMPO LIMPO PAULISTA  SP"
+"                       0   1
+0               SALVADOR  BA
+1              BRASÃLIA  DF
+2  ALTA FLORESTA D OESTE  RO
+3             SÃO PAULO  SP"
+"          0   1
+0  VARGINHA  MG"
+"           0   1
+0  ARAPONGAS  PR
+1    BRUSQUE  SC"
+"                       0   1
+0  APARECIDA DE GOIÃNIA  GO
+1      BRASILIA DE MINAS  MG
+2               CAPANEMA  PA
+3                 CANOAS  RS
+4               PALHOÃA  SC
+5               PERUÃBE  SP"
+"                      0   1
+0              SALVADOR  BA
+1              LINHARES  ES
+2            TRACUATEUA  PA
+3        RIO DE JANEIRO  RJ
+4  SÃO PEDRO DA ALDEIA  RJ
+5                PALMAS  TO"
+"           0   1
+0   SALVADOR  BA
+1  BRASÃLIA  DF
+2   BLUMENAU  SC
+3    GUARIBA  SP"
+"    0   1
+0 NaN  AM"
+"    0   1
+0 NaN  GO"
+"                0   1
+0       BRASÃLIA  DF
+1           BETIM  MG
+2    MONTALVÃNIA  MG
+3  RIO DE JANEIRO  RJ
+4        BLUMENAU  SC"
+"                 0   1
+0        CHORROCHO  BA
+1           SOBRAL  CE
+2         GOIÃNIA  GO
+3     AÃAILÃNDIA  MA
+4       GUIRATINGA  MT
+5     JOÃO PESSOA  PB
+6    NOVA FRIBURGO  RJ
+7   RIO DE JANEIRO  RJ
+8    SÃO GONÃALO  RJ
+9    CAXIAS DO SUL  RS
+10          AMPARO  SP
+11           AVARE  SP
+12        CAMPINAS  SP
+13        GUAIMBÃ  SP
+14       ORINDIUVA  SP"
+"                   0   1
+0             MANAUS  AM
+1        ELOI MENDES  MG
+2           PALOTINA  PR
+3  LARANJAL PAULISTA  SP"
+"                            0   1
+0            MORRO DO CHAPÃU  BA
+1                   SÃO LUIS  MA
+2              JOÃO PINHEIRO  MG
+3             SANTA MARGARIDA  MG
+4  SANTO ANTÃNIO DO LEVERGER  MT
+5              RIO DE JANEIRO  RJ
+6                   IGARAPAVA  SP"
+"           0   1
+0     MURICI  AL
+1  BARBACENA  MG
+2   GAROPABA  SC
+3   IMBITUBA  SC"
+"               0   1
+0  SÃO GONÃALO  RJ
+1       CAMPINAS  SP"
+"                 0   1
+0          MACEIÃ  AL
+1  MOGI DAS CRUZES  SP
+2       SÃO PAULO  SP"
+"                       0   1
+0  VALPARAÃSO DE GOIÃS  GO
+1              CANOINHAS  SC
+2              AMERICANA  SP
+3               BERTIOGA  SP
+4                 SUZANO  SP"
+"                     0   1
+0  BELA VISTA DE MINAS  MG
+1             Teresina  PI
+2        VOLTA REDONDA  RJ
+3           SÃO PAULO  SP"
+"            0   1
+0   CAMAÃARI  BA
+1   ITABERABA  BA
+2  COSTA RICA  MS
+3  SÃO PAULO  SP"
+"              0   1
+0  PORTO ALEGRE  RS
+1      CAMPINAS  SP
+2  SANTO ANDRÃ  SP"
+"             0   1
+0      NANUQUE  MG
+1  SANTA LUZIA  MG
+2      BARUERI  SP
+3   SÃO PAULO  SP"
+"            0   1
+0     PITANGA  PR
+1  CONCÃRDIA  SC
+2  SÃO PAULO  SP"
+"            0   1
+0   BRASÃLIA  DF
+1     ALFENAS  MG
+2  SÃO PAULO  SP
+3  ARAGUACEMA  TO
+4  ARAGUATINS  TO"
+"                     0   1
+0             CANDEIAS  BA
+1              PELOTAS  RS
+2            JOINVILLE  SC
+3    PALMEIRA DO OESTE  SP
+4                 POÃ  SP
+5  RIO GRANDE DA SERRA  SP"
+"              0   1
+0      Curitiba  PR
+1  MASSARANDUBA  SC"
+"              0   1
+0  JUIZ DE FORA  MG
+1       SUMARÃ  SP
+2    SÃO PAULO  SP"
+"                       0   1
+0          BURITI ALEGRE  GO
+1         CORONEL VIVIDA  PR
+2           PORTO ALEGRE  RS
+3  SÃO JOSÃ DOS CAMPOS  SP"
+"             0   1
+0     SALVADOR  BA
+1  CARLÃPOLIS  PR
+2     BLUMENAU  SC
+3   INDAIATUBA  SP
+4       LORENA  SP
+5  MOGI GUAÃU  SP
+6   SÃO PAULO  SP"
+"          0   1
+0  SALVADOR  BA
+1      LINS  SP"
+"            0   1
+0   PONTALINA  GO
+1     NITEROI  RJ
+2  PIRACICABA  SP"
+"           0   1
+0  ITUMBIARA  GO
+1  CAMBORIÃ  SC"
+"         0   1
+0  BRUSQUE  SC"
+"        0   1
+0  BELÃM  PA"
+"                        0   1
+0                  ITIUBA  BA
+1               BRAGANÃA  PA
+2                   LAGES  SC
+3                 BARUERI  SP
+4  SÃO BERNARDO DO CAMPO  SP"
+"                         0   1
+0                 ITABORAI  RJ
+1              PORTO VELHO  RO
+2  SÃO JOSÃ DO RIO PRETO  SP"
+"           0   1
+0  RIO TINTO  PB
+1      NATAL  RN"
+"          0   1
+0  NOVA ERA  MG
+1    PORTEL  PA"
+"              0   1
+0  JOÃO PESSOA  PB
+1        OSASCO  SP"
+"            0   1
+0    POÃÃES  BA
+1     NITEROI  RJ
+2  SÃO JOSÃ  SC
+3  PIRACICABA  SP
+4  SÃO PAULO  SP"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1          IPATINGA  MG
+2       PASSO FUNDO  RS
+3    FlorianÃ³polis  SC"
+"                 0   1
+0  IGARAPÃ GRANDE  MA
+1          GUAÃBA  RS
+2            COTIA  SP"
+"            0   1
+0      SEABRA  BA
+1  SÃO PAULO  SP"
+"              0   1
+0         BETIM  MG
+1      Curitiba  PR
+2        SANTOS  SP
+3  SÃO VICENTE  SP"
+"              0   1
+0  SÃO VICENTE  SP"
+"                 0   1
+0        BRASÃLIA  DF
+1  ITAPECURU-MIRIM  MA
+2         CAMPINAS  SP
+3           SANTOS  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1      SÃO PAULO  SP"
+"                        0   1
+0              RIO BRANCO  AC
+1                 MACAPÃ  AP
+2               BRASÃLIA  DF
+3  SÃO BERNARDO DO CAMPO  SP"
+"             0   1
+0  UBERLÃNDIA  MG
+1    ITAPERUNA  RJ
+2    JOINVILLE  SC
+3  CARMÃPOLIS  SE
+4    GUARULHOS  SP
+5   SÃO PAULO  SP"
+"              0   1
+0  FEIRA GRANDE  AL
+1  TRÃS PONTAS  MG
+2    JI-PARANÃ  RO
+3       Aracaju  SE
+4       ITAPIRA  SP
+5   MOGI GUAÃU  SP"
+"                  0   1
+0  VARJÃO DE MINAS  MG
+1            GOIANA  PE
+2           IPOJUCA  PE
+3        SÃO PAULO  SP"
+"          0   1
+0  MARINGÃ  PR"
+"                      0   1
+0        RIO DE JANEIRO  RJ
+1  BALNEÃRIO PIÃARRAS  SC"
+"                       0   1
+0               GOIÃNIA  GO
+1  PALMEIRA DAS MISSÃES  RS"
+"                0   1
+0        LIMOEIRO  PE
+1  FOZ DO IGUAÃU  PR"
+"                 0   1
+0         Curitiba  PR
+1      MANGARATIBA  RJ
+2  IPIRANGA DO SUL  RS
+3       SÃO PAULO  SP"
+"          0   1
+0  SALVADOR  BA
+1   ARACRUZ  ES"
+"             0   1
+0  UBERLÃNDIA  MG
+1        SEARA  SC
+2   ARAÃATUBA  SP"
+"                     0   1
+0    MALHADA DE PEDRAS  BA
+1             SALVADOR  BA
+2            FORTALEZA  CE
+3  ASSIS CHATEAUBRIAND  PR
+4         TRÃS PASSOS  RS
+5                  ITU  SP
+6               SUZANO  SP
+7          DIANÃPOLIS  TO"
+"                  0   1
+0  CHAPADÃO DO SUL  MS
+1          Curitiba  PR
+2          LONDRINA  PR
+3        ARAÃATUBA  SP
+4          Sorocaba  SP"
+"                          0   1
+0                EunÃ¡polis  BA
+1                 ANÃPOLIS  GO
+2              CurvelÃ¢ndia  MT
+3                JI-PARANÃ  RO
+4                    SANTOS  SP
+5              SERTÃOZINHO  SP
+6                ARAGUAÃNA  TO
+7  Monte Santo do Tocantins  TO
+8                    PALMAS  TO"
+"                 0   1
+0    RONDONÃPOLIS  MT
+1         MARINGÃ  PR
+2  RIBEIRÃO PIRES  SP"
+"             0   1
+0       BELÃM  PA
+1  SANTA INÃS  PR
+2      OSÃRIO  RS"
+"                 0   1
+0   BELO HORIZONTE  MG
+1      UBERLÃNDIA  MG
+2         MAMBORÃ  PR
+3  JARAGUÃ DO SUL  SC
+4          Aracaju  SE"
+"                 0   1
+0        CAMAÃARI  BA
+1         SALVADOR  BA
+2       VILA VELHA  ES
+3   JOÃO PINHEIRO  MG
+4   RIO DE JANEIRO  RJ
+5            BAURU  SP
+6         CAMPINAS  SP
+7        GUARULHOS  SP
+8        PINDORAMA  SP
+9           SANTOS  SP
+10      SÃO PAULO  SP"
+"          0   1
+0  Teresina  PI"
+"               0   1
+0      MORRINHOS  GO
+1        ALFENAS  MG
+2        CORINTO  MG
+3       DOURADOS  MS
+4  SÃO GONÃALO  RJ
+5     MOJI MIRIM  SP
+6     SÃO PAULO  SP"
+"           0   1
+0  ANÃPOLIS  GO
+1   CAMPINAS  SP"
+"           0   1
+0   SALVADOR  BA
+1  ANÃPOLIS  GO
+2     BELÃM  PA"
+"              0   1
+0     ITUMBIARA  GO
+1  DIVINÃPOLIS  MG
+2  CAMPO GRANDE  MS
+3  PRAIA GRANDE  SP"
+"                0   1
+0          MANAUS  AM
+1       ANÃPOLIS  GO
+2  RIO DE JANEIRO  RJ
+3       BOA VISTA  RR
+4          GURUPI  TO"
+"            0   1
+0   BRASÃLIA  DF
+1  DIAMANTINA  MG
+2    MARINGÃ  PR
+3  SÃO PAULO  SP"
+"            0   1
+0   BRASÃLIA  DF
+1    Curitiba  PR
+2  INDAIATUBA  SP"
+"                0   1
+0  FlorianÃ³polis  SC"
+"                        0   1
+0  VARGEM GRANDE PAULISTA  SP"
+"                 0   1
+0  PALMEIRA DOESTE  SP"
+"             0   1
+0        SERRA  ES
+1   VILA VELHA  ES
+2    SÃO LUIS  MA
+3     MARACAJU  MS
+4  PARAUAPEBAS  PA
+5        BAURU  SP
+6   SÃO PAULO  SP"
+"               0   1
+0  LAGOA FORMOSA  MG"
+"             0   1
+0     SALVADOR  BA
+1       ESTEIO  RS
+2  SANTA MARIA  RS"
+"              0   1
+0     BRASÃLIA  DF
+1       ITAPOÃ  SC
+2  SANTO ANDRÃ  SP"
+"          0   1
+0     CRATO  CE
+1  CASCAVEL  PR
+2    CANOAS  RS"
+"                        0   1
+0  JIJOCA DE JERICOACOARA  CE
+1                CONTAGEM  MG
+2           SERRA TALHADA  PE"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1   SÃO FIDÃLIS  RJ
+2          LORENA  SP"
+"           0   1
+0  BRASÃLIA  DF
+1     BELÃM  PA
+2    ATIBAIA  SP"
+"               0   1
+0  VOLTA REDONDA  RJ
+1        Aracaju  SE"
+"          0   1
+0  GOIÃNIA  GO"
+"            0   1
+0    Teresina  PI
+1     LIMEIRA  SP
+2  SÃO PAULO  SP"
+"                0   1
+0    URBERLÃNDIA  MG
+1          BELÃM  PA
+2  RIO DE JANEIRO  RJ
+3      SÃO PAULO  SP"
+"                0   1
+0        TIMBIRAS  MA
+1     UBERLÃNDIA  MG
+2         COLNIZA  MT
+3        Teresina  PI
+4        CASCAVEL  PR
+5  RIO DE JANEIRO  RJ
+6        LAGOINHA  SP
+7    PRAIA GRANDE  SP
+8        ZACARIAS  SP"
+"                  0   1
+0          GOIÃNIA  GO
+1     SÃO DOMINGOS  SC
+2        SÃO PAULO  SP
+3  TABOÃO DA SERRA  SP"
+"                 0   1
+0           MANAUS  AM
+1         Curitiba  PR
+2   RIO DE JANEIRO  RJ
+3     PORTO ALEGRE  RS
+4  RibeirÃ£o Preto  SP
+5       SÃO PAULO  SP"
+"                       0   1
+0  SÃO JOSÃ DOS CAMPOS  SP"
+"               0   1
+0  CANDIDO GODOI  RS"
+"          0   1
+0  GOIÃNIA  GO"
+"               0   1
+0  SANTO ÃNGELO  RS"
+"                        0   1
+0  SÃO BERNARDO DO CAMPO  SP"
+"            0   1
+0    Curitiba  PR
+1  SÃO PAULO  SP"
+"               0   1
+0          BETIM  MG
+1  SÃO LEOPOLDO  RS
+2     SÃO PAULO  SP"
+"                       0   1
+0  APARECIDA DO RIO DOCE  GO
+1          URBANO SANTOS  MA
+2               Curitiba  PR"
+"           0   1
+0  FORTALEZA  CE"
+"              0   1
+0  AÃAILÃNDIA  MA
+1    SÃO PAULO  SP"
+"              0   1
+0  CAMPO GRANDE  MS
+1       CUIABÃ  MT"
+"            0   1
+0  ALAGOINHAS  BA
+1    CAROLINA  MA"
+"               0   1
+0        MACEIÃ  AL
+1      FORTALEZA  CE
+2  SANTA JULIANA  MG
+3        CARUARU  PE
+4     SÃO PAULO  SP"
+"              0   1
+0        BAYEUX  PB
+1  PORTO ALEGRE  RS
+2    SÃO PAULO  SP"
+"                   0   1
+0           SALVADOR  BA
+1       CAMPO GRANDE  MS
+2        CAMPO LARGO  PR
+3           Curitiba  PR
+4          GRAVATAÃ  RS
+5     FlorianÃ³polis  SC
+6  ENGENHEIRO COELHO  SP
+7        MOGI GUAÃU  SP"
+"          0   1
+0  SALVADOR  BA
+1  LONDRINA  PR"
+"                       0   1
+0             MANACAPURU  AM
+1              BRASÃLIA  DF
+2               PIRAPORA  MG
+3                ITAPEVI  SP
+4  SÃO JOSÃ DOS CAMPOS  SP
+5             SÃO PAULO  SP"
+"           0   1
+0  BRASÃLIA  DF
+1   GOIÃNIA  GO"
+"           0   1
+0  BEBEDOURO  SP"
+"                       0   1
+0    RIBEIRÃO DAS NEVES  MG
+1         RIO DE JANEIRO  RJ
+2  SÃO JOSÃ DOS CAMPOS  SP"
+"                         0   1
+0                  MACEIÃ  AL
+1                 GOIÃNIA  GO
+2           BELO HORIZONTE  MG
+3  CABO DE SANTO AGOSTINHO  PE
+4               JATAIZINHO  PR
+5                  Aracaju  SE
+6                   ARUJÃ  SP
+7                 JACAREÃ  SP
+8               SÃO PAULO  SP
+9         TABOÃO DA SERRA  SP"
+"          0   1
+0    BELÃM  PA
+1  Curitiba  PR"
+"                          0   1
+0  MARECHAL CÃNDIDO RONDON  PR
+1               PETRÃPOLIS  RJ
+2                  CAMPINAS  SP
+3                    SANTOS  SP"
+"                      0   1
+0              SALVADOR  BA
+1        RIO DE JANEIRO  RJ
+2              JUNDIAÃ  SP
+3  SANTANA DE PARNAÃBA  SP"
+"              0   1
+0   NOVA RUSSAS  CE
+1  BAIXO GUANDU  ES"
+"          0   1
+0  JACOBINA  BA
+1   CUIABÃ  MT"
+"            0   1
+0  ANANINDEUA  PA"
+"              0   1
+0  SANTO CRISTO  RS"
+"         0   1
+0  UBATUBA  SP"
+"              0   1
+0      SALVADOR  BA
+1     FORTALEZA  CE
+2     BRASÃLIA  DF
+3  SANTO ANDRÃ  SP"
+"               0   1
+0  INDEPENDENCIA  RS
+1       Sorocaba  SP"
+"                0   1
+0        GOIÃNIA  GO
+1  PATOS DE MINAS  MG
+2        MARINGÃ  PR
+3        BLUMENAU  SC
+4       GUARULHOS  SP"
+"       0   1
+0  SALTO  SP"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1         BRASÃLIA  DF
+2        CONCÃRDIA  SC
+3        PENÃPOLIS  SP"
+"            0   1
+0    SALVADOR  BA
+1  SÃO PAULO  SP"
+"                0   1
+0            CATU  BA
+1  BELO HORIZONTE  MG
+2        JUNDIAÃ  SP"
+"             0   1
+0     Curitiba  PR
+1  JABOTICABAL  SP"
+"          0   1
+0   MACEIÃ  AL
+1  GOIÃNIA  GO"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1        SANTIAGO  RS
+2        CAMPINAS  SP
+3        JUNDIAÃ  SP"
+"            0   1
+0  MEDIANEIRA  PR"
+"                      0   1
+0  BALNEÃRIO CAMBORIÃ  SC
+1              GUARUJÃ  SP"
+"                0   1
+0  BELO HORIZONTE  MG"
+"            0   1
+0    MARITUBA  PA
+1     VACARIA  RS
+2  SÃO PAULO  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"            0   1
+0  VILA VELHA  ES"
+"                        0   1
+0                CANDEIAS  BA
+1   VITÃRIA DA CONQUISTA  BA
+2               BRASÃLIA  DF
+3                Curitiba  PR
+4     SANTANA DO ITARARÃ  PR
+5         ARRAIAL DO CABO  RJ
+6            PORTO ALEGRE  RS
+7     PRESIDENTE PRUDENTE  SP
+8  SÃO BERNARDO DO CAMPO  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"          0   1
+0    MACAÃ  RJ
+1  Sorocaba  SP"
+"                  0   1
+0  POÃOS DE CALDAS  MG
+1          Curitiba  PR"
+"                0   1
+0  BELO HORIZONTE  MG
+1         Aracaju  SE
+2        ILHABELA  SP"
+"          0   1
+0  SALVADOR  BA"
+"          0   1
+0   Aracaju  SE
+1  JACAREÃ  SP"
+"    0   1
+0 NaN  AM"
+"       0   1
+0  SERRA  ES
+1  PATOS  PB"
+"                 0   1
+0  RibeirÃ£o Preto  SP"
+"          0   1
+0  GOIÃNIA  GO"
+"            0   1
+0    IMBITUBA  SC
+1  GUARARAPES  SP"
+"               0   1
+0       SALVADOR  BA
+1       TAPIRAÃ  MG
+2  VOLTA REDONDA  RJ"
+"            0   1
+0  ALAGOINHAS  BA"
+"           0   1
+0  GUARULHOS  SP"
+"                0   1
+0       BRASÃLIA  DF
+1  JOAO MONLEVADE  MG
+2           MANGA  MG"
+"    0   1
+0 NaN  AL"
+"                  0   1
+0  LAURO DE FREITAS  BA
+1       UBERLÃNDIA  MG
+2          LONDRINA  PR
+3    RIO DE JANEIRO  RJ"
+"                   0   1
+0     RIO DE JANEIRO  RJ
+1  MACHADINHO DOESTE  RO
+2         SÃO PAULO  SP"
+"           0   1
+0  BRASÃLIA  DF
+1   IBIRITÃ  MG"
+"                 0   1
+0       SANTA ROSA  RS
+1  RibeirÃ£o Preto  SP
+2       ARAGUAÃNA  TO"
+"          0   1
+0  SALVADOR  BA"
+"        0   1
+0  OLINDA  PE
+1  OSASCO  SP"
+"               0   1
+0         BELÃM  PA
+1  NOVO HAMBURGO  RS
+2   PORTO ALEGRE  RS
+3     SÃO PAULO  SP"
+"          0   1
+0     SINOP  MT
+1  ITAGUAÃ  RJ
+2  MARÃLIA  SP"
+"           0   1
+0  BRASÃLIA  DF"
+"            0   1
+0   ITUVERAVA  SP
+1  SÃO PAULO  SP"
+"                0   1
+0  SENADOR CANEDO  GO
+1         ITAPIRA  SP"
+"                        0   1
+0                   SERRA  ES
+1           NOVA FRIBURGO  RJ
+2               ENCANTADO  RS
+3      BRAGANÃA PAULISTA  SP
+4  SANTA BARBARA DO OESTE  SP
+5  SÃO BERNARDO DO CAMPO  SP
+6              SÃO PAULO  SP"
+"                0   1
+0  BELO HORIZONTE  MG"
+"                       0   1
+0  APARECIDA DE GOIÃNIA  GO"
+"                    0   1
+0  PRIMAVERA DO LESTE  MT
+1            MARÃLIA  SP
+2          SÃO PAULO  SP"
+"                         0   1
+0                FRAIBURGO  SC
+1  SÃO JOÃO DA BOA VISTA  SP"
+"               0   1
+0  Montes Claros  MG
+1    UBERLÃNDIA  MG"
+"               0   1
+0  ALTA FLORESTA  MT
+1       TUBARÃO  SC
+2    TAQUARITUBA  SP"
+"                         0   1
+0                   MANAUS  AM
+1                  MACHADO  MG
+2  MONTE ALEGRE DOS CAMPOS  RS
+3           EMBU DAS ARTES  SP
+4                GUARULHOS  SP
+5               SÃO PAULO  SP"
+"               0   1
+0      BRASÃLIA  DF
+1       TOMAZINA  PR
+2  VOLTA REDONDA  RJ"
+"              0   1
+0  DIVINÃPOLIS  MG
+1       CUIABÃ  MT"
+"            0   1
+0  GUARAPUAVA  PR
+1  SÃO PAULO  SP"
+"                0   1
+0      DIAMANTINA  MG
+1  RIO DAS OSTRAS  RJ
+2         Aracaju  SE"
+"                    0   1
+0              MANAUS  AM
+1              ARUJÃ  SP
+2  BRAGANÃA PAULISTA  SP"
+"         0   1
+0  CUIABÃ  MT"
+"                0   1
+0  BELO HORIZONTE  MG"
+"                0   1
+0  BELO HORIZONTE  MG
+1    DIVINÃPOLIS  MG
+2         SARZEDO  MG
+3       PRIMAVERA  PA
+4        Curitiba  PR
+5          TOLEDO  PR
+6         TIJUCAS  SC
+7          SANTOS  SP"
+"                 0   1
+0          ITAPIRA  SP
+1  SANTA FE DO SUL  SP"
+"              0   1
+0  PORTO ALEGRE  RS
+1  PRAIA GRANDE  SP
+2    SÃO PAULO  SP"
+"                   0   1
+0  BARÃO DO TRIUNFO  RS"
+"       0   1
+0  COTIA  SP"
+"                    0   1
+0           GUARAPARI  ES
+1          IMPERATRIZ  MA
+2             UBERABA  MG
+3            CORUMBÃ  MS
+4          COSTA RICA  MS
+5  RESERVA DO IGUAÃU  PR
+6            CHAPECÃ  SC
+7          ARARAQUARA  SP
+8             BIRIGUI  SP
+9          SÃO PAULO  SP"
+"                0   1
+0      CORRENTINA  BA
+1      VILA VELHA  ES
+2        GOIÃNIA  GO
+3  BELO HORIZONTE  MG
+4       CARANGOLA  MG"
+"                0   1
+0        SALVADOR  BA
+1          RECIFE  PE
+2     BARRA MANSA  RJ
+3  RIO DE JANEIRO  RJ
+4           BAURU  SP"
+"           0   1
+0  IBITIRAMA  ES
+1   MARINGÃ  PR"
+"                     0   1
+0  PALMEIRAS DE GOIÃS  GO
+1              RIFAINA  SP"
+"          0   1
+0  Curitiba  PR"
+"                       0   1
+0              BRASÃLIA  DF
+1  SÃO GABRIEL DA PALHA  ES
+2                CUIABÃ  MT
+3         RIO DE JANEIRO  RJ"
+"              0   1
+0   PORTO VELHO  RO
+1  RIO NEGRINHO  SC"
+"           0   1
+0   MARINGÃ  PR
+1  GUARULHOS  SP"
+"                  0   1
+0         FORTALEZA  CE
+1  TABOÃO DA SERRA  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                    0   1
+0  SÃO JOÃO DEL REI  MG
+1               TUPÃ  SP"
+"         0   1
+0  LÃBREA  AM
+1   LAVRAS  MG
+2   BELÃM  PA"
+"                0   1
+0  JOÃO PINHEIRO  MG
+1     COSMÃPOLIS  SP
+2      SÃO PAULO  SP"
+"        0   1
+0  CANELA  RS"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                0   1
+0    PAULO AFONSO  BA
+1       BRASÃLIA  DF
+2  BELO HORIZONTE  MG
+3        Curitiba  PR"
+"              0   1
+0      CONTAGEM  MG
+1  TRÃS PASSOS  RS"
+"                  0   1
+0    CÃNDIDO SALES  BA
+1            CAXIAS  MA
+2      CAMPO GRANDE  MS
+3  CHAPADÃO DO SUL  MS
+4           CUIABÃ  MT
+5          Curitiba  PR
+6   JARAGUÃ DO SUL  SC
+7           VIDEIRA  SC
+8        SÃO PAULO  SP"
+"                0   1
+0        SALVADOR  BA
+1  PINHEIRO PRETO  SC
+2   CÃNDIDO MOTA  SP
+3      SÃO PAULO  SP"
+"               0   1
+0      BRASÃLIA  DF
+1         JATAÃ  GO
+2  JOÃO ALFREDO  PE
+3         LAGUNA  SC"
+"            0   1
+0   BRASÃLIA  DF
+1  SÃO PAULO  SP"
+"                  0   1
+0  LAURO DE FREITAS  BA
+1    PARÃ DE MINAS  MG
+2      CAMPO GRANDE  MS
+3            BAYEUX  PB
+4            SANTOS  SP"
+"              0   1
+0        CANOAS  RS
+1  PORTO ALEGRE  RS"
+"                      0   1
+0  WENCESLAU GUIMARÃES  BA
+1          PIRES DO RIO  GO
+2        BELO HORIZONTE  MG"
+"                         0   1
+0                 SALVADOR  BA
+1                SELVÃRIA  MS
+2             NOVA IGUAÃU  RJ
+3  SÃO JOSÃ DO RIO PRETO  SP"
+"                         0   1
+0                  NANUQUE  MG
+1           PADRE PARAÃSO  MG
+2                  MARABÃ  PA
+3                 IMBITUVA  PR
+4                 PARELHAS  RN
+5                 IMBITUBA  SC
+6                    BAURU  SP
+7                   CEDRAL  SP
+8                     JAÃ  SP
+9    PIRAPORA DO BOM JESUS  SP
+10  SÃO BERNARDO DO CAMPO  SP
+11              SÃO PAULO  SP"
+"                  0   1
+0         QUEIMADOS  RJ
+1  SANTO ANASTÃCIO  SP
+2        SÃO PAULO  SP"
+"          0   1
+0  GOIÃNIA  GO
+1     IRANI  SC
+2   MONDAÃ  SC"
+"            0   1
+0   FORTALEZA  CE
+1  SÃO PAULO  SP
+2    TAUBATÃ  SP"
+"                         0   1
+0                BARREIRAS  BA
+1            CAXIAS DO SUL  RS
+2               SÃO JOSÃ  SC
+3                 ELDORADO  SP
+4             SERTÃOZINHO  SP
+5  SÃO JOSÃ DO RIO PRETO  SP
+6               SÃO PAULO  SP"
+"                      0   1
+0  BALNEÃRIO CAMBORIÃ  SC
+1            SÃO PAULO  SP"
+"          0   1
+0  PEREIRAS  SP"
+"                0   1
+0       BRASÃLIA  DF
+1  NOVA ANDRADINA  MS
+2     PASSO FUNDO  RS"
+"        0   1
+0  TOLEDO  PR"
+"            0   1
+0   FORTALEZA  CE
+1       MAFRA  SC
+2   GUARAREMA  SP
+3  SÃO PAULO  SP"
+"                  0   1
+0         CAMAÃARI  BA
+1  LAURO DE FREITAS  BA
+2          SALVADOR  BA
+3       PASSO FUNDO  RS
+4           BARUERI  SP
+5          LOUVEIRA  SP"
+"          0   1
+0  Curitiba  PR"
+"                       0   1
+0           CAMPO GRANDE  MS
+1               GAROPABA  SC
+2  SÃO JOSÃ DOS CAMPOS  SP"
+"         0   1
+0  LIMEIRA  SP"
+"                   0   1
+0             MANAUS  AM
+1           SALVADOR  BA
+2          BRASÃLIA  DF
+3     BELO HORIZONTE  MG
+4          ITANHANDU  MG
+5       JUIZ DE FORA  MG
+6  COLORADO DO OESTE  RO
+7      CAPÃO BONITO  SP
+8            DIADEMA  SP
+9          RIO CLARO  SP"
+"         0   1
+0  CUIABÃ  MT"
+"                        0   1
+0                JUAZEIRO  BA
+1          BELO HORIZONTE  MG
+2               CONGONHAS  MG
+3            TRÃS PONTAS  MG
+4                 CUIABÃ  MT
+5                  RECIFE  PE
+6          BARBOSA FERRAZ  PR
+7                CIANORTE  PR
+8            PONTA GROSSA  PR
+9                  TOLEDO  PR
+10         RIO DE JANEIRO  RJ
+11  PALMEIRA DAS MISSÃES  RS
+12                PELOTAS  RS
+13              CAMBORIÃ  SC
+14                JANDIRA  SP
+15        PINDAMONHANGABA  SP
+16                 SANTOS  SP
+17             SÃO PAULO  SP"
+"                0   1
+0  TELEMACO BORBA  PR
+1          BARIRI  SP"
+"             0   1
+0     CAITITÃ  BA
+1      ITABIRA  MG
+2  BARRA MANSA  RJ"
+"                   0   1
+0  JUAZEIRO DO NORTE  CE
+1           BLUMENAU  SC"
+"                 0   1
+0  ESTÃNCIA VELHA  RS"
+"                        0   1
+0          RIO DE JANEIRO  RJ
+1  SÃO BERNARDO DO CAMPO  SP"
+"            0   1
+0    ESTREITO  MA
+1  MONTE AZUL  MG
+2  CAJAZEIRAS  PB
+3     IPOJUCA  PE"
+"                     0   1
+0  RIBEIRÃO DAS NEVES  MG
+1               BELÃM  PA"
+"                     0   1
+0          UBERLÃNDIA  MG
+1       BARBOSA FERRAZ  PR
+2    DIAMANTE DO OESTE  PR
+3       RIO DE JANEIRO  RJ
+4        VOLTA REDONDA  RJ
+5            JOINVILLE  SC
+6  SÃO CAETANO DO SUL  SP"
+"            0   1
+0    JUNDIAÃ  SP
+1  SÃO PAULO  SP"
+"                    0   1
+0  BRAGANÃA PAULISTA  SP
+1        SANTO ANDRÃ  SP"
+"              0   1
+0  TrÃªs Lagoas  MS
+1      CASCAVEL  PR
+2    SÃO PAULO  SP"
+"             0   1
+0  SANTA MARIA  RS"
+"                    0   1
+0           CAMAÃARI  BA
+1           BRASÃLIA  DF
+2  FRANCISCO BELTRÃO  PR"
+"        0   1
+0  CANOAS  RS
+1   BAURU  SP"
+"          0   1
+0  CIANORTE  PR"
+"          0   1
+0  BARRETOS  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1          BELÃM  PA"
+"                0   1
+0        SALVADOR  BA
+1        GOIÃNIA  GO
+2  RIO DE JANEIRO  RJ"
+"                0   1
+0  BELO HORIZONTE  MG
+1      OURO PRETO  MG
+2        Curitiba  PR
+3        FIGUEIRA  PR
+4  RIO DE JANEIRO  RJ
+5         Aracaju  SE
+6          FRANCA  SP
+7         ITATIBA  SP
+8      SÃO PAULO  SP"
+"            0   1
+0    MARACAJU  MS
+1  SÃO PAULO  SP"
+"                0   1
+0       ITAPIPOCA  CE
+1       BRASÃLIA  DF
+2   RIO BRILHANTE  MS
+3  FlorianÃ³polis  SC
+4       MONTE MOR  SP"
+"                   0   1
+0  TANGARÃ DA SERRA  MT
+1        BARRA FUNDA  RS"
+"               0   1
+0      BRASÃLIA  DF
+1  TEOFILO OTONI  MG
+2      ITAPERUNA  RJ"
+"           0   1
+0   SALVADOR  BA
+1  GUARAPARI  ES
+2   VITÃRIA  ES"
+"            0   1
+0  INDAIATUBA  SP"
+"                0   1
+0      PIRACURUCA  PI
+1  FOZ DO IGUAÃU  PR"
+"              0   1
+0     BARREIRAS  BA
+1     ANÃPOLIS  GO
+2       ITABIRA  MG
+3       CUIABÃ  MT
+4  PONTA GROSSA  PR"
+"                 0   1
+0  TELÃMACO BORBA  PR
+1        JOINVILLE  SC"
+"                        0   1
+0                  JARDIM  MS
+1                JACUNDÃ  PA
+2                PALMARES  PE
+3                CURIÃVA  PR
+4  SÃO JOSÃ DOS PINHAIS  PR
+5          RIO DE JANEIRO  RJ
+6                   LAGES  SC
+7                LUCÃLIA  SP
+8                  OSASCO  SP
+9              SÃO PAULO  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                 0   1
+0           MANAUS  AM
+1        CARIACICA  ES
+2      UBERLÃNDIA  MG
+3         Curitiba  PR
+4       MATELANDIA  PR
+5  NOVA ESPERANÃA  PR
+6   RIBERÃO PIRES  SP
+7       SÃO PAULO  SP"
+"          0   1
+0  CAMPINAS  SP"
+"                       0   1
+0                 MANAUS  AM
+1               SALVADOR  BA
+2  APARECIDA DE GOIÃNIA  GO
+3                  IRATI  PR"
+"             0   1
+0      Itarana  ES
+1    ESTÃNCIA  SE
+2   GUARARAPES  SP
+3  Luzinopolis  TO"
+"               0   1
+0  SÃO GONÃALO  RJ"
+"                      0   1
+0  CONSELHEIRO LAFAIETE  MG
+1        JOAO MONLEVADE  MG
+2               RESENDE  RJ
+3               SERRANA  SP"
+"         0   1
+0   BELÃM  PA
+1  BARUERI  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"               0   1
+0  GUARATINGUETA  SP
+1     JAGUARIUNA  SP
+2         PALMAS  TO"
+"                0   1
+0  FOZ DO IGUAÃU  PR
+1      SÃO PAULO  SP"
+"           0   1
+0  FORTALEZA  CE
+1    BURITIS  MG"
+"          0   1
+0  SALVADOR  BA
+1     BAURU  SP"
+"             0   1
+0       MANAUS  AM
+1     SALVADOR  BA
+2  SETE LAGOAS  MG
+3   PARANAGUÃ  PR"
+"             0   1
+0  UBERLÃNDIA  MG
+1   SÃO PAULO  SP"
+"                        0   1
+0                 ITABUNA  BA
+1                SALVADOR  BA
+2              COROMANDEL  MG
+3                Curitiba  PR
+4          FlorianÃ³polis  SC
+5                 LAGARTO  SE
+6                CAMPINAS  SP
+7               GUARAREMA  SP
+8               IGARAPAVA  SP
+9         RibeirÃ£o Preto  SP
+10           SERTÃOZINHO  SP
+11  SÃO JOSÃ DOS CAMPOS  SP
+12             SÃO PAULO  SP"
+"                  0   1
+0            MANAUS  AM
+1           IPAMERI  GO
+2    BELO HORIZONTE  MG
+3         ARAPONGAS  PR
+4        PIRACICABA  SP
+5        SÃO PAULO  SP
+6  TABOÃO DA SERRA  SP"
+"            0   1
+0  IBIPITANGA  BA
+1   AMERICANA  SP"
+"             0   1
+0    BRASÃLIA  DF
+1  URBELÃNDIA  MG
+2      VILHENA  RO
+3       OSASCO  SP"
+"               0   1
+0  RONDONÃPOLIS  MT"
+"                       0   1
+0      EUCLIDES DA CUNHA  BA
+1               CAMPINAS  SP
+2              GUARULHOS  SP
+3        MOGI DAS CRUZES  SP
+4  SÃO JOSÃ DOS CAMPOS  SP
+5             SÃO PAULO  SP"
+"            0   1
+0    SALVADOR  BA
+1    CANGUÃU  RS
+2     XANXERE  SC
+3  SÃO PAULO  SP"
+"           0   1
+0  BRASÃLIA  DF
+1   VALINHOS  SP"
+"                        0   1
+0                 CAMACAN  BA
+1              ANANINDEUA  PA
+2               JOINVILLE  SC
+3              PORTO BELO  SC
+4  SANTA BARBARA DO OESTE  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                0   1
+0        GOIÃNIA  GO
+1        CONTAGEM  MG
+2  CAMPINA GRANDE  PB
+3   SANTO ÃNGELO  RS
+4      SÃO PAULO  SP"
+"           0   1
+0    NITEROI  RJ
+1  GUARULHOS  SP"
+"                      0   1
+0                MANAUS  AM
+1         SIMÃES FILHO  BA
+2  BALNEÃRIO CAMBORIÃ  SC"
+"                        0   1
+0                SALVADOR  BA
+1  SÃO PEDRO DOS CRENTES  MA
+2                 CUIABÃ  MT
+3               AMERICANA  SP"
+"        0   1
+0  ARAXÃ  MG"
+"         0   1
+0  MARABÃ  PA"
+"                0   1
+0  BELO HORIZONTE  MG
+1  FREI INOCENCIO  MG
+2          CAMBÃ  PR
+3        CAMPINAS  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1    NOVA IGUAÃU  RJ
+2    PEDRO AFONSO  TO"
+"                        0   1
+0     PALMEIRA DOS INDIOS  AL
+1           ASTOLFO DUTRA  MG
+2              PONTE NOVA  MG
+3            CAMPO GRANDE  MS
+4            PONTA GROSSA  PR
+5  SÃO JOSÃ DOS PINHAIS  PR
+6              PIRACICABA  SP
+7              SÃO PAULO  SP
+8        VÃRZEA PAULISTA  SP"
+"                         0   1
+0                BUERAREMA  BA
+1         FEIRA DE SANTANA  BA
+2  VENDA NOVA DO IMIGRANTE  ES
+3      CARMO DO PARANAÃBA  MG
+4             CASSILÃNDIA  MS
+5            RONDONÃPOLIS  MT
+6             NOVA IGUAÃU  RJ
+7                  XANXERE  SC
+8                 ANGATUBA  SP
+9                   OSASCO  SP"
+"                0   1
+0  ROLIM DE MOURA  RO"
+"                0   1
+0           CONDE  BA
+1  RIO DE JANEIRO  RJ"
+"                       0   1
+0                MACEIÃ  AL
+1  GOVERNADOR LINDENBERG  ES
+2                CUIABÃ  MT
+3              BOA VISTA  RR
+4             SÃO PAULO  SP"
+"                0   1
+0       FORTALEZA  CE
+1          LAVRAS  MG
+2  RIO DE JANEIRO  RJ"
+"                        0   1
+0                JUAZEIRO  BA
+1             NOVO BRASIL  GO
+2          PARAIBA DO SUL  RJ
+3  SANTA BARBARA DO OESTE  SP"
+"            0   1
+0   CASA NOVA  BA
+1    SALVADOR  BA
+2      MACAÃ  RJ
+3       BAURU  SP
+4  SÃO PAULO  SP"
+"       0   1
+0  SERRA  ES"
+"                         0   1
+0                 IBICOARA  BA
+1                   SEBERI  RS
+2  SÃO JOSÃ DO RIO PRETO  SP
+3               SÃO PAULO  SP"
+"            0   1
+0     MACAPÃ  AP
+1      BELÃM  PA
+2       SEARA  SC
+3  SÃO PAULO  SP"
+"                 0   1
+0          PINHAIS  PR
+1         CAMPINAS  SP
+2  RibeirÃ£o Preto  SP
+3      SÃO CARLOS  SP"
+"                0   1
+0    JOÃO PESSOA  PB
+1  RIO DE JANEIRO  RJ
+2     SÃO CARLOS  SP"
+"                       0   1
+0            FARROUPILHA  RS
+1         EMBU DAS ARTES  SP
+2           SANTO ANDRÃ  SP
+3  SÃO JOSÃ DOS CAMPOS  SP
+4             SÃO PAULO  SP"
+"               0   1
+0  BAIXO GUANDÃ  ES
+1   TrÃªs Lagoas  MS
+2  CARAGUATATUBA  SP"
+"         0   1
+0  ITAPIRA  SP"
+"                0   1
+0       FORTALEZA  CE
+1        CASCAVEL  PR
+2       GUAPOREMA  PR
+3  RIO DE JANEIRO  RJ
+4    CAMPOS NOVOS  SC
+5     CUNHA PORÃ  SC
+6          SUZANO  SP"
+"                0   1
+0       FORTALEZA  CE
+1      ARAPUTANGA  MT
+2   NOVA FRIBURGO  RJ
+3          QUATIS  RJ
+4  RIO DE JANEIRO  RJ
+5           BAURU  SP
+6      PIRACICABA  SP
+7      SÃO PAULO  SP
+8      ARAGUAÃNA  TO"
+"          0   1
+0  SALVADOR  BA
+1   SARANDI  RS"
+"                        0   1
+0  SÃO MIGUEL DOS CAMPOS  AL
+1                 ALFENAS  MG
+2               ITUIUTABA  MG"
+"              0   1
+0  CASSILÃNDIA  MS"
+"          0   1
+0  BLUMENAU  SC"
+"                       0   1
+0               GOIÃNIA  GO
+1  CAMPOS DOS GOYTACAZES  RJ
+2              CATANDUVA  SP
+3        MOGI DAS CRUZES  SP
+4             SÃO PAULO  SP"
+"              0   1
+0        MANAUS  AM
+1   CARAPICUIBA  SP
+2  TAQUARITINGA  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1        MESQUITA  RJ
+2        HOLAMBRA  SP
+3      SÃO PAULO  SP"
+"         0   1
+0  COLOMBO  PR"
+"                0   1
+0       CARBONITA  MG
+1  VÃRZEA GRANDE  MT
+2       SCHROEDER  SC"
+"                        0   1
+0                  MANAUS  AM
+1    CONSELHEIRO LAFAIETE  MG
+2  SÃO MIGUEL DO IGUAÃU  PR
+3          RIO DE JANEIRO  RJ
+4              SÃO PAULO  SP"
+"                      0   1
+0  SÃO JOÃO DO PIAUÃ  PI"
+"            0   1
+0    Curitiba  PR
+1  INDAIATUBA  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1       ANDRADINA  SP"
+"           0   1
+0  JOINVILLE  SC
+1   CAMPINAS  SP"
+"         0   1
+0  SURUBIM  PE
+1   TOLEDO  PR
+2   SANTOS  SP"
+"             0   1
+0  UBERLÃNDIA  MG
+1     Teresina  PI
+2      IRETAMA  PR"
+"                0   1
+0      VILA VELHA  ES
+1       PEDREIRAS  MA
+2  BELO HORIZONTE  MG
+3     PASSO FUNDO  RS
+4      SÃO PAULO  SP"
+"          0   1
+0   CUIABÃ  MT
+1  CASCAVEL  PR"
+"              0   1
+0    NEPOMUCENO  MG
+1  PORTO ALEGRE  RS
+2      JUNDIAÃ  SP
+3    SÃO PAULO  SP"
+"         0   1
+0  ILHÃUS  BA"
+"        0   1
+0   BETIM  MG
+1  RECIFE  PE"
+"                0   1
+0        SALVADOR  BA
+1       BRASÃLIA  DF
+2  SANTA BÃRBARA  MG
+3        Curitiba  PR
+4           CANAS  SP
+5        MARÃLIA  SP
+6      SÃO PAULO  SP
+7         ANANÃS  TO"
+"             0   1
+0  SANTA LUZIA  MG
+1    GUARULHOS  SP
+2   SÃO PAULO  SP"
+"          0   1
+0  GOIÃNIA  GO"
+"              0   1
+0      GOIÃNIA  GO
+1       ATIBAIA  SP
+2  PIRASSUNUNGA  SP
+3    SÃO PAULO  SP"
+"          0   1
+0  VITÃRIA  ES
+1  JUNDIAÃ  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                    0   1
+0           BRASÃLIA  DF
+1           LUZIÃNIA  GO
+2            IPATINGA  MG
+3           SANTARÃM  PA
+4  SÃO JOSÃ DE UBÃ  RJ"
+"         0   1
+0  NITEROI  RJ
+1  CACEQUI  RS"
+"        0   1
+0  PONTAL  SP"
+"              0   1
+0      GOIÃNIA  GO
+1  AFONSO CUNHA  MA
+2    SÃO PAULO  SP"
+"               0   1
+0     ALAGOINHAS  BA
+1       SALVADOR  BA
+2      SÃO LUIS  MA
+3        FORMIGA  MG
+4        SORRISO  MT
+5  SÃO GONÃALO  RJ
+6          NATAL  RN"
+"                    0   1
+0          VILA VELHA  ES
+1            GOIÃNIA  GO
+2   CANAA DOS CARAJAS  PA
+3        JOÃO PESSOA  PB
+4            MARINGÃ  PR
+5              MACAÃ  RJ
+6  BRAGANÃA PAULISTA  SP
+7          SÃO ROQUE  SP"
+"        0   1
+0  MACAÃ  RJ"
+"                0   1
+0       BRASÃLIA  DF
+1  SENADOR CANEDO  GO"
+"       0   1
+0  SINOP  MT"
+"                  0   1
+0          SALVADOR  BA
+1          IBIRAÃU  ES
+2             CASCA  RS
+3      NOVO CABRAIS  RS
+4           ITAJAÃ  SC
+5        SÃO PAULO  SP
+6  TABOÃO DA SERRA  SP"
+"                     0   1
+0       CAMPO DO BRITO  SE
+1          JABOTICABAL  SP
+2  PRESIDENTE PRUDENTE  SP
+3           SÃO PAULO  SP"
+"                        0   1
+0                SALVADOR  BA
+1  SÃO BERNARDO DO CAMPO  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                        0   1
+0          PEDRO LEOPOLDO  MG
+1  SANTA BÃRBARA D OESTE  SP"
+"                         0   1
+0           RIO DE JANEIRO  RJ
+1  SÃO JOSÃ DO RIO PRETO  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                0   1
+0         ALFENAS  MG
+1  NOVO PROGRESSO  PA
+2      ARAUCÃRIA  PR
+3         INDAIAL  SC
+4        JUNDIAÃ  SP"
+"                0   1
+0        VITÃRIA  ES
+1  BELO HORIZONTE  MG
+2   CAMPO MOURÃO  PR
+3  RIO DE JANEIRO  RJ"
+"                0   1
+0        LONDRINA  PR
+1  RIO DE JANEIRO  RJ
+2           IMBÃ  RS
+3   GUARATINGUETA  SP"
+"            0   1
+0      ARAUÃ  SE
+1    CAMPINAS  SP
+2  SÃO PAULO  SP"
+"               0   1
+0      GUARAPARI  ES
+1  SANTO AUGUSTO  RS
+2     ARARAQUARA  SP"
+"                    0   1
+0               NATAL  RN
+1  BRAGANÃA PAULISTA  SP"
+"                      0   1
+0            JAGUAQUARA  BA
+1          EUSï¿½ï¿½BIO  CE
+2  CONSELHEIRO LAFAIETE  MG"
+"        0   1
+0  MISSAL  PR
+1  CANOAS  RS"
+"                         0   1
+0           RIO DE JANEIRO  RJ
+1  SÃO JOSÃ DO RIO PRETO  SP"
+"           0   1
+0  SÃO LUIS  MA
+1   LONDRINA  PR"
+"                       0   1
+0               CATALÃO  GO
+1         RIO DE JANEIRO  RJ
+2  SÃO BENTO DO SAPUCAI  SP
+3             SÃO PAULO  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"            0   1
+0   BRASÃLIA  DF
+1   JOINVILLE  SC
+2  ARAGUAÃNA  TO"
+"                   0   1
+0          ARIQUEMES  RO
+1  SÃO BENTO DO SUL  SC
+2              BAURU  SP
+3            JANDIRA  SP"
+"                          0   1
+0                 CARIACICA  ES
+1               PARAGOMINAS  PA
+2  NOSSA SENHORA DE LOURDES  SE"
+"           0   1
+0  CAMAÃARI  BA
+1  BRASÃLIA  DF"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"            0   1
+0   FORTALEZA  CE
+1  PIRACICABA  SP"
+"                0   1
+0       FORTALEZA  CE
+1       BRASÃLIA  DF
+2  PEDRO CANÃRIO  ES
+3         ERECHIM  RS
+4      SÃO JOSÃ  SC
+5      PIRACICABA  SP
+6          SUZANO  SP"
+"                         0   1
+0                 TERESINA  PI
+1  SÃO JOSÃ DO RIO PRETO  SP
+2               SÃO PAULO  SP"
+"                0   1
+0         FORMOSA  GO
+1  RIO DE JANEIRO  RJ"
+"       0   1
+0  TAIÃ  SC"
+"          0   1
+0  JUNDIAÃ  SP"
+"             0   1
+0  BARRA MANSA  RJ"
+"                   0   1
+0  GUARANTA DO NORTE  MT
+1           CHAPECÃ  SC"
+"                         0   1
+0                BRASÃLIA  DF
+1  SÃO MIGUEL DO GUAPORÃ  RO
+2               ARAGUATINS  TO"
+"              0   1
+0     ANÃPOLIS  GO
+1  AVELINOPOLIS  GO"
+"            0   1
+0    SALVADOR  BA
+1  SÃO PAULO  SP"
+"          0   1
+0  LONDRINA  PR"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                         0   1
+0                FORTALEZA  CE
+1  BARRA DE SÃO FRANCISCO  ES
+2            MONTES CLAROS  MG
+3           RIO DE JANEIRO  RJ
+4   SÃO BERNARDO DO CAMPO  SP
+5               SÃO PAULO  SP"
+"            0   1
+0      RECIFE  PE
+1  SÃO PAULO  SP"
+"            0   1
+0     MACEIÃ  AL
+1    DOURADOS  MS
+2    MARÃLIA  SP
+3  SÃO PAULO  SP"
+"           0   1
+0  CARIACICA  ES
+1   ITAITUBA  PA
+2   Teresina  PI
+3    NITEROI  RJ"
+"                0   1
+0        GOIÃNIA  GO
+1   Montes Claros  MG
+2  PATOS DE MINAS  MG
+3      CERRO AZUL  PR
+4        Sorocaba  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"            0   1
+0  PENÃPOLIS  SP"
+"             0   1
+0  FILADÃLFIA  BA
+1    APUCARANA  PR"
+"            0   1
+0      MANAUS  AM
+1    GOIÃNIA  GO
+2    JUNDIAÃ  SP
+3    Sorocaba  SP
+4  SÃO PAULO  SP"
+"                        0   1
+0         MOGI DAS CRUZES  SP
+1  SÃO BERNARDO DO CAMPO  SP
+2              SÃO PAULO  SP"
+"                         0   1
+0                  MACEIÃ  AL
+1           BELO HORIZONTE  MG
+2                APUCARANA  PR
+3  SÃO JOSÃ DO RIO PRETO  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1      SÃO PAULO  SP"
+"             0   1
+0     GOIÃNIA  GO
+1     ITAJUBÃ  MG
+2  UBERLÃNDIA  MG
+3     FLORIANO  PI"
+"                  0   1
+0         FORTALEZA  CE
+1         NOVO GAMA  GO
+2  GENERAL CARNEIRO  MT
+3          CURITIBA  PR
+4        SÃO PAULO  SP"
+"                        0   1
+0                  BALSAS  MA
+1          BELO HORIZONTE  MG
+2                CANARANA  MT
+3  SÃO JOSÃ DOS PINHAIS  PR"
+"                          0   1
+0  SANTO ANTÃNIO DE PÃDUA  RJ
+1                SÃO PAULO  SP"
+"                0   1
+0          RECIFE  PE
+1   CAMPO MOURÃO  PR
+2  JANDAIA DO SUL  PR
+3     BARRA MANSA  RJ
+4  RIO DE JANEIRO  RJ
+5          OSASCO  SP
+6          PALMAS  TO"
+"        0   1
+0  PALMAS  TO"
+"                0   1
+0      GOIANÃSIA  GO
+1  BELO HORIZONTE  MG
+2        LONDRINA  PR"
+"           0   1
+0  BRASÃLIA  DF
+1  CARIACICA  ES
+2   VITÃRIA  ES
+3   VALENÃA  RJ
+4   CAMPINAS  SP
+5   DUARTINA  SP
+6    TABAPUA  SP"
+"         0   1
+0  CUIABÃ  MT"
+"              0   1
+0      MURITIBA  BA
+1  PONTA GROSSA  PR
+2     GUARULHOS  SP"
+"    0   1
+0 NaN  BA"
+"        0   1
+0  SANTOS  SP"
+"               0   1
+0        SALINAS  MG
+1  IGUABA GRANDE  RJ
+2       GUARUJÃ  SP"
+"            0   1
+0  IMPERATRIZ  MA
+1  SÃO PAULO  SP"
+"             0   1
+0  SANTA INÃS  MA"
+"                        0   1
+0                  MANAUS  AM
+1               BRASÃLIA  DF
+2                OLIVEIRA  MG
+3                PERDIZES  MG
+4  SÃO BERNARDO DO CAMPO  SP"
+"          0   1
+0  LONDRINA  PR"
+"              0   1
+0  ASSIS BRASIL  AC"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                 0   1
+0        CARAMBEÃ  PR
+1  ITAQUAQUECETUBA  SP"
+"                       0   1
+0  AGUAS LINDAS DE GOIAS  GO
+1                SORRISO  MT"
+"          0   1
+0  GOIÃNIA  GO"
+"                        0   1
+0               BRASÃLIA  DF
+1   GOVERNADOR LINDENBERG  ES
+2                GOIÃNIA  GO
+3            GRÃO MONGOL  MG
+4            CAMPO GRANDE  MS
+5                   AREIA  PB
+6                  RECIFE  PE
+7            NOVA IGUAÃU  RJ
+8            CACHOEIRINHA  RS
+9         SAPUCAIA DO SUL  RS
+10              GUARULHOS  SP
+11           HORTOLÃNDIA  SP
+12        RibeirÃ£o Preto  SP
+13             SÃO PAULO  SP"
+"                0   1
+0       QUIJINGUE  BA
+1  BELO HORIZONTE  MG
+2    SANTO ANDRÃ  SP
+3      SÃO PAULO  SP"
+"            0   1
+0    SALVADOR  BA
+1  SÃO PAULO  SP"
+"           0   1
+0  BRASÃLIA  DF
+1   JUNDIAÃ  SP"
+"          0   1
+0  CONTAGEM  MG"
+"            0   1
+0    SALVADOR  BA
+1   CONGONHAS  MG
+2  REDENÃÃO  PA
+3       BAURU  SP
+4    CAMPINAS  SP
+5      OSASCO  SP"
+"            0   1
+0    SALVADOR  BA
+1      MATÃO  SP
+2  SÃO PAULO  SP"
+"              0   1
+0  TERESÃPOLIS  RJ
+1      Sorocaba  SP
+2    SÃO PAULO  SP
+3    SÃO PEDRO  SP"
+"             0   1
+0  ITACOATIARA  AM"
+"                   0   1
+0            MACEIÃ  AL
+1           SALVADOR  BA
+2          BRASÃLIA  DF
+3           ARAGUARI  MG
+4        MALACACHETA  MG
+5     PARÃ DE MINAS  MG
+6             OLINDA  PE
+7          DOURADINA  PR
+8     RIO DE JANEIRO  RJ
+9   NOVA PETRÃPOLIS  RS
+10          CAMPINAS  SP
+11   ITAQUAQUECETUBA  SP
+12        SÃO PAULO  SP"
+"                0   1
+0        GOIÃNIA  GO
+1        PINHEIRO  MA
+2    CAMPO GRANDE  MS
+3        ITAITUBA  PA
+4  RIO DE JANEIRO  RJ
+5      SÃO PAULO  SP"
+"                      0   1
+0             SÃO LUIZ  MA
+1           UBERLÃNDIA  MG
+2  ARMAÃÃO DE BÃZIOS  RJ
+3         SÃO GONÃALO  RJ
+4               URUPEMA  SC
+5                 JALES  SP
+6                 MAUÃ  SP
+7          SANTO ANDRÃ  SP
+8              Sorocaba  SP
+9   SÃO CAETANO DO SUL  SP"
+"              0   1
+0  CAMPO GRANDE  MS"
+"                         0   1
+0     BRASILANDIA DE MINAS  MG
+1                  MURIAÃ  MG
+2             ITAPETININGA  SP
+3                 PERUÃBE  SP
+4  SÃO JOSÃ DO RIO PRETO  SP
+5               SÃO PAULO  SP"
+"              0   1
+0  JOÃO PESSOA  PB
+1    SÃO PAULO  SP"
+"                        0   1
+0                    CATU  BA
+1        FEIRA DE SANTANA  BA
+2            IBIRAPITANGA  BA
+3               BRASÃLIA  DF
+4              VILA VELHA  ES
+5                TERESINA  PI
+6           SÃO GONÃALO  RJ
+7               APARECIDA  SP
+8                 BARUERI  SP
+9   SÃO JOSÃ DOS CAMPOS  SP
+10             SÃO PAULO  SP"
+"                       0   1
+0  SÃO JOAQUIM DA BARRA  SP"
+"                 0   1
+0  PEROLA DO OESTE  PR"
+"              0   1
+0        LAVRAS  MG
+1   DUAS BARRAS  RJ
+2  SANTO ANDRÃ  SP"
+"                 0   1
+0         SALVADOR  BA
+1  AFONSO CLÃUDIO  ES
+2           BELÃM  PA"
+"                        0   1
+0              RIO BRANCO  AC
+1                SALVADOR  BA
+2             SANTA LUZIA  BA
+3          SANTA BÃRBARA  MG
+4                 SERTÃO  RS
+5                CAMPINAS  SP
+6                OURINHOS  SP
+7  SANTA BARBARA DO OESTE  SP
+8                 SUMARÃ  SP"
+"                         0   1
+0         MONTE APRAZÃVEL  SP
+1  SÃO JOSÃ DO RIO PRETO  SP
+2               SÃO PAULO  SP"
+"          0   1
+0  CAMPINAS  SP"
+"                0   1
+0    CAMPO GRANDE  MS
+1        Curitiba  PR
+2  RIO DE JANEIRO  RJ
+3      SÃO PAULO  SP"
+"                     0   1
+0  GUARACIABA DO NORTE  CE
+1       BELO HORIZONTE  MG
+2               BELÃM  PA
+3    JAÃ DO TOCANTINS  TO"
+"                0   1
+0       FORTALEZA  CE
+1        GOIÃNIA  GO
+2        PARACATU  MG
+3          IPORÃ  PR
+4  RIO DE JANEIRO  RJ
+5         BARUERI  SP
+6          PONTAL  SP"
+"                       0   1
+0  SÃO JOAQUIM DE BICAS  MG
+1     BALNEÃRIO RINCÃO  SC
+2             PENÃPOLIS  SP"
+"            0   1
+0      MANAUS  AM
+1  SÃO PAULO  SP"
+"         0   1
+0  CONFINS  MG"
+"              0   1
+0  SANTO ANDRÃ  SP"
+"                   0   1
+0          FORTALEZA  CE
+1        LUMINÃRIAS  MG
+2  TRAJANO DE MORAES  RJ
+3            QUEIROZ  SP"
+"            0   1
+0  VILA VELHA  ES
+1      CANOAS  RS
+2     LAGARTO  SE"
+"              0   1
+0  PORTO ALEGRE  RS
+1    SÃO PAULO  SP"
+"                 0   1
+0        ANÃPOLIS  GO
+1          CUIABÃ  MT
+2   VÃRZEA GRANDE  MT
+3   RIO DE JANEIRO  RJ
+4  RibeirÃ£o Preto  SP
+5       SÃO PAULO  SP"
+"                  0   1
+0        ESMERALDAS  MG
+1  VÃRZEA PAULISTA  SP"
+"                     0   1
+0       RIO DE JANEIRO  RJ
+1  NOVA INDEPENDÃNCIA  SP"
+"                      0   1
+0              CURITIBA  PR
+1  SÃO MIGUEL DO OESTE  SC
+2                 ASSIS  SP
+3       RIBEIRÃO PIRES  SP"
+"           0   1
+0   ARIPUANA  MT
+1  BOA VISTA  RR"
+"                       0   1
+0              FORTALEZA  CE
+1  CONCEIÃÃO DOS OUROS  MG
+2         RIO DE JANEIRO  RJ
+3               BIGUAÃU  SC"
+"          0   1
+0  GOIÃNIA  GO
+1  MINEIROS  GO"
+"           0   1
+0  SÃO LUIS  MA"
+"             0   1
+0  PORTO VELHO  RO"
+"                0   1
+0    NOVA SERRANA  MG
+1          Uruara  PA
+2  RIO DE JANEIRO  RJ
+3       GUARULHOS  SP
+4    SANTA ISABEL  SP"
+"            0   1
+0  ÃGUA FRIA  BA
+1   BRASÃLIA  DF
+2   PAULÃNIA  SP"
+"                   0   1
+0           MESQUITA  RJ
+1  ESPIGÃO DO OESTE  RO"
+"           0   1
+0  ANÃPOLIS  GO"
+"                 0   1
+0  MOGI DAS CRUZES  SP"
+"                0   1
+0  PATOS DE MINAS  MG
+1        VARGINHA  MG
+2        Curitiba  PR"
+"            0   1
+0    GOIÃNIA  GO
+1    PROPRIÃ  SE
+2  SÃO PAULO  SP"
+"          0   1
+0  SALVADOR  BA
+1    JATAÃ  GO
+2  CAMPINAS  SP"
+"                       0   1
+0      CASIMIRO DE ABREU  RJ
+1           PORTO ALEGRE  RS
+2               CAMPINAS  SP
+3  SÃO JOSÃ DOS CAMPOS  SP"
+"                         0   1
+0                 SERRINHA  BA
+1  CACHOEIRO DE ITAPEMIRIM  ES
+2                   BELÃM  PA
+3             PORTO ALEGRE  RS"
+"             0   1
+0  CERRO LARGO  RS
+1  MOGI GUAÃU  SP"
+"                 0   1
+0  DUQUE DE CAXIAS  RJ"
+"            0   1
+0  SÃO PAULO  SP"
+"                           0   1
+0  SANTA TEREZINHA DE ITAIPU  PR
+1                    ITAJAÃ  SC
+2                  JOINVILLE  SC"
+"                    0   1
+0            SALVADOR  BA
+1      BELO HORIZONTE  MG
+2            Curitiba  PR
+3  UNIÃO DA VITÃRIA  PR
+4       CAXIAS DO SUL  RS
+5          MONTENEGRO  RS
+6            CHAPECÃ  SC
+7              OSASCO  SP"
+"                 0   1
+0            BETIM  MG
+1         SERTANIA  PE
+2         CHAPECÃ  SC
+3  RibeirÃ£o Preto  SP
+4       SÃO PAULO  SP"
+"           0   1
+0   SALVADOR  BA
+1  GUARULHOS  SP"
+"             0   1
+0       BELÃM  PA
+1  BARRA VELHA  SC
+2     BURITAMA  SP
+3     CAMPINAS  SP"
+"            0   1
+0    LONDRINA  PR
+1      OSASCO  SP
+2  SÃO PAULO  SP"
+"                     0   1
+0            BRASÃLIA  DF
+1             XINGUARA  PA
+2  RIBEIRÃO DO PINHAL  PR
+3             ALVORADA  RS
+4           SÃO PAULO  SP"
+"              0   1
+0        RUSSAS  CE
+1  PORTO ALEGRE  RS"
+"                0   1
+0       RIO VERDE  GO
+1  BELO HORIZONTE  MG
+2   SÃO GONÃALO  RJ
+3     NOVA TRENTO  SC
+4         ITAPEVA  SP
+5      SÃO PAULO  SP"
+"          0   1
+0  CURITIBA  PR"
+"                         0   1
+0                 SALVADOR  BA
+1                BRASÃLIA  DF
+2  CABO DE SANTO AGOSTINHO  PE
+3         SERAFINA CORRÃA  RS"
+"            0   1
+0   BRASÃLIA  DF
+1  SÃO PAULO  SP"
+"               0   1
+0      BRASÃLIA  DF
+1  URBANO SANTOS  MA
+2         BARRAS  PI"
+"            0   1
+0  SÃO PAULO  SP"
+"                  0   1
+0         FORTALEZA  CE
+1         BRASÃLIA  DF
+2          VITÃRIA  ES
+3  MORRO DA FUMAÃA  SC"
+"          0   1
+0  GOIÃNIA  GO"
+"            0   1
+0     SORRISO  MT
+1     MARABÃ  PA
+2    GUARUJÃ  SP
+3  SÃO PAULO  SP"
+"            0   1
+0     ITAMARI  BA
+1    Curitiba  PR
+2  PARANAGUÃ  PR
+3    IMBITUBA  SC
+4    CAMPINAS  SP
+5   GUARULHOS  SP
+6  SÃO PAULO  SP"
+"          0   1
+0  CAMPINAS  SP"
+"              0   1
+0       MACAPÃ  AP
+1      GOIÃNIA  GO
+2  CAMPO GRANDE  MS
+3      Curitiba  PR
+4     GUARULHOS  SP"
+"               0   1
+0       GOIÃNIA  GO
+1       CAMPINAS  SP
+2  ILHA SOLTEIRA  SP"
+"                       0   1
+0              BRASÃLIA  DF
+1         BELO HORIZONTE  MG
+2                LAJEADO  RS
+3  SÃO JOSÃ DOS CAMPOS  SP
+4             SÃO PAULO  SP"
+"          0   1
+0  MARÃLIA  SP"
+"                0   1
+0       BRASÃLIA  DF
+1  FOZ DO IGUAÃU  PR"
+"                          0   1
+0                 ARAPIRACA  AL
+1  SÃO GONÃALO DOS CAMPOS  BA
+2                 FORTALEZA  CE
+3                NOVA PRATA  RS"
+"               0   1
+0       GOIÃNIA  GO
+1  JARDIM ALEGRE  PR
+2    PORTO VELHO  RO
+3         SANTOS  SP"
+"                    0   1
+0              MANAUS  AM
+1           APUCARANA  PR
+2  UNIÃO DA VITÃRIA  PR
+3      FlorianÃ³polis  SC
+4              FRANCA  SP
+5          SÃO PAULO  SP"
+"                0   1
+0   SANTA VITORIA  MG
+1  NOVO PROGRESSO  PA
+2     VOTUPORANGA  SP"
+"            0   1
+0   FORTALEZA  CE
+1  SANTA RITA  PB"
+"            0   1
+0    FIGUEIRA  PR
+1  SÃO PAULO  SP"
+"           0   1
+0  ANDRADINA  SP"
+"                       0   1
+0         BELO HORIZONTE  MG
+1                 OBIDOS  PA
+2            CAMPO LARGO  PR
+3           PORTO ALEGRE  RS
+4               JUNDIAÃ  SP
+5  SÃO JOSÃ DOS CAMPOS  SP"
+"                0   1
+0        GOIÃNIA  GO
+1  BELO HORIZONTE  MG
+2  RIO DE JANEIRO  RJ
+3          TORRES  RS
+4      SÃO PAULO  SP
+5         TAIAÃU  SP"
+"            0   1
+0   ANÃPOLIS  GO
+1    BLUMENAU  SC
+2  SÃO PAULO  SP"
+"                       0   1
+0  SÃO JOAQUIM DE BICAS  MG
+1            UBERLÃNDIA  MG
+2           PORTO ALEGRE  RS
+3                BALSAMO  SP
+4         TOCANTINOPOLIS  TO"
+"               0   1
+0       GOIANIRA  GO
+1  Montes Claros  MG
+2       CAMPINAS  SP
+3        DIADEMA  SP
+4        LUCELIA  SP"
+"          0   1
+0  VITÃRIA  ES
+1  BLUMENAU  SC"
+"           0   1
+0    JECEABA  MG
+1  GRAVATAÃ  RS"
+"                0   1
+0  BELO HORIZONTE  MG
+1      SÃO PAULO  SP"
+"                        0   1
+0                 JEQUIÃ  BA
+1               PETROLINA  PE
+2  SÃO JOSÃ DOS PINHAIS  PR
+3            NOVA IGUAÃU  RJ
+4     BALNEÃRIO PICARRAS  SC
+5                  SALETE  SC"
+"                0   1
+0  PATOS DE MINAS  MG
+1        Teresina  PI
+2         VACARIA  RS
+3         BARUERI  SP
+4        JACAREÃ  SP"
+"            0   1
+0  ARAPUTANGA  MT"
+"                     0   1
+0       RIO DE JANEIRO  RJ
+1  SÃO CAETANO DO SUL  SP"
+"                       0   1
+0         RIO DE JANEIRO  RJ
+1  SÃO JOSÃ DOS CAMPOS  SP
+2             SÃO PAULO  SP
+3       VÃRZEA PAULISTA  SP"
+"               0   1
+0       GOIÃNIA  GO
+1     PLANALTINA  GO
+2  PEDRO OSÃRIO  RS
+3        ITAPEMA  SC
+4     PENÃPOLIS  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1        LONDRINA  PR"
+"                       0   1
+0              BRASÃLIA  DF
+1              MORUNGABA  SP
+2  SÃO BENTO DO SAPUCAI  SP"
+"                       0   1
+0  CAMPOS DOS GOYTACAZES  RJ
+1         RIO DE JANEIRO  RJ
+2               TUBARÃO  SC
+3              GUARULHOS  SP
+4             SÃO PAULO  SP"
+"            0   1
+0  IMPERATRIZ  MA"
+"    0   1
+0 NaN  BA"
+"            0   1
+0    ARAGUARI  MG
+1     CUIABÃ  MT
+2   GRAVATAÃ  RS
+3  SÃO PAULO  SP"
+"                    0   1
+0  SANTANA DO IPANEMA  AL
+1            AMARGOSA  BA
+2   JUAZEIRO DO NORTE  CE
+3      SÃO PATRÃCIO  GO
+4            Teresina  PI
+5         SÃO CARLOS  SP
+6          SÃO PAULO  SP"
+"                        0   1
+0               FORTALEZA  CE
+1          RIO DE JANEIRO  RJ
+2            PORTO ALEGRE  RS
+3  SÃO BERNARDO DO CAMPO  SP
+4              SÃO PAULO  SP"
+"           0   1
+0  BRASÃLIA  DF
+1    SURUBIM  PE
+2   Curitiba  PR
+3    GUARAÃ  TO"
+"            0   1
+0  SÃO PAULO  SP"
+"                 0   1
+0     TERESÃPOLIS  RJ
+1  ITAQUAQUECETUBA  SP
+2           SANTOS  SP"
+"                    0   1
+0        PORTO SEGURO  BA
+1            SALVADOR  BA
+2      BELO HORIZONTE  MG
+3  PRIMAVERA DO LESTE  MT
+4              PORTEL  PA
+5      RIBERÃO PIRES  SP"
+"                     0   1
+0      JARAGUÃ DO SUL  SC
+1           PIRACICABA  SP
+2  SÃO CAETANO DO SUL  SP"
+"            0   1
+0    CAMPINAS  SP
+1  SÃO PAULO  SP"
+"          0   1
+0      CATU  BA
+1    FRANCA  SP
+2  POPULINA  SP"
+"              0   1
+0     BRASÃLIA  DF
+1  BOM DESPACHO  MG
+2  CAMPO GRANDE  MS"
+"                0   1
+0      DIAMANTINA  MG
+1  RIO DE JANEIRO  RJ"
+"                   0   1
+0           SALVADOR  BA
+1  JUAZEIRO DO NORTE  CE
+2     BELO HORIZONTE  MG
+3           ITAUEIRA  PI
+4            LUCELIA  SP"
+"           0   1
+0     JATAÃ  GO
+1  TABATINGA  SP"
+"                 0   1
+0  FLORES DA CUNHA  RS"
+"            0   1
+0   BRASÃLIA  DF
+1     LAGAMAR  MG
+2  SÃO PAULO  SP"
+"            0   1
+0      IPORÃ  PR
+1      LAGUNA  SC
+2    COROADOS  SP
+3  SÃO PAULO  SP"
+"                        0   1
+0               BRASÃLIA  DF
+1              ABADIÃNIA  GO
+2                GOIÃNIA  GO
+3          BELO HORIZONTE  MG
+4             PARAGOMINAS  PA
+5               GUARULHOS  SP
+6  SÃO BERNARDO DO CAMPO  SP"
+"          0   1
+0   MACEIÃ  AL
+1  SALVADOR  BA"
+"                        0   1
+0                  SOBRAL  CE
+1          BELO HORIZONTE  MG
+2             UBERLÃNDIA  MG
+3                  ARARAS  SP
+4                   COTIA  SP
+5  SANTA BARBARA DO OESTE  SP
+6              SÃO PAULO  SP"
+"         0   1
+0  INHUMAS  GO
+1  FORMIGA  MG
+2  PINHAIS  PR"
+"                 0   1
+0         VARGINHA  MG
+1  DUQUE DE CAXIAS  RJ
+2     NOVA IGUAÃU  RJ"
+"                          0   1
+0                  SALVADOR  BA
+1                 BRASÃLIA  DF
+2  JOBOATÃO DOS GUARARAPES  PE
+3      SÃO JOÃO DE MERITI  RJ"
+"           0   1
+0   SALVADOR  BA
+1  BRASÃLIA  DF
+2   GOIÃNIA  GO"
+"            0   1
+0  ALAGOINHAS  BA
+1    VITÃRIA  ES
+2    Curitiba  PR"
+"                        0   1
+0            JUIZ DE FORA  MG
+1  SÃO BERNARDO DO CAMPO  SP"
+"            0   1
+0   SELVÃRIA  MS
+1  SÃO PAULO  SP"
+"            0   1
+0    GOIÃNIA  GO
+1     CUIABÃ  MT
+2    Curitiba  PR
+3  PENÃPOLIS  SP
+4  SÃO PAULO  SP"
+"            0   1
+0       SERRA  ES
+1  SÃO PAULO  SP"
+"              0   1
+0     FORTALEZA  CE
+1     BRASÃLIA  DF
+2  TRÃS MARIAS  MG
+3       SORRISO  MT
+4        FRANCA  SP"
+"          0   1
+0  Sorocaba  SP"
+"                 0   1
+0  MOGI DAS CRUZES  SP"
+"            0   1
+0  VILA VELHA  ES"
+"                     0   1
+0           PONTE NOVA  MG
+1  RIBEIRÃO DAS NEVES  MG
+2    SANTA ROSA DO SUL  SC"
+"                         0   1
+0  SÃO JOSÃ DO RIO PRETO  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                0   1
+0          FRUTAL  MG
+1        Teresina  PI
+2  RIO DE JANEIRO  RJ
+3   CAXIAS DO SUL  RS"
+"                0   1
+0    JUIZ DE FORA  MG
+1        CORUMBÃ  MS
+2    JOÃO PESSOA  PB
+3  RIO DE JANEIRO  RJ"
+"                         0   1
+0                 SALVADOR  BA
+1                BRASÃLIA  DF
+2  SÃO JOSÃ DO RIO PRETO  SP"
+"          0   1
+0  GOIÃNIA  GO"
+"            0   1
+0  SÃO PAULO  SP"
+"           0   1
+0  SÃO LUIS  MA"
+"          0   1
+0  SALVADOR  BA
+1  ITAGUAÃ  RJ"
+"                          0   1
+0              GOIANÃPOLIS  GO
+1  CONCEIÃÃO DA APARECIDA  MG
+2                    TOMBOS  MG
+3                   LAGARTO  SE
+4                   DIADEMA  SP
+5                    POLONI  SP
+6                SÃO PAULO  SP"
+"         0   1
+0  DIADEMA  SP"
+"    0   1
+0 NaN  BA"
+"              0   1
+0  SIDROLÃNDIA  MS"
+"                0   1
+0  BELO HORIZONTE  MG
+1            IJUI  RS"
+"                   0   1
+0           COLATINA  ES
+1     RIO DE JANEIRO  RJ
+2  Canal EletrÃ´nico  XX"
+"                         0   1
+0                ITAPARICA  BA
+1                   SOBRAL  CE
+2                BRASÃLIA  DF
+3              SÃO MATEUS  ES
+4           BELO HORIZONTE  MG
+5                  CUIABÃ  MT
+6            JOÃO ALFREDO  PE
+7                 Teresina  PI
+8              PATO BRANCO  PR
+9           RIO DE JANEIRO  RJ
+10            PORTO ALEGRE  RS
+11                JUNDIAÃ  SP
+12               PAULÃNIA  SP
+13  SÃO BERNARDO DO CAMPO  SP"
+"                0   1
+0      VILA VELHA  ES
+1  VÃRZEA GRANDE  MT
+2      SÃO PAULO  SP"
+"          0   1
+0  Curitiba  PR
+1    OSASCO  SP"
+"              0   1
+0      TRINDADE  GO
+1       FORMIGA  MG
+2        BELÃM  PA
+3  SUD MENNUCCI  SP"
+"                0   1
+0  FlorianÃ³polis  SC
+1      SÃO PAULO  SP"
+"            0   1
+0    GOIÃNIA  GO
+1   SÃO LUIS  MA
+2     MARABÃ  PA
+3    PALOTINA  PR
+4      OSASCO  SP
+5  SÃO PAULO  SP"
+"              0   1
+0  SIDROLÃNDIA  MS"
+"                  0   1
+0     MANOEL URBANO  AC
+1      PORTO SEGURO  BA
+2           IBIRACI  MG
+3           COLOMBO  PR
+4          Curitiba  PR
+5    RIO DE JANEIRO  RJ
+6    CARLOS BARBOSA  RS
+7       PASSO FUNDO  RS
+8   MOGI DAS CRUZES  SP
+9      PARANAPANEMA  SP
+10      SÃO CARLOS  SP"
+"                       0   1
+0  SÃO JOSÃ DOS CAMPOS  SP
+1             SÃO PAULO  SP"
+"                        0   1
+0                SALVADOR  BA
+1   APARECIDA DE GOIÃNIA  GO
+2           CAMPO FLORIDO  MG
+3             UBERLÃNDIA  MG
+4  STO ANTONIO DA PLATINA  PR
+5                GRAVATAL  SC
+6         SÃO BONIFÃCIO  SC
+7              SÃO PAULO  SP"
+"                      0   1
+0              PIRITIBA  BA
+1             APUCARANA  PR
+2                LOANDA  PR
+3         GUARATINGUETA  SP
+4  PRESIDENTE EPITÃCIO  SP
+5     JAÃ DO TOCANTINS  TO"
+"           0   1
+0   SALVADOR  BA
+1  BRASÃLIA  DF
+2   CURITIBA  PR"
+"                0   1
+0   SÃO DOMINGOS  PB
+1  FlorianÃ³polis  SC"
+"    0   1
+0 NaN  BA"
+"          0   1
+0  CIANORTE  PR
+1     BAURU  SP"
+"            0   1
+0  ABRE CAMPO  MG"
+"                       0   1
+0                MACEIÃ  AL
+1            UBERLÃNDIA  MG
+2  CAMPO NOVO DO PARECIS  MT
+3               CASCAVEL  PR
+4               CURITIBA  PR
+5         RIO DE JANEIRO  RJ
+6                 ITAQUI  RS"
+"         0   1
+0  ITABIRA  MG
+1   BARIRI  SP"
+"                0   1
+0        ARAGUARI  MG
+1  BELO HORIZONTE  MG
+2           BETIM  MG
+3    DIVINÃPOLIS  MG
+4           IBIÃ  MG
+5          CACOAL  RO
+6        CAMPINAS  SP
+7    HERCULÃNDIA  SP"
+"          0   1
+0  VARGINHA  MG
+1   CARUARU  PE"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1    PORTO ALEGRE  RS
+2    SANTO ANDRÃ  SP
+3      SÃO PAULO  SP"
+"                   0   1
+0             GOIANA  GO
+1   SERTï¿½ï¿½OZINHO  SP
+2       SÃO VICENTE  SP
+3  Canal EletrÃ´nico  XX"
+"            0   1
+0  SÃO PAULO  SP"
+"                0   1
+0         CAMACAN  BA
+1  Angra dos Reis  RJ
+2       RIO PARDO  RS
+3      PIRACICABA  SP"
+"                0   1
+0        Curitiba  PR
+1  RIO DE JANEIRO  RJ
+2        JACAREÃ  SP"
+"          0   1
+0  GUARUJÃ  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                0   1
+0      ANANINDEUA  PA
+1  RIO DE JANEIRO  RJ"
+"                0   1
+0    POUSO ALEGRE  MG
+1         CUIABÃ  MT
+2  RIO DE JANEIRO  RJ"
+"                 0   1
+0          ILHÃUS  BA
+1  PAÃO DO LUMIAR  MA
+2          MARIANA  MG
+3        CAMPO BOM  RS
+4      DIANÃPOLIS  TO"
+"              0   1
+0       SORRISO  MT
+1    JI-PARANÃ  RO
+2  PORTO ALEGRE  RS"
+"                      0   1
+0  CONCEIÃÃO DA BARRA  ES"
+"        0   1
+0  RECIFE  PE"
+"          0   1
+0  CONTAGEM  MG
+1   NITEROI  RJ"
+"            0   1
+0      BELÃM  PA
+1    Curitiba  PR
+2       BAURU  SP
+3  SÃO PAULO  SP"
+"             0   1
+0  UBERLÃNDIA  MG
+1      Aracaju  SE
+2   SÃO PAULO  SP"
+"                            0   1
+0   SÃO GABRIEL DA CACHOEIRA  AM
+1                    SALVADOR  BA
+2                   FORTALEZA  CE
+3                   BRASÃLIA  DF
+4                   CARIACICA  ES
+5                       SERRA  ES
+6           TANGARÃ DA SERRA  MT
+7                    CASCAVEL  PR
+8                 PATO BRANCO  PR
+9                  PIRACICABA  SP
+10               PIRASSUNUNGA  SP
+11                   Sorocaba  SP
+12                 SÃO ROQUE  SP
+13            TEODORO SAMPAIO  SP"
+"            0   1
+0  VILA VELHA  ES
+1    CURITIBA  PR"
+"               0   1
+0       CASCAVEL  PR
+1  VOLTA REDONDA  RJ
+2        Aracaju  SE"
+"                0   1
+0    DIVINÃPOLIS  MG
+1  RIO DE JANEIRO  RJ"
+"                    0   1
+0  SANTANA DO IPANEMA  AL
+1            CAMPINAS  SP"
+"                       0   1
+0  VITÃRIA DA CONQUISTA  BA
+1                 BELÃM  PA
+2               Curitiba  PR
+3                MARICÃ  RJ
+4               PERUÃBE  SP
+5   SANTANA DO PARNAÃBA  SP"
+"                0   1
+0       BRASÃLIA  DF
+1    SANTA TERESA  ES
+2   PALMINÃPOLIS  GO
+3  BELO HORIZONTE  MG
+4         ITAJAÃ  SC"
+"                   0   1
+0   LAURO DE FREITAS  BA
+1         NOVA PRATA  RS
+2        PASSO FUNDO  RS
+3           JUNDIAÃ  SP
+4       PRAIA GRANDE  SP
+5  Canal EletrÃ´nico  XX"
+"                      0   1
+0  CONSELHEIRO LAFAIETE  MG
+1              CRUZEIRO  SP
+2            SÃO PAULO  SP"
+"                         0   1
+0                      UNA  BA
+1                SÃO LUIS  MA
+2  SENADOR JOSÃ PORFÃRIO  PA
+3             JOÃO PESSOA  PB
+4          RIBEIRÃO PIRES  SP
+5               SÃO PAULO  SP"
+"             0   1
+0  PASSO FUNDO  RS"
+"                   0   1
+0       CAMPO GRANDE  MS
+1            CUIABÃ  MT
+2        PORTO VELHO  RO
+3  Canal EletrÃ´nico  XX"
+"                0   1
+0       FORTALEZA  CE
+1      MARILANDIA  ES
+2          JATAÃ  GO
+3           BREJO  MA
+4   Montes Claros  MG
+5         UBERABA  MG
+6  Angra dos Reis  RJ
+7        CAMPINAS  SP"
+"                   0   1
+0  Canal EletrÃ´nico  XX"
+"            0   1
+0  SÃO PAULO  SP"
+"           0   1
+0  GUARULHOS  SP"
+"                 0   1
+0        BRASÃLIA  DF
+1         COLATINA  ES
+2     JUIZ DE FORA  MG
+3           TOLEDO  PR
+4            BAGÃ  RS
+5  VENÃNCIO AIRES  RS
+6     VISTA ALEGRE  RS"
+"           0   1
+0  GOIANDIRA  GO
+1   GOIÃNIA  GO"
+"           0   1
+0  GUARAPARI  ES"
+"                0   1
+0  BELO HORIZONTE  MG
+1  RIO DE JANEIRO  RJ"
+"           0   1
+0  CAMAÃARI  BA"
+"                0   1
+0         CUIABÃ  MT
+1          OLINDA  PE
+2   NOVA FRIBURGO  RJ
+3  SANTA CECÃLIA  SC
+4   FERNANDOPOLIS  SP
+5     SANDOVALINA  SP
+6        TAUBATÃ  SP"
+"                0   1
+0    JUIZ DE FORA  MG
+1          OLINDA  PE
+2  RIO DE JANEIRO  RJ"
+"                  0   1
+0  CHAPADÃO DO CEU  GO
+1            LAVRAS  MG
+2   MARTINHO CAMPOS  MG
+3           CHAPADA  RS
+4           INDAIAL  SC
+5  GABRIEL MONTEIRO  SP
+6          GUARUJÃ  SP
+7        SÃO PAULO  SP"
+"                  0   1
+0         BARREIRAS  BA
+1   SANTA TERESINHA  BA
+2          GOIÃNIA  GO
+3          JANAÃBA  MG
+4              UBÃ  MG
+5          Curitiba  PR
+6          LONDRINA  PR
+7    RIO DE JANEIRO  RJ
+8          ARVOREDO  SC
+9     POUSO REDONDO  SC
+10       FREI PAULO  SE
+11           FRANCA  SP
+12      MOGI GUAÃU  SP
+13             POÃ  SP
+14       SÃO PAULO  SP
+15         TAUBATÃ  SP"
+"                        0   1
+0                SALVADOR  BA
+1   APARECIDA DE GOIÃNIA  GO
+2    CONSELHEIRO LAFAIETE  MG
+3      FORTALEZA DE MINAS  MG
+4                IGARASSU  PE
+5                IBIPORÃ  PR
+6          RIO DE JANEIRO  RJ
+7            PORTO ALEGRE  RS
+8            SANTO ANDRÃ  SP
+9              SÃO PAULO  SP
+10      Canal EletrÃ´nico  XX"
+"                        0   1
+0                  SANTOS  SP
+1  SÃO BERNARDO DO CAMPO  SP
+2              SÃO ROQUE  SP"
+"                  0   1
+0         BRASÃLIA  DF
+1  ÃLVARES MACHADO  SP"
+"             0   1
+0  ITAPECERICA  MG
+1    SANTARÃM  PA
+2   SÃO PAULO  SP"
+"          0   1
+0  GOIÃNIA  GO
+1  ALVORADA  RS"
+"          0   1
+0  SALVADOR  BA
+1  COLATINA  ES
+2    OEIRAS  PI
+3  LONDRINA  PR
+4     LAGES  SC"
+"    0   1
+0 NaN  BA"
+"               0   1
+0  CAXIAS DO SUL  RS
+1     SÃO PAULO  SP"
+"              0   1
+0  CAMPO GRANDE  MS"
+"                        0   1
+0                SALVADOR  BA
+1                GOIÃNIA  GO
+2               SÃO LUIS  MA
+3           Montes Claros  MG
+4                 JURUENA  MT
+5              GUARAPUAVA  PR
+6            PORTO ALEGRE  RS
+7  SÃO BERNARDO DO CAMPO  SP
+8       Canal EletrÃ´nico  XX"
+"            0   1
+0  SÃO PAULO  SP"
+"                   0   1
+0          FORTALEZA  CE
+1           GOIÃNIA  GO
+2       CAMPO GRANDE  MS
+3          BEBEDOURO  SP
+4          ITANHAÃM  SP
+5            ROSEIRA  SP
+6           Sorocaba  SP
+7         SÃO PAULO  SP
+8             URANIA  SP
+9  Canal EletrÃ´nico  XX"
+"           0   1
+0  BRASÃLIA  DF
+1   GUARUJÃ  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1           IEPÃ  SP"
+"                  0   1
+0  FEIRA DE SANTANA  BA"
+"              0   1
+0  TERESÃPOLIS  RJ"
+"         0   1
+0  AREALVA  SP"
+"                        0   1
+0                  MANAUS  AM
+1               BRASÃLIA  DF
+2  MAXIMILIANO DE ALMEIDA  RS
+3                 ITUPEVA  SP"
+"            0   1
+0        MATA  RS
+1    CAMPINAS  SP
+2  SÃO PAULO  SP"
+"                0   1
+0       BRASÃLIA  DF
+1         UBERABA  MG
+2  FlorianÃ³polis  SC"
+"             0   1
+0  PORTO VELHO  RO
+1      VIAMÃO  RS"
+"           0   1
+0  BRASÃLIA  DF
+1    SARANDI  PR"
+"                0   1
+0  SENADOR CANEDO  GO
+1        Teresina  PI
+2        CURITIBA  PR
+3      DERRUBADAS  RS"
+"              0   1
+0  ITAMARANDIBA  MG
+1  LAGOA ALEGRE  PI
+2      Teresina  PI
+3   PORTO VELHO  RO
+4         BAURU  SP
+5  ITAPETININGA  SP
+6    SÃO PAULO  SP"
+"                    0   1
+0             NANUQUE  MG
+1  SANTANA DO JACARÃ  MG"
+"                0   1
+0       BRASÃLIA  DF
+1  BELO HORIZONTE  MG
+2         SOCORRO  SP"
+"           0   1
+0   SALVADOR  BA
+1   PINHEIRO  MA
+2   BLUMENAU  SC
+3  ANDRADINA  SP"
+"          0   1
+0  PARACATU  MG
+1  ALTAMIRA  PA"
+"                       0   1
+0         RIO DE JANEIRO  RJ
+1                BIRIGUI  SP
+2             ONDA VERDE  SP
+3               SALTINHO  SP
+4  SÃO JOSÃ DOS CAMPOS  SP
+5             SÃO PAULO  SP"
+"                0   1
+0         JANDAIA  GO
+1  RIO DE JANEIRO  RJ"
+"                  0   1
+0  PONTES E LACERDA  MT"
+"           0   1
+0    ILHÃUS  BA
+1   MESQUITA  RJ
+2  FRAIBURGO  SC
+3   PALHOÃA  SC"
+"                      0   1
+0               MACAPÃ  AP
+1              SALVADOR  BA
+2             BRASÃLIA  DF
+3              GOIÃNIA  GO
+4           UBERLÃNDIA  MG
+5              CURITIBA  PR
+6        RIO DE JANEIRO  RJ
+7  SÃO JOÃO DE MERITI  RJ
+8            PIRACICABA  SP"
+"                    0   1
+0  JULIO DE CASTILHOS  RS"
+"                         0   1
+0                 SALVADOR  BA
+1                BRASÃLIA  DF
+2                 GOIÃNIA  GO
+3                 CURITIBA  PR
+4                 JUNDIAÃ  SP
+5  SANTA CRUZ DO RIO PARDO  SP"
+"           0   1
+0    PEABIRU  PR
+1  GUARULHOS  SP"
+"                   0   1
+0     BELO HORIZONTE  MG
+1            NITEROI  RJ
+2  Canal EletrÃ´nico  XX"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                   0   1
+0             JATAÃ  GO
+1  Canal EletrÃ´nico  XX"
+"       0   1
+0  MAUÃ  SP"
+"                      0   1
+0              GOIÃNIA  GO
+1                RECIFE  PE
+2  SANTANA DE PARNAÃBA  SP
+3              Sorocaba  SP"
+"            0   1
+0    IGARASSU  PE
+1  SÃO PAULO  SP"
+"                 0   1
+0  BARRA DO PIRAÃ  RJ
+1       SÃO PAULO  SP"
+"                  0   1
+0  LAURO DE FREITAS  BA
+1           BIRIGUI  SP"
+"            0   1
+0  SÃO PAULO  SP"
+"                           0   1
+0                    MACEIÃ  AL
+1  SÃO GONÃALO DO AMARANTE  CE
+2                  BRASÃLIA  DF
+3                SANTA INÃS  MA
+4             BELO HORIZONTE  MG
+5                   Teresina  PI
+6                    BRUSQUE  SC
+7    SÃO JOSÃ DO RIO PRETO  SP
+8                 SÃO PAULO  SP
+9                   RIO SONO  TO"
+"                0   1
+0  BELO HORIZONTE  MG"
+"               0   1
+0  RONDONÃPOLIS  MT"
+"                         0   1
+0               EunÃ¡polis  BA
+1                 PARACATU  MG
+2           VÃRZEA GRANDE  MT
+3   RANCHO ALEGRE DO OESTE  PR
+4                   TOLEDO  PR
+5           RIO DE JANEIRO  RJ
+6                    LAGES  SC
+7                 CAMPINAS  SP
+8                   FRANCA  SP
+9                 HOLAMBRA  SP
+10             MOGI GUAÃU  SP
+11              SÃO PAULO  SP"
+"                      0   1
+0             CAMAÃARI  BA
+1        SÃO LOURENÃO  MG
+2  ITAPECERICA DA SERRA  SP
+3             RIO CLARO  SP"
+"                         0   1
+0                PARINTINS  AM
+1                  SANTANA  AP
+2                GUARAPARI  ES
+3                 CONTAGEM  MG
+4                   LAVRAS  MG
+5                CARAZINHO  RS
+6  SÃO LOURENÃO DO OESTE  SC"
+"                         0   1
+0           BOA ESPERANÃA  MG
+1              CAMPO VERDE  MT
+2  SÃO JOSÃ DO RIO PRETO  SP"
+"                         0   1
+0  SANTA CRUZ DO ESCALVADO  MG
+1                BOA VISTA  RR"
+"               0   1
+0     CALIFORNIA  PR
+1  VOLTA REDONDA  RJ"
+"            0   1
+0  SÃO PAULO  SP"
+"                  0   1
+0  MORRO DO CHAPÃU  BA
+1           MINAÃU  GO
+2          CONTAGEM  MG
+3       UBERLÃNDIA  MG
+4       PASSO FUNDO  RS"
+"       0   1
+0  BAURU  SP"
+"       0   1
+0  IVOTI  RS"
+"                0   1
+0        SALVADOR  BA
+1        VITÃRIA  ES
+2        ARAGUARI  MG
+3  PORTO MURTINHO  MS
+4         MARIPÃ  PR
+5           NATAL  RN
+6  PORTO NACIONAL  TO"
+"                             0   1
+0                      MACEIÃ  AL
+1             FEIRA DE SANTANA  BA
+2                    SÃO LUIS  MA
+3               JOAO MONLEVADE  MG
+4                   INOCÃNCIA  MS
+5                   ANANINDEUA  PA
+6                      IPOJUCA  PE
+7                    IVAIPORÃ  PR
+8                SÃO GONÃALO  RJ
+9                CAXIAS DO SUL  RS
+10  CANINDÃ DE SÃO FRANCISCO  SE
+11                  ARAÃATUBA  SP
+12                 MOGI GUAÃU  SP
+13             RibeirÃ£o Preto  SP
+14                  SÃO PAULO  SP
+15                  VOTORANTIM  SP
+16                      PALMAS  TO"
+"            0   1
+0        UBÃ  MG
+1    PAULISTA  PE
+2  SÃO PAULO  SP"
+"                 0   1
+0      NOVO AIRÃO  AM
+1  LINDOLFO COLLOR  RS
+2       SÃO PAULO  SP"
+"                0   1
+0  BELO HORIZONTE  MG
+1    SALINÃPOLIS  PA"
+"                   0   1
+0      CAMPINA VERDE  MG
+1  Canal EletrÃ´nico  XX"
+"            0   1
+0   BRASÃLIA  DF
+1   NOVO GAMA  GO
+2    BLUMENAU  SC
+3    JACAREÃ  SP
+4  SÃO PAULO  SP"
+"                  0   1
+0    BELO HORIZONTE  MG
+1            BELÃM  PA
+2    RIO DAS OSTRAS  RJ
+3     NOVO HAMBURGO  RS
+4  SALDANHA MARINHO  RS
+5         GUARULHOS  SP
+6      HORTOLÃNDIA  SP
+7         PAULÃNIA  SP
+8          TAUBATÃ  SP"
+"                   0   1
+0           GOIÃNIA  GO
+1         SÃO PAULO  SP
+2  Canal EletrÃ´nico  XX"
+"            0   1
+0  ALAGOINHAS  BA
+1     TUCURUI  PA
+2   GUARULHOS  SP"
+"              0   1
+0          CATU  BA
+1  CALDAS NOVAS  GO
+2   UBERLÃNDIA  MG
+3    QUERÃNCIA  MT
+4      ITAGUAÃ  RJ
+5    SÃO PAULO  SP"
+"                  0   1
+0  BENTO GONÃALVES  RS"
+"                0   1
+0  PEDRO LEOPOLDO  MG
+1     UBERLÃNDIA  MG
+2       CABO FRIO  RJ
+3        PERUÃBE  SP"
+"                0   1
+0        Teresina  PI
+1  RIO DE JANEIRO  RJ
+2        BLUMENAU  SC"
+"                0   1
+0        AMARGOSA  BA
+1      MAMANGUAPE  PB
+2  RIO DE JANEIRO  RJ
+3        AQUIDABA  SE
+4      SÃO PAULO  SP"
+"               0   1
+0       GOIÃNIA  GO
+1  CAXIAS DO SUL  RS"
+"                  0   1
+0        MOGI MIRIM  SP
+1          OURINHOS  SP
+2  TABOÃO DA SERRA  SP"
+"                   0   1
+0            MACEIÃ  AL
+1           PIRITIBA  BA
+2             FRUTAL  MG
+3        CERRO LARGO  RS
+4             ESTEIO  RS
+5            SOMBRIO  SC
+6  CAMPOS DO JORDÃO  SP
+7             PONTAL  SP
+8         SÃO PAULO  SP"
+"                0   1
+0        SALVADOR  BA
+1     UBERLÃNDIA  MG
+2   VERMELHO NOVO  MG
+3  RIO DE JANEIRO  RJ
+4        JUNDIAÃ  SP"
+"              0   1
+0      SALVADOR  BA
+1  PORTO ALEGRE  RS"
+"                          0   1
+0   LUIS EDUARDO MAGALHÃES  BA
+1                  SALVADOR  BA
+2                 FORTALEZA  CE
+3     APARECIDA DE GOIÃNIA  GO
+4            BELO HORIZONTE  MG
+5            PARÃ DE MINAS  MG
+6        SÃO LOURENï¿½ï¿½O  MG
+7              TRÃS MARIAS  MG
+8             ANAURILÃNDIA  MS
+9             ALTA FLORESTA  MT
+10                ÃGUA BOA  MT
+11               ANANINDEUA  PA
+12                   RECIFE  PE
+13                    FAROL  PR
+14             NOVA IGUAÃU  RJ
+15           RIO DE JANEIRO  RJ
+16                    BAURU  SP
+17                 CAMPINAS  SP
+18                GUARULHOS  SP
+19        LARANJAL PAULISTA  SP
+20             PRAIA GRANDE  SP
+21             SANTO ANDRÃ  SP
+22               SÃO PAULO  SP
+23         VÃRZEA PAULISTA  SP
+24        Canal EletrÃ´nico  XX"
+"                  0   1
+0         BRASÃLIA  DF
+1  JOSÃ BONIFÃCIO  SP
+2        SÃO PAULO  SP"
+"           0   1
+0  FORTALEZA  CE"
+"                    0   1
+0  BROTAS DE MACAUBAS  BA"
+"                   0   1
+0           GUANAMBI  BA
+1             IGUAÃ  BA
+2           CONTAGEM  MG
+3           CARLINDA  MT
+4          AMERICANA  SP
+5      FERNANDOPOLIS  SP
+6  Canal EletrÃ´nico  XX"
+"            0   1
+0     CAJAMAR  SP
+1  SÃO PAULO  SP"
+"          0   1
+0  CORUMBÃ  MS"
+"                0   1
+0         SANHARO  PE
+1  CORONEL VIVIDA  PR
+2    FREI ROGERIO  SC"
+"                0   1
+0  BELO HORIZONTE  MG"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"             0   1
+0     PAULINIA  SP
+1  SANTO ANDRE  SP"
+"                  0   1
+0          BRASILIA  DF
+1          SAO LUIS  MA
+2    BELO HORIZONTE  MG
+3    JARAGUA DO SUL  SC
+4  SAO BENTO DO SUL  SC
+5         SAO PAULO  SP"
+"          0   1
+0  SOROCABA  SP"
+"             0   1
+0       MINACU  GO
+1      ARACUAI  MG
+2  PASSO FUNDO  RS
+3    SAO PAULO  SP"
+"                      0   1
+0  CONSELHEIRO LAFAIETE  MG"
+"              0   1
+0    VILA VELHA  ES
+1  JUIZ DE FORA  MG
+2       LIMEIRA  SP"
+"                     0   1
+0     CANAL ELETRONICO  --
+1            FORTALEZA  CE
+2              GOIANIA  GO
+3       BELO HORIZONTE  MG
+4                BETIM  MG
+5             IPATINGA  MG
+6           NEPOMUCENO  MG
+7               PASSOS  MG
+8           UBERLANDIA  MG
+9         CAMPO GRANDE  MS
+10              CUIABA  MT
+11            XINGUARA  PA
+12  FAZENDA RIO GRANDE  PR
+13      JANDAIA DO SUL  PR
+14              MARIPA  PR
+15      NOVA ESPERANCA  PR
+16      RIO DE JANEIRO  RJ
+17       FLORIANOPOLIS  SC
+18            CAMPINAS  SP
+19              FRANCA  SP
+20             ITARARE  SP
+21     PINDAMONHANGABA  SP
+22              SANTOS  SP
+23           SAO PAULO  SP
+24            SOROCABA  SP
+25                PIUM  TO"
+"                  0   1
+0  CANAL ELETRONICO  --
+1       PORTEIRINHA  MG
+2    RIO DE JANEIRO  RJ
+3         SAO PAULO  SP"
+"         0   1
+0  GOIANIA  GO"
+"        0   1
+0  LORENA  SP"
+"          0   1
+0  SALVADOR  BA
+1  CASCAVEL  CE"
+"                      0   1
+0              BARCELOS  AM
+1             SAO FELIX  BA
+2              AGUA BOA  MG
+3  FREDERICO WESTPHALEN  RS
+4          SAO LEOPOLDO  RS
+5           VOTUPORANGA  SP"
+"                     0   1
+0  SAO JOSE DOS CAMPOS  SP"
+"       0   1
+0  BELEM  PA"
+"                        0   1
+0                SALVADOR  BA
+1  SAO MIGUEL DO ARAGUAIA  GO
+2   CAMPO NOVO DO PARECIS  MT
+3                PALMEIRA  PR
+4                 BRUSQUE  SC
+5                SOROCABA  SP"
+"             0   1
+0     CONTAGEM  MG
+1  SANTO ANDRE  SP"
+"        0   1
+0  PALMAS  TO"
+"                  0   1
+0  CANAL ELETRONICO  --
+1        UBERLANDIA  MG
+2           TUBARAO  SC
+3        PIRACICABA  SP"
+"        0   1
+0  ITAUNA  MG"
+"           0   1
+0     RECIFE  PE
+1    BALSAMO  SP
+2  SAO PAULO  SP"
+"                  0   1
+0  SANTA LEOPOLDINA  ES
+1       MATEUS LEME  MG
+2       PEDERNEIRAS  SP
+3         SAO PAULO  SP"
+"           0   1
+0  MORRINHOS  GO"
+"          0   1
+0   GOIANIA  GO
+1  MINEIROS  GO"
+"             0   1
+0    CANOINHAS  SC
+1      ARACAJU  SE
+2    SAO PAULO  SP
+3  VOTUPORANGA  SP"
+"                0   1
+0         VITORIA  ES
+1         SORRISO  MT
+2  ANGRA DOS REIS  RJ
+3  RIO DE JANEIRO  RJ"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          CASCAVEL  PR"
+"              0   1
+0         BETIM  MG
+1       MARINGA  PR
+2  CACHOEIRINHA  RS"
+"          0   1
+0  BATATAIS  SP"
+"         0   1
+0  TAUBATE  SP"
+"                       0   1
+0  SAO JOAO DA FRONTEIRA  PI
+1              SAO PAULO  SP"
+"                    0   1
+0  CORONEL FABRICIANO  MG
+1      RIO DE JANEIRO  RJ
+2           TRES RIOS  RJ"
+"           0   1
+0  FORTALEZA  CE
+1   ARAGUARI  MG
+2   OURINHOS  SP
+3  SAO PAULO  SP"
+"           0   1
+0      BELEM  PA
+1  SAO PAULO  SP"
+"         0   1
+0  MOSSORO  RN"
+"               0   1
+0  QUATRO BARRAS  PR
+1        ARACAJU  SE
+2          ARUJA  SP"
+"            0   1
+0  DIRCE REIS  SP
+1   SAO PAULO  SP"
+"           0   1
+0  SAO PAULO  SP"
+"                0   1
+0          MANAUS  AM
+1  RIO DE JANEIRO  RJ"
+"           0   1
+0   BRASILIA  DF
+1    ITAGUAI  RJ
+2  AMERICANA  SP
+3  SAO PAULO  SP"
+"             0   1
+0   ABRE CAMPO  MG
+1        CASCA  RS
+2       ITAPOA  SC
+3  PAULO LOPES  SC"
+"            0   1
+0  IMPERATRIZ  MA"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           GOIANIA  GO
+2          ARAGUARI  MG
+3     CAXIAS DO SUL  RS
+4      PORTO ALEGRE  RS"
+"                       0   1
+0             ALAGOINHAS  BA
+1  SAO JOSE DO RIO PRETO  SP
+2    SAO JOSE DOS CAMPOS  SP"
+"           0   1
+0  BARBACENA  MG
+1    PINHAIS  PR
+2  SAO PAULO  SP
+3     PALMAS  TO"
+"             0   1
+0     JUAZEIRO  BA
+1     SALVADOR  BA
+2  TERESOPOLIS  RJ
+3      BARUERI  SP
+4       SUMARE  SP"
+"           0   1
+0  SAO PAULO  SP"
+"                 0   1
+0          ARACRUZ  ES
+1           LAVRAS  MG
+2   PATOS DE MINAS  MG
+3          VAZANTE  MG
+4           CUIABA  MT
+5      PARAUAPEBAS  PA
+6           RECIFE  PE
+7        APUCARANA  PR
+8         CURITIBA  PR
+9           MARICA  RJ
+10     SAO GONCALO  RJ
+11           NATAL  RN
+12          ARARAS  SP
+13         ATIBAIA  SP
+14          FRANCA  SP"
+"            0   1
+0  SAO MATEUS  ES
+1     TUCURUI  PA
+2    CURITIBA  PR"
+"                       0   1
+0  SAO JOSE DO RIO PRETO  SP"
+"                0   1
+0           SERRA  ES
+1         CLAUDIO  MG
+2  RIO DE JANEIRO  RJ
+3       SAO PAULO  SP"
+"                0   1
+0       CARIACICA  ES
+1          RECIFE  PE
+2   FOZ DO IGUACU  PR
+3  RIO DE JANEIRO  RJ"
+"          0   1
+0  SOROCABA  SP"
+"                        0   1
+0        CANAL ELETRONICO  --
+1                 EUSEBIO  CE
+2                 GOIANIA  GO
+3  VITORIA DE SANTO ANTAO  PE
+4          RIO DE JANEIRO  RJ"
+"                  0   1
+0  CANAL ELETRONICO  --
+1      CAMPO GRANDE  MS"
+"                       0   1
+0               ANAPOLIS  GO
+1                CARUARU  PE
+2                 LORENA  SP
+3  SAO BERNARDO DO CAMPO  SP"
+"                           0   1
+0     BARRA DE SAO FRANCISCO  ES
+1                  RIO VERDE  GO
+2   SANTA TEREZINHA DE GOIAS  GO
+3   SAO LUIS DE MONTES BELOS  GO
+4         CORONEL FABRICIANO  MG
+5                DIVINOPOLIS  MG
+6              MONTE CARMELO  MG
+7              FATIMA DO SUL  MS
+8               RONDONOPOLIS  MT
+9       ELDORADO DOS CARAJAS  PA
+10                    IBAITI  PR
+11            RIO DE JANEIRO  RJ
+12              PORTO ALEGRE  RS
+13          FRANCISCO MORATO  SP
+14                  ILHABELA  SP
+15                   PERUIBE  SP
+16                 SAO PAULO  SP"
+"           0   1
+0  APUCARANA  PR"
+"                   0   1
+0           BRASILIA  DF
+1            GOIANIA  GO
+2  CONCEICAO DO PARA  MG
+3               MAGE  RJ"
+"                      0   1
+0                MACAPA  AP
+1  CONSELHEIRO LAFAIETE  MG
+2             COSMORAMA  SP"
+"           0   1
+0   SALVADOR  BA
+1   CASCAVEL  PR
+2    CHAPECO  SC
+3  SAO PAULO  SP"
+"           0   1
+0   BRASILIA  DF
+1   PIRIPIRI  PI
+2   CACAPAVA  SP
+3  SAO PAULO  SP"
+"            0   1
+0  MOGI GUACU  SP
+1   SAO PAULO  SP"
+"                    0   1
+0    DOMINGOS MARTINS  ES
+1       TEOFILO OTONI  MG
+2              ARARAS  SP
+3            CAMPINAS  SP
+4  SAO CAETANO DO SUL  SP
+5           SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1        RIO BRANCO  AC
+2           GOIANIA  GO
+3       PIRENOPOLIS  GO
+4             BELEM  PA
+5          BOTUCATU  SP
+6    RIBEIRAO PRETO  SP
+7         SAO PAULO  SP
+8            PALMAS  TO"
+"              0   1
+0  PONTA GROSSA  PR
+1     AMERICANA  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1         SAO PAULO  SP"
+"                        0   1
+0                SALVADOR  BA
+1             DIVINOPOLIS  MG
+2               ARAPONGAS  PR
+3               CABO FRIO  RJ
+4           VOLTA REDONDA  RJ
+5                GRAVATAI  RS
+6               TRAMANDAI  RS
+7             PEDERNEIRAS  SP
+8   SAO BERNARDO DO CAMPO  SP
+9               SAO SIMAO  SP
+10                 SUMARE  SP"
+"                     0   1
+0     CANAL ELETRONICO  --
+1               MANAUS  AM
+2  SAO JOAO DA VARJOTA  PI
+3         PORTO ALEGRE  RS
+4              ITAPEVI  SP"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"          0   1
+0   VITORIA  ES
+1  DUARTINA  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1    RIO DE JANEIRO  RJ
+2         SAO PAULO  SP"
+"            0   1
+0     ITABUNA  BA
+1      POCOES  BA
+2    CURITIBA  PR
+3     LIMEIRA  SP
+4  PIRACICABA  SP"
+"           0   1
+0    VITORIA  ES
+1  PONTALINA  GO"
+"                          0   1
+0                  HEITORAI  GO
+1                  DOURADOS  MS
+2  SANTO ANTONIO DO PARAISO  PR
+3                     JALES  SP"
+"           0   1
+0   AMARGOSA  BA
+1    FORMIGA  MG
+2    ITAOBIM  MG
+3       MOJU  PA
+4  JOINVILLE  SC
+5  SAO PAULO  SP"
+"              0   1
+0  PONTA GROSSA  PR"
+"         0   1
+0   SANTOS  SP
+1  TAUBATE  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          ELDORADO  MS"
+"          0   1
+0  SALTINHO  SP"
+"                         0   1
+0                   CUIABA  MT
+1               GUAPIMIRIM  RJ
+2                 SAO JOSE  SC
+3  SITIO NOVO DO TOCANTINS  TO"
+"                  0   1
+0  CANAL ELETRONICO  --
+1             BETIM  MG
+2     PARA DE MINAS  MG
+3         CASTANHAL  PA
+4   ANITA GARIBALDI  SC
+5         ARACATUBA  SP
+6          CAMPINAS  SP
+7           JACAREI  SP
+8         SAO PAULO  SP"
+"             0   1
+0  SANTA LUZIA  MG
+1       SANTOS  SP"
+"        0   1
+0  SANTOS  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          ITANHAEM  SP
+2         SAO PAULO  SP"
+"            0   1
+0  COTRIGUACU  MT
+1   JI-PARANA  RO
+2     JACAREI  SP"
+"                   0   1
+0   CANAL ELETRONICO  --
+1  MARCIONILIO SOUZA  BA"
+"                         0   1
+0  SANTO ANTONIO DO AMPARO  MG
+1       SAO PEDRO DA UNIAO  MG"
+"                0   1
+0  BELO HORIZONTE  MG
+1  RIO DE JANEIRO  RJ
+2       MULITERNO  RS
+3         ARACAJU  SE
+4       SAO PAULO  SP"
+"          0   1
+0    CUIABA  MT
+1  CASCAVEL  PR"
+"                 0   1
+0          GOIANIA  GO
+1  NAZARE PAULISTA  SP"
+"               0   1
+0         MANAUS  AM
+1     UBERLANDIA  MG
+2  RIO BRILHANTE  MS"
+"                0   1
+0    CAMPO GRANDE  MS
+1  RIO DE JANEIRO  RJ"
+"                     0   1
+0               MACAPA  AP
+1              GOIANIA  GO
+2       BELO HORIZONTE  MG
+3  SANTANA DO ARAGUAIA  PA
+4             CURITIBA  PR
+5            SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          BRASILIA  DF
+2        VILA VELHA  ES
+3             BAURU  SP
+4          PALMITAL  SP"
+"             0   1
+0     BRASILIA  DF
+1  SANTO ANDRE  SP
+2    SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           VITORIA  ES"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           NAVIRAI  MS
+2      CACHOEIRINHA  RS"
+"                     0   1
+0            ITABIRITO  MG
+1   SAO JOAO DE MERITI  RJ
+2        VOLTA REDONDA  RJ
+3  OURO PRETO DO OESTE  RO
+4     MARQUES DE SOUZA  RS"
+"            0   1
+0  NAVEGANTES  SC"
+"                0   1
+0          ARUANA  GO
+1          CUIABA  MT
+2  RIO DE JANEIRO  RJ"
+"                  0   1
+0  CANAL ELETRONICO  --
+1     MONTES CLAROS  MG"
+"                      0   1
+0                FUNDAO  ES
+1  GUIA LOPES DA LAGUNA  MS
+2             GUARABIRA  PB
+3        RIO DE JANEIRO  RJ
+4               LAJEADO  RS
+5                 BAURU  SP
+6               GUARUJA  SP
+7            MONTE ALTO  SP
+8             SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          SOROCABA  SP
+2            SUMARE  SP"
+"                       0   1
+0         BELO HORIZONTE  MG
+1                MARIANA  MG
+2      PLANALTO DA SERRA  MT
+3                  BELEM  PA
+4                 FRANCA  SP
+5            SANTO ANDRE  SP
+6  SAO JOSE DO RIO PRETO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          LONDRINA  PR"
+"                    0   1
+0  CARMO DO RIO CLARO  MG
+1            ITATIAIA  RJ
+2      RIO DE JANEIRO  RJ
+3     ITAQUAQUECETUBA  SP
+4           SAO PAULO  SP"
+"                0   1
+0        CURITIBA  PR
+1  EMBU DAS ARTES  SP
+2       SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1            MANAUS  AM
+2       SAO GONCALO  RJ
+3     FLORIANOPOLIS  SC
+4     CARAGUATATUBA  SP
+5          SOROCABA  SP"
+"             0   1
+0      GOIANIA  GO
+1     DOURADOS  MS
+2  SAO GABRIEL  RS
+3  SANTO ANDRE  SP
+4    SAO PAULO  SP
+5    SAO ROQUE  SP"
+"            0   1
+0   FORTALEZA  CE
+1  VILA VELHA  ES
+2      TUNTUM  MA
+3    TERESINA  PI"
+"                  0   1
+0  LAURO DE FREITAS  BA"
+"        0   1
+0  CUIABA  MT"
+"           0   1
+0      PATOS  PB
+1  SAO PAULO  SP"
+"                   0   1
+0  EUCLIDES DA CUNHA  BA
+1            MARINGA  PR"
+"       0   1
+0  JATAI  GO"
+"           0   1
+0  APARECIDA  SP"
+"             0   1
+0  LAGOA SANTA  MG"
+"                0   1
+0  BELO HORIZONTE  MG"
+"        0   1
+0  FRANCA  SP"
+"        0   1
+0  ARAPEI  SP"
+"                0   1
+0         ITABUNA  BA
+1  BELO HORIZONTE  MG
+2  RIBEIRAO PRETO  SP
+3       SAO PEDRO  SP"
+"             0   1
+0  LAGOA SANTA  MG"
+"                      0   1
+0  SAO JOAO EVANGELISTA  MG
+1                 BELEM  PA
+2           ALTO PARANA  PR
+3                 COTIA  SP"
+"           0   1
+0    GOIANIA  GO
+1   SAO LUIS  MA
+2    PINHAIS  PR
+3      AVARE  SP
+4  SAO PAULO  SP"
+"                       0   1
+0       CANAL ELETRONICO  --
+1               CURITIBA  PR
+2                NITEROI  RJ
+3               ESPUMOSO  RS
+4                 TORRES  RS
+5  SAO BERNARDO DO CAMPO  SP
+6              SAO PAULO  SP"
+"          0   1
+0  SAO LUIS  MA"
+"             0   1
+0  PORTO FIRME  MG"
+"                      0   1
+0  APARECIDA DE GOIANIA  GO
+1                 COTIA  SP"
+"               0   1
+0       BRASILIA  DF
+1          POSSE  GO
+2      TRES RIOS  RJ
+3  GUARATINGUETA  SP"
+"                   0   1
+0  GUARANTA DO NORTE  MT"
+"           0   1
+0     RECIFE  PE
+1  SAO PAULO  SP"
+"             0   1
+0  SANTA LUZIA  MG"
+"                      0   1
+0              CONDEUBA  BA
+1            HELIOPOLIS  BA
+2  APARECIDA DE GOIANIA  GO
+3           PORTEIRINHA  MG
+4                MARICA  RJ
+5             ARIQUEMES  RO"
+"                        0   1
+0  SAO MATEUS DO MARANHAO  MA
+1     PRESIDENTE EPITACIO  SP"
+"            0   1
+0  ANANINDEUA  PA"
+"                          0   1
+0          CANAL ELETRONICO  --
+1           ANTONIO CARDOSO  BA
+2                  SALVADOR  BA
+3   CACHOEIRO DE ITAPEMIRIM  ES
+4     SANTA HELENA DE GOIAS   G
+5                   GOIANIA  GO
+6                PERI MIRIM  MA
+7                     ARCOS  MG
+8                   IBIRITE  MG
+9                  PITANGUI  MG
+10                 MARACAJU  MS
+11                    BELEM  PA
+12                  GRAVATA  PE
+13           RIO DE JANEIRO  RJ
+14                    NATAL  RN
+15          BENTO GONCALVES  RS
+16         CACHOEIRA DO SUL  RS
+17                   CANOAS  RS
+18             PORTO ALEGRE  RS
+19                 CAPINZAL  SC
+20                  CHAPECO  SC
+21           JARAGUA DO SUL  SC
+22                JOINVILLE  SC
+23                  ARACAJU  SE
+24                ARACATUBA  SP
+25                  BOITUVA  SP
+26                 COROADOS  SP
+27                  JANDIRA  SP
+28               MONTE ALTO  SP
+29               PIRACICABA  SP"
+"                     0   1
+0     CANAL ELETRONICO  --
+1  CENTRO DO GUILHERME  MA"
+"               0   1
+0        GOIANIA  GO
+1   JUIZ DE FORA  MG
+2  MONTES CLAROS  MG
+3       CANDIOTA  RS
+4    CARAPICUIBA  SP
+5    SANTO ANDRE  SP
+6      SAO PAULO  SP"
+"           0   1
+0    UBERABA  MG
+1  CRAVINHOS  SP"
+"                    0   1
+0    CANAL ELETRONICO  --
+1        CAMPO ALEGRE  AL
+2   BOM JESUS DA LAPA  BA
+3            CAMACARI  BA
+4    CORACAO DE MARIA  BA
+5           ESPLANADA  BA
+6    FEIRA DE SANTANA  BA
+7           FORTALEZA   C
+8             CAUCAIA  CE
+9            BRASILIA  DF
+10            CATALAO  GO
+11            FORMOSA  GO
+12              ARAXA  MG
+13          BARBACENA  MG
+14     BELO HORIZONTE  MG
+15      CAMPO DO MEIO  MG
+16              BELEM  PA
+17     CAMPINA GRANDE  PB
+18          FERREIROS  PE
+19          ARAUCARIA  PR
+20         CAFELANDIA  PR
+21          BOA VISTA  RR
+22          BOSSOROCA  RS
+23            ARACAJU  SE
+24          ANDRADINA  SP
+25       BREJO ALEGRE  SP
+26      CARAGUATATUBA  SP
+27          CERQUILHO  SP
+28              COTIA  SP
+29     AUGUSTINOPOLIS  TO"
+"            0   1
+0  CAMPANARIO  MG
+1  UBERLANDIA  MG
+2      RECIFE  PE
+3    CURITIBA  PR
+4        MAUA  SP"
+"         0   1
+0   FRUTAL  MG
+1  ITAPEMA  SC"
+"            0   1
+0  COTRIGUACU  MT"
+"         0   1
+0  MARINGA  PR"
+"                0   1
+0  BELO HORIZONTE  MG
+1     CURITIBANOS  SC"
+"       0   1
+0  ARACI  BA"
+"                     0   1
+0  CENTRO DO GUILHERME  MA
+1           VESPASIANO  MG
+2         PONTA GROSSA  PR
+3     PASSO DO SOBRADO  RS"
+"         0   1
+0  UBATUBA  SP"
+"                0   1
+0        CANDEIAS  BA
+1        SAO LUIS  MA
+2        CASCAVEL  PR
+3  JARAGUA DO SUL  SC"
+"          0   1
+0  BRASILIA  DF"
+"           0   1
+0  SAO PAULO  SP
+1    COLMEIA  TO"
+"                      0   1
+0               NITEROI  RJ
+1  PARAISO DO TOCANTINS  TO"
+"           0   1
+0  SAO PAULO  SP"
+"         0   1
+0  UBERABA  MG"
+"           0   1
+0  SAO PAULO  SP"
+"          0   1
+0  CIANORTE  PR"
+"                  0   1
+0  PONTES E LACERDA  MT
+1         SAO PAULO  SP"
+"                0   1
+0  BELO HORIZONTE  MG"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          CURITIBA  PR
+2    RIO DE JANEIRO  RJ
+3   ITAQUAQUECETUBA  SP"
+"           0   1
+0   BRASILIA  DF
+1   CURITIBA  PR
+2  SAO PAULO  SP"
+"           0   1
+0    GOIANIA  GO
+1    CHAPECO  SC
+2  GUARULHOS  SP
+3     PALMAS  TO"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"       0   1
+0  LAGES  SC"
+"                0   1
+0  BELO HORIZONTE  MG
+1        TERESINA  PI
+2        CURITIBA  PR"
+"           0   1
+0   SALVADOR  BA
+1  JI-PARANA  RO"
+"            0   1
+0  IMPERATRIZ  MA"
+"          0   1
+0  TAPEJARA  RS"
+"        0   1
+0  MANAUS  AM"
+"                0   1
+0      DOM AQUINO  MT
+1        PAULISTA  PE
+2          RECIFE  PE
+3  RIO DE JANEIRO  RJ
+4         ANHUMAS  SP"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"                  0   1
+0  FEIRA DE SANTANA  BA
+1    BELO HORIZONTE  MG
+2        LEOPOLDINA  MG
+3     TEOFILO OTONI  MG
+4    RIO DE JANEIRO  RJ"
+"                0   1
+0        BRASILIA  DF
+1         JARAGUA  GO
+2  BELO HORIZONTE  MG
+3      DIANOPOLIS  TO"
+"         0   1
+0  LIMEIRA  SP"
+"                0   1
+0      VILA VELHA  ES
+1     PARAGOMINAS  PA
+2  ROLIM DE MOURA  RO
+3    RIO DO OESTE  SC
+4  MONTE DO CARMO  TO"
+"                     0   1
+0             LONDRINA  PR
+1  OURO PRETO DO OESTE  RO"
+"                      0   1
+0              GUANAMBI  BA
+1               ITABUNA  BA
+2  APARECIDA DE GOIANIA  GO
+3         NOVO HAMBURGO  RS
+4     BRAGANCA PAULISTA  SP
+5   PRESIDENTE PRUDENTE  SP
+6             SAO PAULO  SP"
+"                       0   1
+0       CANAL ELETRONICO  --
+1               ALVORADA  RS
+2  SANTA BARBARA D'OESTE  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1               POA  SP"
+"         0   1
+0  PRAINHA  PA
+1   PALMAS  TO"
+"         0   1
+0  SORRISO  MT"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          CURITIBA  PR
+2          BLUMENAU  SC"
+"         0   1
+0  ERECHIM  RS"
+"              0   1
+0  CALDAS NOVAS  GO"
+"             0   1
+0  SANTA MARIA  RS"
+"            0   1
+0  ANTA GORDA  RS
+1   SAO PAULO  SP"
+"       0   1
+0  SINOP  MT"
+"                           0   1
+0                  PAPAGAIOS  MG
+1                      MACAE  RJ
+2               PORTO ALEGRE  RS
+3  SANTO ANTONIO DA PATRULHA  RS"
+"          0   1
+0  SALVADOR  BA"
+"           0   1
+0     RUSSAS  CE
+1    GOIANIA  GO
+2  PARANAGUA  PR
+3    LIMEIRA  SP"
+"            0   1
+0  RIO DO SUL  SC"
+"            0   1
+0  PARNAMIRIM  RN
+1   SAO PAULO  SP"
+"            0   1
+0     VITORIA  ES
+1  MARIAPOLIS  SP"
+"        0   1
+0  OSASCO  SP"
+"             0   1
+0       VICOSA  MG
+1  HORIZONTINA  RS"
+"              0   1
+0  RONDONOPOLIS  MT"
+"              0   1
+0        MANAUS  AM
+1      BRASILIA  DF
+2     CARIACICA  ES
+3         JATAI  GO
+4      SAO LUIS  MA
+5  PORTO ALEGRE  RS"
+"             0   1
+0  SETE LAGOAS  MG
+1    SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"                  0   1
+0           PALHANO  CE
+1      JUIZ DE FORA  MG
+2  UNIAO DA VITORIA  PR
+3         GUARULHOS  SP"
+"             0   1
+0      INDAIAL  SC
+1  PORTO UNIAO  SC
+2          ITU  SP
+3    SAO PAULO  SP"
+"             0   1
+0     LONDRINA  PR
+1  HORTOLANDIA  SP
+2    SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          ANAPOLIS  GO
+2          CAMBORIU  SC
+3         SAO PAULO  SP"
+"              0   1
+0  JUIZ DE FORA  MG"
+"           0   1
+0  FORTALEZA  CE
+1   TERESINA  PI"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"                     0   1
+0              JURUAIA  MG
+1             ITAOCARA  RJ
+2  SAO JOSE DOS CAMPOS  SP"
+"                    0   1
+0  BALNEARIO CAMBORIU  SC
+1              SANTOS  SP"
+"               0   1
+0  VARZEA GRANDE  MT"
+"                0   1
+0  BELO HORIZONTE  MG
+1        IPATINGA  MG"
+"                   0   1
+0  ALFREDO MARCONDES  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          BRASILIA  DF"
+"                  0   1
+0  CANAL ELETRONICO  --
+1       PASSO FUNDO  RS"
+"             0   1
+0  BARRA MANSA  RJ
+1       ITAJAI  SC"
+"                     0   1
+0  ASSIS CHATEAUBRIAND  PR"
+"                0   1
+0  BELO HORIZONTE  MG"
+"                  0   1
+0  PRESIDENTE DUTRA  MA
+1          SAO JOSE  SC"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1         GUARUJA  SP
+2       GUARULHOS  SP
+3          PALMAS  TO"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1   FLORIANOPOLIS  SC"
+"         0   1
+0  PINHAIS  PR"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"                       0   1
+0               BRASILIA  DF
+1  SAO JOSE DO RIO PRETO  SP
+2              SAO PAULO  SP"
+"                          0   1
+0  SAO GABRIEL DA CACHOEIRA  AM
+1                     BELEM  PA
+2               JOAO PESSOA  PB"
+"              0   1
+0      CURITIBA  PR
+1  PORTO ALEGRE  RS"
+"          0   1
+0  MIRASSOL  SP"
+"          0   1
+0  BRASILIA  DF"
+"                0   1
+0          MANAUS  AM
+1          CANOAS  RS
+2  PORTO DA FOLHA  SE
+3        BOTUCATU  SP"
+"                 0   1
+0  DUQUE DE CAXIAS  RJ"
+"                       0   1
+0               SALVADOR  BA
+1  SANTA MARIA DE JETIBA  ES"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"       0   1
+0  PICOS  PI"
+"           0   1
+0  SAO PAULO  SP"
+"           0   1
+0  ORIXIMINA  PA"
+"                  0   1
+0  CANAL ELETRONICO  --
+1         SAO PAULO  SP"
+"                 0   1
+0  POCOS DE CALDAS  MG
+1      SAO GONCALO  RJ"
+"           0   1
+0   BRASILIA  DF
+1  SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"         0   1
+0  MERUOCA  CE"
+"                  0   1
+0  CANAL ELETRONICO  --
+1              UNAI  MG
+2         ARAPONGAS  PR
+3         ARAGUAINA  TO
+4            PALMAS  TO"
+"                       0   1
+0  SAO JERONIMO DA SERRA  PR"
+"                0   1
+0  CAMPINA GRANDE  PB
+1       SAO PAULO  SP"
+"                        0   1
+0                BRASILIA  DF
+1                 IBIRITE  MG
+2  SERRANOPOLIS DO IGUACU  PR"
+"                0   1
+0          MANAUS  AM
+1  BELO HORIZONTE  MG"
+"         0   1
+0  GOIANIA  GO
+1  GOIOERE  PR"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           BARUERI  SP"
+"       0   1
+0  TURVO  SC"
+"         0   1
+0  GOIANIA  GO"
+"                  0   1
+0  CANAL ELETRONICO  --
+1            ILHEUS  BA"
+"                     0   1
+0     CANAL ELETRONICO  --
+1  TEIXEIRA DE FREITAS  BA
+2             BRASILIA  DF
+3               CUIABA  MT
+4        VARZEA GRANDE  MT
+5          PEDERNEIRAS  SP"
+"                0   1
+0          VICOSA  MG
+1  RIO DE JANEIRO  RJ
+2       ENCANTADO  RS"
+"       0   1
+0  COXIM  MS"
+"           0   1
+0  APUCARANA  PR"
+"               0   1
+0  VARZEA GRANDE  MT"
+"                       0   1
+0              BARREIRAS  BA
+1              MARACANAU  CE
+2              NEROPOLIS  GO
+3         BELO HORIZONTE  MG
+4   GOVERNADOR VALADARES  MG
+5           PONTA GROSSA  PR
+6           CANGUARETAMA  RN
+7                CACADOR  SC
+8                CAJAMAR  SP
+9                 PONTAL  SP
+10                 ALMAS  TO"
+"            0   1
+0    BRASILIA  DF
+1  CRISTALINA  GO"
+"          0   1
+0  MONGAGUA  SP"
+"                       0   1
+0          MONTES CLAROS  MG
+1  SANTA BARBARA D'OESTE  SP"
+"                  0   1
+0    PATOS DE MINAS  MG
+1  SAO JOAO DEL REI  MG"
+"                  0   1
+0  CANAL ELETRONICO  --
+1         FORTALEZA  CE"
+"          0   1
+0  MANHUACU  MG"
+"                0   1
+0        BRASILIA  DF
+1  RIO DE JANEIRO  RJ
+2    PORTO ALEGRE  RS"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          DOURADOS  MS
+2         AURIFLAMA  SP"
+"                       0   1
+0  SANTA MARIA DE JETIBA  ES
+1                GOIANIA  GO"
+"           0   1
+0  MAIRINQUE  SP"
+"           0   1
+0  BOA VISTA  RR
+1      TIETE  SP"
+"          0   1
+0  CURITIBA  PR
+1  BLUMENAU  SC"
+"               0   1
+0        UBERABA  MG
+1  VARZEA GRANDE  MT
+2  SAO SEBASTIAO  SP"
+"                       0   1
+0  PIEDADE DE PONTE NOVA  MG"
+"             0   1
+0    ARARIPINA  PE
+1  PORTO VELHO  RO"
+"           0   1
+0  GUARATUBA  PR
+1    VIDEIRA  SC"
+"               0   1
+0  IRAI DE MINAS  MG"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          TERESINA  PI"
+"                  0   1
+0  CANAL ELETRONICO  --
+1         FORTALEZA  CE
+2     PARA DE MINAS  MG
+3           CARUARU  PE
+4             LAGES  SC
+5        COSMOPOLIS  SP
+6     ILHA SOLTEIRA  SP
+7            OSASCO  SP
+8         SAO PAULO  SP"
+"                       0   1
+0              FORTALEZA  CE
+1  SANTA RITA DO SAPUCAI  MG
+2                   LAPA  PR"
+"            0   1
+0  GUARAPUAVA  PR"
+"                 0   1
+0  MANOEL VITORINO  BA"
+"               0   1
+0  BURITI ALEGRE  GO
+1       IPIRANGA  PR
+2       UMUARAMA  PR"
+"         0   1
+0    BELEM  PA
+1  BARAUNA  RN"
+"           0   1
+0  MARACANAU  CE"
+"                  0   1
+0  CANAL ELETRONICO  --
+1    BELO HORIZONTE  MG
+2             PIRAI  RJ
+3         SAO PAULO  SP"
+"                0   1
+0           SERRA  ES
+1  ESTANCIA VELHA  RS
+2      ARARAQUARA  SP
+3         ATIBAIA  SP"
+"                      0   1
+0                 ARACI  BA
+1              SALVADOR  BA
+2  APARECIDA DE GOIANIA  GO
+3              SAO LUIS  MA
+4           SABINOPOLIS  MG
+5    PRIMAVERA DO LESTE  MT
+6          RONDONOPOLIS  MT
+7               CARUARU  PE
+8                  OURO  SC
+9             SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           PERUIBE  SP"
+"                   0   1
+0   RIO PRETO DA EVA  AM
+1            GOIANIA  GO
+2      MONTES CLAROS  MG
+3     PATOS DE MINAS  MG
+4          PARANAVAI  PR
+5            SARANDI  PR
+6      FLORIANOPOLIS  SC
+7    MOGI DAS CRUZES  SP
+8             SUMARE  SP
+9    TABOAO DA SERRA  SP
+10         ARAGUAINA  TO"
+"                  0   1
+0  CANAL ELETRONICO  --
+1         SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"                       0   1
+0      CANAA DOS CARAJAS  PA
+1  CAMPOS DOS GOYTACAZES  RJ
+2                 PALMAS  TO"
+"                       0   1
+0       CANAL ELETRONICO  --
+1                CRATEUS  CE
+2  SAO JOSE DO RIO PARDO  SP"
+"         0   1
+0  BRUSQUE  SC"
+"          0   1
+0  CAMPINAS  SP"
+"                       0   1
+0                  COTIA  SP
+1  SAO BERNARDO DO CAMPO  SP
+2              SAO PAULO  SP"
+"                    0   1
+0  UNIAO DOS PALMARES  AL
+1          ALAGOINHAS  BA
+2    FEIRA DE SANTANA  BA
+3               MACAE  RJ"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           CHAPECO  SC"
+"        0   1
+0  MANAUS  AM"
+"           0   1
+0  FORTALEZA  CE
+1  SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           JACAREI  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1         CABO FRIO  RJ
+2           CHAPECO  SC
+3         SAO PAULO  SP"
+"           0   1
+0   CONTAGEM  MG
+1   CAMPINAS  SP
+2  PENAPOLIS  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           JANDIRA  SP"
+"         0   1
+0  DIADEMA  SP"
+"            0   1
+0     PALHOCA  SC
+1  PEQUIZEIRO  TO"
+"                  0   1
+0  CANAL ELETRONICO  --
+1         SAO PAULO  SP"
+"                0   1
+0        TERESINA  PI
+1      NAVEGANTES  SC
+2  RIBEIRAO PIRES  SP"
+"          0   1
+0  BRASILIA  DF
+1  SAO LUIS  MA"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"        0   1
+0  MACEIO  AL"
+"                0   1
+0  RIO DE JANEIRO  RJ
+1      MOGI GUACU  SP"
+"             0   1
+0  SETE LAGOAS  MG"
+"                 0   1
+0   BELO HORIZONTE  MG
+1  CARMO DO CAJURU  MG
+2      DIVINOPOLIS  MG"
+"                  0   1
+0  CANAL ELETRONICO  --
+1            SANTOS  SP"
+"            0   1
+0  UBERLANDIA  MG"
+"           0   1
+0   CAMPINAS  SP
+1  SAO PAULO  SP"
+"             0   1
+0     BRASILIA  DF
+1  PORTO VELHO  RO
+2      UMBAUBA  SE"
+"                       0   1
+0                GOIANIA  GO
+1          TEOFILO OTONI  MG
+2                LIMEIRA  SP
+3  SAO BERNARDO DO CAMPO  SP"
+"                 0   1
+0          ATIBAIA  SP
+1  MOGI DAS CRUZES  SP
+2           ROSANA  SP"
+"                 0   1
+0         CONTAGEM  MG
+1  DUQUE DE CAXIAS  RJ
+2   RIBEIRAO PRETO  SP"
+"               0   1
+0       TERESINA  PI
+1  CARAGUATATUBA  SP
+2   OSVALDO CRUZ  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          CAMPINAS  SP
+2    RIBEIRAO PRETO  SP
+3        NATIVIDADE  TO"
+"           0   1
+0     MUCUGE  BA
+1  FORTALEZA  CE
+2     URUACU  GO
+3     OSASCO  SP
+4  SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1              MAGE  RJ"
+"       0   1
+0  BETIM  MG"
+"              0   1
+0      SAO LUIS  MA
+1      PAULISTA  PE
+2         NATAL  RN
+3   PASSO FUNDO  RS
+4  SAO LEOPOLDO  RS"
+"                0   1
+0        TERESINA  PI
+1  RIO DE JANEIRO  RJ"
+"                  0   1
+0  CANAL ELETRONICO  --
+1        PETROPOLIS  RJ"
+"                  0   1
+0  CANAL ELETRONICO  --
+1         FORTALEZA  CE
+2          SAO LUIS  MA"
+"                0   1
+0       GOIANESIA  GO
+1  BELO HORIZONTE  MG
+2   NOVA FRIBURGO  RJ
+3       SAO PAULO  SP"
+"                       0   1
+0                  PICOS  PI
+1  CAMPOS DOS GOYTACAZES  RJ"
+"           0   1
+0    JUNDIAI  SP
+1  SAO PAULO  SP"
+"                  0   1
+0  CANAL ELETRONICO  --
+1       CASA BRANCA  SP
+2         SAO PAULO  SP"
+"                        0   1
+0        CANAL ELETRONICO  --
+1                SALVADOR  BA
+2              IMPERATRIZ  MA
+3   SAO JERONIMO DA SERRA  PR
+4                 MARILIA  SP
+5               SAO PAULO  SP
+6  APARECIDA DO RIO NEGRO  TO"
+"          0   1
+0  SALVADOR  BA
+1  BOTUCATU  SP"
+"           0   1
+0  SAO PAULO  SP"
+"        0   1
+0   SINOP  MT
+1  TACIBA  SP"
+"            0   1
+0  RIO BRANCO  AC
+1  MARACACUME  MA
+2     ARACAJU  SE"
+"               0   1
+0  MONTES CLAROS  MG
+1          BAURU  SP
+2         FRANCA  SP"
+"          0   1
+0  BRASILIA  DF"
+"                 0   1
+0         CASCAVEL  PR
+1    VOLTA REDONDA  RJ
+2  PINDAMONHANGABA  SP"
+"                     0   1
+0             TERESINA  PI
+1  SAO JOSE DOS CAMPOS  SP"
+"                0   1
+0  RIO DE JANEIRO  RJ"
+"                  0   1
+0  CANAL ELETRONICO  --
+1          BRASILIA  DF
+2    RIO DE JANEIRO  RJ
+3      PRAIA GRANDE  SP"
+"                  0   1
+0  SIMPLICIO MENDES  PI"
+"                      0   1
+0  PRESIDENTE VENCESLAU  SP"
+"                 0   1
+0         BRASILIA  DF
+1  CRUZEIRO DO SUL  PR
+2  DUQUE DE CAXIAS  RJ"
+"           0   1
+0  AMERICANA  SP"
+"             0   1
+0       MANAUS  AM
+1  JOAO PESSOA  PB
+2    SAO PAULO  SP"
+"                       0   1
+0       CANAL ELETRONICO  --
+1               SALVADOR  BA
+2         BELO HORIZONTE  MG
+3                 CUIABA  MT
+4               CURITIBA  PR
+5                LAJEADO  RS
+6                JUNDIAI  SP
+7  SAO JOSE DO RIO PRETO  SP
+8              SAO PAULO  SP
+9                TAUBATE  SP"
+"         0   1
+0  UBERABA  MG
+1   CUIABA  MT"
+"                  0   1
+0  CANAL ELETRONICO  --
+1           SANTANA  AP"
+"         0   1
+0  GOIANIA  GO"
+"                  0   1
+0  CANAL ELETRONICO  --"
+"                 0   1
+0  NOVA SANTA ROSA  PR"
+"          0   1
+0    MANAUS  AM
+1  MACAUBAS  BA
+2    POJUCA  BA
+3  CURITIBA  PR"
